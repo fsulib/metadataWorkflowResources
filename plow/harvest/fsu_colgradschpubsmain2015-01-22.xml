@@ -1,0 +1,328 @@
+<repository xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"      xmlns:dc="http://purl.org/dc/elements/1.1/"      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instanc">
+<record><header><identifier>oai:fsu.digital.flvc.org:fsu_902</identifier><datestamp>2013-09-25T15:38:18Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Bulletin 1952</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">2186446
+</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Florida State University</dc:creator>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">399 pages</dc:description>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://purl.flvc.org/fcla/dt/2186446</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"> Florida State University asserts copyright for this object. All requests for permission to publish, broadcast or otherwise reproduce from this item must be submitted in writing to the copyright owner unless otherwise stated.</dc:rights>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">FSDT2186446</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:902</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_398</identifier><datestamp>2013-09-25T15:36:59Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>fsu:398</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_215</identifier><datestamp>2013-09-25T15:35:32Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>fsu:215</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_401</identifier><datestamp>2013-09-25T15:36:59Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>fsu:401</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_374</identifier><datestamp>2013-09-25T15:36:24Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>fsu:374</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_424</identifier><datestamp>2013-09-25T15:35:51Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>fsu:424</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_425</identifier><datestamp>2013-09-25T15:35:51Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>fsu:425</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_431</identifier><datestamp>2013-09-25T15:37:44Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>fsu:431</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_429</identifier><datestamp>2013-09-25T15:37:44Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>fsu:429</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_220</identifier><datestamp>2013-09-25T15:35:32Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>fsu:220</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_437</identifier><datestamp>2013-09-25T15:38:00Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>fsu:437</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_887</identifier><datestamp>2013-09-25T15:38:18Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Bulletin 1955</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">2186394
+</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Florida State University</dc:creator>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">378 pages</dc:description>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://purl.flvc.org/fcla/dt/2186394</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"> Florida State University asserts copyright for this object. All requests for permission to publish, broadcast or otherwise reproduce from this item must be submitted in writing to the copyright owner unless otherwise stated.</dc:rights>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">FSDT2186394</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:887</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_901</identifier><datestamp>2013-09-25T15:38:19Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Bulletin 1959</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">2186412
+</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Florida State University</dc:creator>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">287 pages</dc:description>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://purl.flvc.org/fcla/dt/2186412</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"> Florida State University asserts copyright for this object. All requests for permission to publish, broadcast or otherwise reproduce from this item must be submitted in writing to the copyright owner unless otherwise stated.</dc:rights>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">FSDT2186412</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:901</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_402</identifier><datestamp>2013-09-25T15:36:58Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>fsu:402</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_427</identifier><datestamp>2013-09-25T15:35:51Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>fsu:427</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_920</identifier><datestamp>2013-09-25T15:36:42Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Clarence Edney, 1957</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">2683033
+</dc:identifier>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Clarence Edney was a dean of the FSU School of Communications</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Edney, Clarence</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"/>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Tallahassee, Florida 1950-1959</dc:coverage>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://purl.flvc.org/fcla/dt/2683033</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University asserts copyright for this object. All requests for permission to publish, broadcast or otherwise reproduce from this item must be submitted in writing to the copyright owner unless otherwise stated.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">FSDT2683033</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:920</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_900</identifier><datestamp>2013-09-25T15:38:18Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Bulletin 1950</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">2186391
+</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Florida State University</dc:creator>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">349 pages</dc:description>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://purl.flvc.org/fcla/dt/2186391</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"> Florida State University asserts copyright for this object. All requests for permission to publish, broadcast or otherwise reproduce from this item must be submitted in writing to the copyright owner unless otherwise stated.</dc:rights>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">FSDT2186391</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:900</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_505</identifier><datestamp>2013-09-25T15:37:26Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>fsu:505</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_440</identifier><datestamp>2013-09-25T15:38:00Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>fsu:440</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_400</identifier><datestamp>2013-09-25T15:36:59Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>fsu:400</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_426</identifier><datestamp>2013-09-25T15:35:51Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>fsu:426</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_423</identifier><datestamp>2013-09-25T15:35:51Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>fsu:423</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_422</identifier><datestamp>2013-09-25T15:35:51Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>fsu:422</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_904</identifier><datestamp>2013-09-25T15:38:18Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Bulletin 1956</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">2186495
+</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Florida State University</dc:creator>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">390 pages</dc:description>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://purl.flvc.org/fcla/dt/2186495</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"> Florida State University asserts copyright for this object. All requests for permission to publish, broadcast or otherwise reproduce from this item must be submitted in writing to the copyright owner unless otherwise stated.</dc:rights>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">FSDT2186495</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:904</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_903</identifier><datestamp>2013-09-25T15:38:18Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Bulletin 1953</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">2186461
+</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Florida State University</dc:creator>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">397 pages</dc:description>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://purl.flvc.org/fcla/dt/2186461</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"> Florida State University asserts copyright for this object. All requests for permission to publish, broadcast or otherwise reproduce from this item must be submitted in writing to the copyright owner unless otherwise stated.</dc:rights>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">FSDT2186461</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:903</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_428</identifier><datestamp>2013-09-25T15:36:42Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>fsu:428</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_439</identifier><datestamp>2013-09-25T15:38:00Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>fsu:439</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_506</identifier><datestamp>2013-09-25T15:36:08Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>fsu:506</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_397</identifier><datestamp>2013-09-25T15:36:58Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>fsu:397</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_216</identifier><datestamp>2013-09-25T15:35:33Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>fsu:216</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_218</identifier><datestamp>2013-09-25T15:35:32Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>fsu:218</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_436</identifier><datestamp>2013-09-25T15:38:00Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>fsu:436</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_906</identifier><datestamp>2013-09-25T15:38:18Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Bulletin 1951</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">2186563
+</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Florida State University</dc:creator>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">397 pages</dc:description>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://purl.flvc.org/fcla/dt/2186563</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"> Florida State University asserts copyright for this object. All requests for permission to publish, broadcast or otherwise reproduce from this item must be submitted in writing to the copyright owner unless otherwise stated.</dc:rights>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">FSDT2186563</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:906</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_217</identifier><datestamp>2013-09-25T15:35:33Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>fsu:217</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_433</identifier><datestamp>2013-09-25T15:37:43Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>fsu:433</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_905</identifier><datestamp>2013-09-25T15:38:19Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Bulletin 1958</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">2186529
+</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Florida State University</dc:creator>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">342 pages</dc:description>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://purl.flvc.org/fcla/dt/2186529</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"> Florida State University asserts copyright for this object. All requests for permission to publish, broadcast or otherwise reproduce from this item must be submitted in writing to the copyright owner unless otherwise stated.</dc:rights>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">FSDT2186529</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:905</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_214</identifier><datestamp>2013-09-25T15:35:33Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>fsu:214</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_438</identifier><datestamp>2013-09-25T15:38:00Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>fsu:438</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_434</identifier><datestamp>2013-09-25T15:37:44Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>fsu:434</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_907</identifier><datestamp>2013-09-25T15:38:19Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Bulletin 1957</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">2186365
+</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Florida State University</dc:creator>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">394 pages</dc:description>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://purl.flvc.org/fcla/dt/2186365</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"> Florida State University asserts copyright for this object. All requests for permission to publish, broadcast or otherwise reproduce from this item must be submitted in writing to the copyright owner unless otherwise stated.</dc:rights>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">FSDT2186365</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:907</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_213</identifier><datestamp>2013-09-25T15:35:32Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>fsu:213</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_888</identifier><datestamp>2013-09-25T15:38:18Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Bulletin 1954</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">2186419
+</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Florida State University</dc:creator>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">378 pages</dc:description>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://purl.flvc.org/fcla/dt/2186419</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"> Florida State University asserts copyright for this object. All requests for permission to publish, broadcast or otherwise reproduce from this item must be submitted in writing to the copyright owner unless otherwise stated.</dc:rights>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">FSDT2186419</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:888</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_432</identifier><datestamp>2013-09-25T15:37:44Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>fsu:432</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_430</identifier><datestamp>2013-09-25T15:37:44Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>fsu:430</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_399</identifier><datestamp>2013-09-25T15:36:58Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>fsu:399</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_507</identifier><datestamp>2013-09-25T15:36:08Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>fsu:507</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_219</identifier><datestamp>2013-09-25T15:35:32Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>fsu:219</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_908</identifier><datestamp>2013-09-25T15:36:58Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Announcement for Graduate Assistantships in Librarianship</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">2707725
+</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">FSU Library School</dc:creator>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://purl.flvc.org/fcla/dt/2707725</dc:identifier>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">FSDT2707725</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:908</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_375</identifier><datestamp>2013-09-25T15:36:24Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>fsu:375</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_376</identifier><datestamp>2013-09-25T15:36:25Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>fsu:376</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_221</identifier><datestamp>2013-09-25T15:35:32Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>fsu:221</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_421</identifier><datestamp>2013-09-25T15:35:51Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>fsu:421</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_435</identifier><datestamp>2013-09-25T15:38:00Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>fsu:435</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_354</identifier><datestamp>2013-09-25T15:35:13Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>fsu:354</dc:identifier>
+</oai_dc:dc>
+</metadata></record>
+</repository>

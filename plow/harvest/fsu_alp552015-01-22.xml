@@ -1,0 +1,38 @@
+<repository xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"      xmlns:dc="http://purl.org/dc/elements/1.1/"      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instanc">
+<record><header><identifier>oai:fsu.digital.flvc.org:fsu_398</identifier><datestamp>2013-09-25T15:36:59Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>fsu:398</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_401</identifier><datestamp>2013-09-25T15:36:59Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>fsu:401</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_402</identifier><datestamp>2013-09-25T15:36:58Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>fsu:402</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_400</identifier><datestamp>2013-09-25T15:36:59Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>fsu:400</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_397</identifier><datestamp>2013-09-25T15:36:58Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>fsu:397</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_399</identifier><datestamp>2013-09-25T15:36:58Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>fsu:399</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_908</identifier><datestamp>2013-09-25T15:36:58Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Announcement for Graduate Assistantships in Librarianship</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">2707725
+</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">FSU Library School</dc:creator>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://purl.flvc.org/fcla/dt/2707725</dc:identifier>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">FSDT2707725</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:908</dc:identifier>
+</oai_dc:dc>
+</metadata></record>
+</repository>

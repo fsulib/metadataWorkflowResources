@@ -1,0 +1,186 @@
+<repository xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"      xmlns:dc="http://purl.org/dc/elements/1.1/"      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instanc">
+<record><header><identifier>oai:fsu.digital.flvc.org:fsu_12697</identifier><datestamp>2013-11-25T18:40:12Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Dr. Herman Kurz, Botany Dept.</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+78808</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Williams, Thomas A.</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1954</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Personal photographs of Florida State University student Thomas A. Williams (BS, Botany, 1954). These photographs are a part of the Thomas A. Williams Collection, 1954-1957 (Accession No. HP-2007-077).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Williams, Thomas A.</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Kurz, Herman</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Botany Department</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1950s</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/78808</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT78808</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:12697</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_12698</identifier><datestamp>2013-11-25T18:40:18Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Lunch Time! Field Trip</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+78809</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Williams, Thomas A.</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1954</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Personal photographs of Florida State University student Thomas A. Williams (BS, Botany, 1954). These photographs are a part of the Thomas A. Williams Collection, 1954-1957 (Accession No. HP-2007-077).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Williams, Thomas A.</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Kurz, Herman</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Botany Department</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1950s</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/78809</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT78809</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:12698</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_12699</identifier><datestamp>2013-11-25T18:40:23Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Dr. Herman Kurz, Botany Dept. (2)</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+78810</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Williams, Thomas A.</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1954</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Personal photographs of Florida State University student Thomas A. Williams (BS, Botany, 1954). These photographs are a part of the Thomas A. Williams Collection, 1954-1957 (Accession No. HP-2007-077).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Williams, Thomas A.</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Kurz, Herman</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Botany Department</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1950s</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/78810</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT78810</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:12699</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_12700</identifier><datestamp>2013-11-25T18:40:29Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Dr. Ruth S. Breen, Botany Dept.</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+78811</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Williams, Thomas A.</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1954</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Personal photographs of Florida State University student Thomas A. Williams (BS, Botany, 1954). These photographs are a part of the Thomas A. Williams Collection, 1954-1957 (Accession No. HP-2007-077).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Williams, Thomas A.</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Breen, Ruth Schornherst</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Schornherst, Ruth</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Botany Department</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1950s</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/78811</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT78811</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:12700</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_12701</identifier><datestamp>2013-11-25T18:40:34Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Sylvia Earle and Thomas A. Williams</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+78812</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Williams, Thomas A.</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1954</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Sylvia Earle and Thomas Williams doing serious study, 1954.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Personal photographs of Florida State University student Thomas A. Williams (BS, Botany, 1954). These photographs are a part of the Thomas A. Williams Collection, 1954-1957 (Accession No. HP-2007-077).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Williams, Thomas A.</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Earle, Sylvia</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Campus Scenes</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1950s</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/78812</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT78812</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:12701</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_12702</identifier><datestamp>2013-11-25T18:40:39Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Science Club Social</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+78813</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Williams, Thomas A.</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1954</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Science Club Social, 1954, Sylvia Earle in the middle, Robert Megraw to her right, Nancy Lowe extreme right.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Personal photographs of Florida State University student Thomas A. Williams (BS, Botany, 1954). These photographs are a part of the Thomas A. Williams Collection, 1954-1957 (Accession No. HP-2007-077).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Williams, Thomas A.</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Earle, Sylvia</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Lowe, Nancy</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Megraw, Robert</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Science Club</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1950s</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/78813</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT78813</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:12702</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_12703</identifier><datestamp>2013-11-25T18:40:43Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Gay Gillies</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+78814</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Williams, Thomas A.</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">circa 1954-1957</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Gay Gillies, Freshman, talented vocalist, music major, three years later she married Thomas A. Williams.  She passed away in 2004.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Personal photographs of Florida State University student Thomas A. Williams (BS, Botany, 1954). These photographs are a part of the Thomas A. Williams Collection, 1954-1957 (Accession No. HP-2007-077).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Williams, Thomas A.</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Gillies, Gay</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1950s</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/78814</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT78814</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:12703</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_12704</identifier><datestamp>2013-11-25T18:40:48Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Robert Megraw With Wife Sally</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+78815</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Williams, Thomas A.</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1957</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Robert Megraw, head of Leon County Blood Bank, with wife Sally.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Personal photographs of Florida State University student Thomas A. Williams (BS, Botany, 1954). These photographs are a part of the Thomas A. Williams Collection, 1954-1957 (Accession No. HP-2007-077).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Williams, Thomas A.</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Megraw, Robert</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Megraw, Sally</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Leon County Blood Bank</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1950s</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/78815</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT78815</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:12704</dc:identifier>
+</oai_dc:dc>
+</metadata></record>
+</repository>

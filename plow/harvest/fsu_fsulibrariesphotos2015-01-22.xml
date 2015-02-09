@@ -1,0 +1,948 @@
+<repository xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"      xmlns:dc="http://purl.org/dc/elements/1.1/"      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instanc">
+<record><header><identifier>oai:fsu.digital.flvc.org:fsu_20234</identifier><datestamp>2013-12-12T19:49:42Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">A Library Employee</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+1927210</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Florida State University Libraries</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">undated, circa 1990s, circa 2000s</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">These photographs are part of the Florida State University Libraries Collection (Accession No. HP-2010-008).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Strozier Library</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Buildings and Grounds</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1990s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 2000s</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/1927210</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT1927210</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:20234</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_20235</identifier><datestamp>2013-12-12T19:49:48Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Library Staff Setting-Up New Cubicals</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+1927211</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Florida State University Libraries</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">undated, circa 1990s, circa 2000s</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">These photographs are part of the Florida State University Libraries Collection (Accession No. HP-2010-008).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Strozier Library</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Buildings and Grounds</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1990s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 2000s</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/1927211</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT1927211</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:20235</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_20236</identifier><datestamp>2013-12-12T19:49:54Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">James Elliot</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+1927212</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Florida State University Libraries</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">undated, circa 1990s, circa 2000s</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">These photographs are part of the Florida State University Libraries Collection (Accession No. HP-2010-008).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Strozier Library</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">James Elliot</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Buildings and Grounds</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1990s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 2000s</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/1927212</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT1927212</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:20236</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_20237</identifier><datestamp>2013-12-12T19:49:59Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Inside Strozier Library</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+1927213</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Florida State University Libraries</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">undated, circa 1990s, circa 2000s</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">These photographs are part of the Florida State University Libraries Collection (Accession No. HP-2010-008).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Strozier Library</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Buildings and Grounds</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1990s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 2000s</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/1927213</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT1927213</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:20237</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_20238</identifier><datestamp>2013-12-12T19:50:05Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Library Staff</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+1927214</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Florida State University Libraries</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">undated, circa 1990s, circa 2000s</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">These photographs are part of the Florida State University Libraries Collection (Accession No. HP-2010-008).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Strozier Library</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Buildings and Grounds</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1990s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 2000s</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/1927214</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT1927214</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:20238</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_20239</identifier><datestamp>2013-12-12T19:50:11Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Strozier Library Circulation Desk</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+1927215</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Florida State University Libraries</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">undated, circa 1990s, circa 2000s</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">These photographs are part of the Florida State University Libraries Collection (Accession No. HP-2010-008).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Strozier Library</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Buildings and Grounds</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1990s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 2000s</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/1927215</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT1927215</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:20239</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_20240</identifier><datestamp>2013-12-12T19:50:17Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">A Library Employee</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+1927216</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Florida State University Libraries</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">undated, circa 1990s, circa 2000s</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">These photographs are part of the Florida State University Libraries Collection (Accession No. HP-2010-008).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Strozier Library</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Buildings and Grounds</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1990s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 2000s</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/1927216</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT1927216</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:20240</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_20241</identifier><datestamp>2013-12-12T19:50:22Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Staff Setting Up New Cubicals</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+1927217</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Florida State University Libraries</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">undated, circa 1990s, circa 2000s</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">These photographs are part of the Florida State University Libraries Collection (Accession No. HP-2010-008).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Strozier Library</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Buildings and Grounds</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1990s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 2000s</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/1927217</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT1927217</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:20241</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_20242</identifier><datestamp>2013-12-12T19:50:28Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Inside Strozier Library</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+1927218</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Florida State University Libraries</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">undated, circa 1990s, circa 2000s</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">These photographs are part of the Florida State University Libraries Collection (Accession No. HP-2010-008).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Strozier Library</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Buildings and Grounds</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1990s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 2000s</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/1927218</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT1927218</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:20242</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_20243</identifier><datestamp>2013-12-12T19:50:33Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Circulation Desk</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+1927219</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Florida State University Libraries</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">undated, circa 1990s, circa 2000s</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">These photographs are part of the Florida State University Libraries Collection (Accession No. HP-2010-008).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Strozier Library</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Buildings and Grounds</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1990s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 2000s</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/1927219</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT1927219</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:20243</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_20244</identifier><datestamp>2013-12-12T19:50:39Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Bookshelves</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+1927220</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Florida State University Libraries</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">undated, circa 1990s, circa 2000s</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">These photographs are part of the Florida State University Libraries Collection (Accession No. HP-2010-008).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Strozier Library</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Buildings and Grounds</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1990s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 2000s</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/1927220</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT1927220</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:20244</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_20245</identifier><datestamp>2013-12-12T19:50:44Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Library Warning Sign</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+1927221</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Florida State University Libraries</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">undated, circa 1990s, circa 2000s</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">These photographs are part of the Florida State University Libraries Collection (Accession No. HP-2010-008).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Strozier Library</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Buildings and Grounds</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1990s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 2000s</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/1927221</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT1927221</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:20245</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_20246</identifier><datestamp>2013-12-12T19:50:50Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Library Security Detection Area Signs</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+1927222</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Florida State University Libraries</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">undated, circa 1990s, circa 2000s</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">These photographs are part of the Florida State University Libraries Collection (Accession No. HP-2010-008).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Strozier Library</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Buildings and Grounds</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1990s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 2000s</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/1927222</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT1927222</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:20246</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_20247</identifier><datestamp>2013-12-12T19:51:00Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Library Warning Sign</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+1927223</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Florida State University Libraries</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">undated, circa 1990s, circa 2000s</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">These photographs are part of the Florida State University Libraries Collection (Accession No. HP-2010-008).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Strozier Library</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Buildings and Grounds</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1990s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 2000s</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/1927223</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT1927223</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:20247</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_20248</identifier><datestamp>2013-12-12T19:51:06Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Library Warning Sign</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+1927224</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Florida State University Libraries</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">undated, circa 1990s, circa 2000s</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">These photographs are part of the Florida State University Libraries Collection (Accession No. HP-2010-008).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Strozier Library</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Buildings and Grounds</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1990s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 2000s</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/1927224</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT1927224</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:20248</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_20249</identifier><datestamp>2013-12-12T19:51:11Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Library Warning Sign</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+1927225</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Florida State University Libraries</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">undated, circa 1990s, circa 2000s</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">These photographs are part of the Florida State University Libraries Collection (Accession No. HP-2010-008).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Strozier Library</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Buildings and Grounds</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1990s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 2000s</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/1927225</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT1927225</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:20249</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_20250</identifier><datestamp>2013-12-12T19:51:17Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Library Warning Sign</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+1927226</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Florida State University Libraries</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">undated, circa 1990s, circa 2000s</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">These photographs are part of the Florida State University Libraries Collection (Accession No. HP-2010-008).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Strozier Library</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Buildings and Grounds</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1990s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 2000s</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/1927226</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT1927226</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:20250</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_20251</identifier><datestamp>2013-12-12T19:51:22Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Signs On Strozier Library Doors</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+1927227</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Florida State University Libraries</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">undated, circa 1990s, circa 2000s</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">These photographs are part of the Florida State University Libraries Collection (Accession No. HP-2010-008).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Strozier Library</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Buildings and Grounds</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1990s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 2000s</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/1927227</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT1927227</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:20251</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_20252</identifier><datestamp>2013-12-12T19:51:28Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Library Warning Sign</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+1927228</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Florida State University Libraries</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">undated, circa 1990s, circa 2000s</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">These photographs are part of the Florida State University Libraries Collection (Accession No. HP-2010-008).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Strozier Library</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Buildings and Grounds</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1990s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 2000s</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/1927228</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT1927228</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:20252</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_20253</identifier><datestamp>2013-12-12T19:51:33Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Library Warning Sign</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+1927229</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Florida State University Libraries</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">undated, circa 1990s, circa 2000s</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">These photographs are part of the Florida State University Libraries Collection (Accession No. HP-2010-008).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Strozier Library</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Buildings and Grounds</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1990s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 2000s</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/1927229</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT1927229</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:20253</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_20254</identifier><datestamp>2013-12-12T19:51:38Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Library Signs</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+1927230</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Florida State University Libraries</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">undated, circa 1990s, circa 2000s</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">These photographs are part of the Florida State University Libraries Collection (Accession No. HP-2010-008).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Strozier Library</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Buildings and Grounds</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1990s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 2000s</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/1927230</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT1927230</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:20254</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_20255</identifier><datestamp>2013-12-12T19:51:45Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Sign Inside Strozier Library</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+1927231</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Florida State University Libraries</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">undated, circa 1990s, circa 2000s</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">These photographs are part of the Florida State University Libraries Collection (Accession No. HP-2010-008).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Strozier Library</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Buildings and Grounds</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1990s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 2000s</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/1927231</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT1927231</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:20255</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_20256</identifier><datestamp>2013-12-12T19:51:50Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Signs On Strozier Library Doors</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+1927232</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Florida State University Libraries</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">undated, circa 1990s, circa 2000s</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">These photographs are part of the Florida State University Libraries Collection (Accession No. HP-2010-008).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Strozier Library</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Buildings and Grounds</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1990s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 2000s</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/1927232</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT1927232</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:20256</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_20257</identifier><datestamp>2013-12-12T19:51:56Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Strozier Library Fire Exit</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+1927233</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Florida State University Libraries</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">undated, circa 1990s, circa 2000s</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">These photographs are part of the Florida State University Libraries Collection (Accession No. HP-2010-008).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Strozier Library</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Buildings and Grounds</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1990s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 2000s</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/1927233</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT1927233</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:20257</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_20258</identifier><datestamp>2013-12-12T19:52:01Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Library Warning Sign</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+1927234</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Florida State University Libraries</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">undated, circa 1990s, circa 2000s</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">These photographs are part of the Florida State University Libraries Collection (Accession No. HP-2010-008).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Strozier Library</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Buildings and Grounds</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1990s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 2000s</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/1927234</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT1927234</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:20258</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_20259</identifier><datestamp>2013-12-12T19:52:08Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Strozier Library Security Area</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+1927235</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Florida State University Libraries</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">undated, circa 1980s, circa 1990s</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">These photographs are part of the Florida State University Libraries Collection (Accession No. HP-2010-008).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Strozier Library</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Buildings and Grounds</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1980s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1990s</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/1927235</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT1927235</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:20259</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_20260</identifier><datestamp>2013-12-12T19:52:15Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Signs On Strozier Library Doors</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+1927236</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Florida State University Libraries</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">undated, circa 1980s, circa 1990s</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">These photographs are part of the Florida State University Libraries Collection (Accession No. HP-2010-008).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Strozier Library</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Buildings and Grounds</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1980s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1990s</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/1927236</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT1927236</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:20260</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_20261</identifier><datestamp>2013-12-12T19:52:21Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Sign On Strozier Library Door</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+1927237</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Florida State University Libraries</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">undated, circa 1980s, circa 1990s</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">These photographs are part of the Florida State University Libraries Collection (Accession No. HP-2010-008).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Strozier Library</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Buildings and Grounds</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1980s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1990s</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/1927237</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT1927237</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:20261</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_20262</identifier><datestamp>2013-12-12T19:52:27Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Strozier Library Security Area Signs</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+1927238</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Florida State University Libraries</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">undated, circa 1980s, circa 1990s</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">These photographs are part of the Florida State University Libraries Collection (Accession No. HP-2010-008).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Strozier Library</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Buildings and Grounds</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1980s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1990s</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/1927238</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT1927238</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:20262</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_20263</identifier><datestamp>2013-12-12T19:52:34Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Sign in Strozier Library</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+1927239</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Florida State University Libraries</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">undated, circa 1980s, circa 1990s</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">These photographs are part of the Florida State University Libraries Collection (Accession No. HP-2010-008).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Strozier Library</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Buildings and Grounds</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1980s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1990s</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/1927239</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT1927239</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:20263</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_20264</identifier><datestamp>2013-12-12T19:52:40Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Strozier Library Circulation Area</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+1927240</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Florida State University Libraries</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">undated, circa 1980s, circa 1990s</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">These photographs are part of the Florida State University Libraries Collection (Accession No. HP-2010-008).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Strozier Library</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Buildings and Grounds</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1980s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1990s</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/1927240</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT1927240</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:20264</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_20265</identifier><datestamp>2013-12-12T19:52:46Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Library Warning Sign</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+1927241</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Florida State University Libraries</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">undated, circa 1980s, circa 1990s</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">These photographs are part of the Florida State University Libraries Collection (Accession No. HP-2010-008).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Strozier Library</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Buildings and Grounds</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1980s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1990s</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/1927241</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT1927241</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:20265</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_20266</identifier><datestamp>2013-12-12T19:52:52Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Library Warning Sign</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+1927242</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Florida State University Libraries</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">undated, circa 1980s, circa 1990s</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">These photographs are part of the Florida State University Libraries Collection (Accession No. HP-2010-008).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Strozier Library</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Buildings and Grounds</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1980s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1990s</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/1927242</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT1927242</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:20266</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_20267</identifier><datestamp>2013-12-12T19:52:58Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Strozier Library Reserves Area Signs</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+1927243</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Florida State University Libraries</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">undated, circa 1980s, circa 1990s</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">These photographs are part of the Florida State University Libraries Collection (Accession No. HP-2010-008).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Strozier Library</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Buildings and Grounds</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1980s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1990s</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/1927243</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT1927243</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:20267</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_20268</identifier><datestamp>2013-12-12T19:53:04Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Library Warning Sign</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+1927244</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Florida State University Libraries</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">undated, circa 1980s, circa 1990s</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">These photographs are part of the Florida State University Libraries Collection (Accession No. HP-2010-008).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Strozier Library</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Buildings and Grounds</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1980s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1990s</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/1927244</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT1927244</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:20268</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_20269</identifier><datestamp>2013-12-12T19:53:11Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Library Warning Sign</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+1927245</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Florida State University Libraries</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">undated, circa 1980s, circa 1990s</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">These photographs are part of the Florida State University Libraries Collection (Accession No. HP-2010-008).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Strozier Library</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Buildings and Grounds</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1980s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1990s</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/1927245</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT1927245</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:20269</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_20270</identifier><datestamp>2013-12-12T19:53:17Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Library Warning Sign</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+1927246</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Florida State University Libraries</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">undated, circa 1980s, circa 1990s</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">These photographs are part of the Florida State University Libraries Collection (Accession No. HP-2010-008).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Strozier Library</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Buildings and Grounds</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1980s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1990s</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/1927246</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT1927246</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:20270</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_20271</identifier><datestamp>2013-12-12T19:53:23Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Check Desk</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+1927247</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Florida State University Libraries</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">undated, circa 1980s, circa 1990s</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">These photographs are part of the Florida State University Libraries Collection (Accession No. HP-2010-008).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Strozier Library</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Buildings and Grounds</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1980s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1990s</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/1927247</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT1927247</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:20271</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_20273</identifier><datestamp>2013-12-12T19:53:34Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Valencia Hines, Last Person To Sit Check Desk</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+1927249</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Florida State University Libraries</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">circa 2000s</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">These photographs are part of the Florida State University Libraries Collection (Accession No. HP-2010-008).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Strozier Library</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Hines, Valencia</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Buildings and Grounds</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1980s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1990s</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/1927249</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT1927249</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:20273</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_20274</identifier><datestamp>2013-12-12T19:53:40Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Last Patron and Book to Walk Through Check Desk Security</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+1927250</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Florida State University Libraries</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">circa 2000s</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">These photographs are part of the Florida State University Libraries Collection (Accession No. HP-2010-008).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Strozier Library</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Buildings and Grounds</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1980s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1990s</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/1927250</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT1927250</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:20274</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_20275</identifier><datestamp>2013-12-12T19:53:46Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">&quot;Saying Goodbye&quot;</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+1927251</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Florida State University Libraries</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">circa 2000s</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">These photographs are part of the Florida State University Libraries Collection (Accession No. HP-2010-008).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Strozier Library</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Buildings and Grounds</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1980s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1990s</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/1927251</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT1927251</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:20275</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_20272</identifier><datestamp>2013-12-13T15:06:49Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Jim Elliot Threatening To Burn The Check Desk Schedule</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">fsu:20272</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Florida State University Libraries</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">circa 1990s</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">These photographs are part of the Florida State University Libraries Collection (Accession No. HP-2010-008).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Strozier Library</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Elliot, James</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Buildings and Grounds</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1980s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1990s</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fcla/dt/1927248</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT1927248</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:20272</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_20276</identifier><datestamp>2013-12-13T15:07:29Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">First Book Desensitized</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">fsu:20276</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Florida State University Libraries</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">circa 1990s</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">These photographs are part of the Florida State University Libraries Collection (Accession No. HP-2010-008).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Strozier Library</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Buildings and Grounds</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1980s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1990s</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fcla/dt/1927252</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT1927252</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:20276</dc:identifier>
+</oai_dc:dc>
+</metadata></record>
+</repository>

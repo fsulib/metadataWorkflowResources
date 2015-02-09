@@ -1,0 +1,27 @@
+<repository xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"      xmlns:dc="http://purl.org/dc/elements/1.1/"      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instanc">
+<record><header><identifier>oai:fsu.digital.flvc.org:fsu_431</identifier><datestamp>2013-09-25T15:37:44Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>fsu:431</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_429</identifier><datestamp>2013-09-25T15:37:44Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>fsu:429</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_433</identifier><datestamp>2013-09-25T15:37:43Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>fsu:433</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_434</identifier><datestamp>2013-09-25T15:37:44Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>fsu:434</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_432</identifier><datestamp>2013-09-25T15:37:44Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>fsu:432</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_430</identifier><datestamp>2013-09-25T15:37:44Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>fsu:430</dc:identifier>
+</oai_dc:dc>
+</metadata></record>
+</repository>

@@ -1,0 +1,357 @@
+<repository xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"      xmlns:dc="http://purl.org/dc/elements/1.1/"      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instanc">
+<record><header><identifier>oai:fsu.digital.flvc.org:fsu_14114</identifier><datestamp>2013-11-27T23:12:45Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">West Campus 849ers Dining</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+108043</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kurras, Richard</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">circa 1951-1952</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">The photos in this collection surround the activities of the male students who lived in barracks building 849 on the FSU West Campus at the former Dale Mabry field.  The men, who referred to themselves as the &quot;849ers,&quot; bonded together in a pseudo-fraternity they called Theta Delta Iota.  The persons identified in these photos include Herman Bekemyer ('52), Fred Darkow ('52), Johnnie Fortune ('51), Tom Hobbs ('51), Ray Horton ('51), Herbert Lynwood Jinks ('52), Iva Kay ('52), Frank Leone ('51), A. Glenn Moore ('52), Roger Sellers ('52), and Ray Senn.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Personal photographs of Florida State University student Richard &quot;Dick&quot; Kurras, class of 1952 (BS, Physical Education). These photographs are a part of the Richard Kurras Collection, circa 1951-1952 (Accession No. HP-2008-013). B/W.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Kurras, Richard</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Bekemyer, Herman</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Darkow, Fred</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Fortune, Johnnie</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Hobbs, Tom</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Horton, Ray</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Jinks, Herbert Lynwood</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Kay, Iva</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Leone, Frank</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Moore, A. Glenn</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Sellers, Roger</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Senn, Ray</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Student Life</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Suwannee Dining Room</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">West Campus</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1950s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">849ers</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/108043</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT108043</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:14114</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_14115</identifier><datestamp>2013-11-27T23:12:54Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">West Campus Group Photo</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+108044</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kurras, Richard</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">circa 1951-1952</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">The photos in this collection surround the activities of the male students who lived in barracks building 849 on the FSU West Campus at the former Dale Mabry field.  The men, who referred to themselves as the &quot;849ers,&quot; bonded together in a pseudo-fraternity they called Theta Delta Iota.  The persons identified in these photos include Herman Bekemyer ('52), Fred Darkow ('52), Johnnie Fortune ('51), Tom Hobbs ('51), Ray Horton ('51), Herbert Lynwood Jinks ('52), Iva Kay ('52), Frank Leone ('51), A. Glenn Moore ('52), Roger Sellers ('52), and Ray Senn.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Personal photographs of Florida State University student Richard &quot;Dick&quot; Kurras, class of 1952 (BS, Physical Education). These photographs are a part of the Richard Kurras Collection, circa 1951-1952 (Accession No. HP-2008-013). B/W.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Kurras, Richard</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Bekemyer, Herman</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Darkow, Fred</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Fortune, Johnnie</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Hobbs, Tom</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Horton, Ray</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Jinks, Herbert Lynwood</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Kay, Iva</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Leone, Frank</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Moore, A. Glenn</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Sellers, Roger</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Senn, Ray</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Student Life</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">West Campus</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1950s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">849ers</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/108044</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT108044</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:14115</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_14116</identifier><datestamp>2013-11-27T23:13:03Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">West Campus 849ers Dressed in Costume</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+108045</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kurras, Richard</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">circa 1951-1952</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">The photos in this collection surround the activities of the male students who lived in barracks building 849 on the FSU West Campus at the former Dale Mabry field.  The men, who referred to themselves as the &quot;849ers,&quot; bonded together in a pseudo-fraternity they called Theta Delta Iota.  The persons identified in these photos include Herman Bekemyer ('52), Fred Darkow ('52), Johnnie Fortune ('51), Tom Hobbs ('51), Ray Horton ('51), Herbert Lynwood Jinks ('52), Iva Kay ('52), Frank Leone ('51), A. Glenn Moore ('52), Roger Sellers ('52), and Ray Senn.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Personal photographs of Florida State University student Richard &quot;Dick&quot; Kurras, class of 1952 (BS, Physical Education). These photographs are a part of the Richard Kurras Collection, circa 1951-1952 (Accession No. HP-2008-013). B/W.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Kurras, Richard</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Bekemyer, Herman</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Darkow, Fred</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Fortune, Johnnie</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Hobbs, Tom</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Horton, Ray</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Jinks, Herbert Lynwood</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Kay, Iva</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Leone, Frank</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Moore, A. Glenn</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Sellers, Roger</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Senn, Ray</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Student Life</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">West Campus</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1950s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">849ers</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/108045</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT108045</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:14116</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_14117</identifier><datestamp>2013-11-27T23:13:12Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">West Campus Group Photo</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+108046</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kurras, Richard</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">circa 1951-1952</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">The photos in this collection surround the activities of the male students who lived in barracks building 849 on the FSU West Campus at the former Dale Mabry field.  The men, who referred to themselves as the &quot;849ers,&quot; bonded together in a pseudo-fraternity they called Theta Delta Iota.  The persons identified in these photos include Herman Bekemyer ('52), Fred Darkow ('52), Johnnie Fortune ('51), Tom Hobbs ('51), Ray Horton ('51), Herbert Lynwood Jinks ('52), Iva Kay ('52), Frank Leone ('51), A. Glenn Moore ('52), Roger Sellers ('52), and Ray Senn.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Personal photographs of Florida State University student Richard &quot;Dick&quot; Kurras, class of 1952 (BS, Physical Education). These photographs are a part of the Richard Kurras Collection, circa 1951-1952 (Accession No. HP-2008-013). B/W.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Kurras, Richard</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Bekemyer, Herman</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Darkow, Fred</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Fortune, Johnnie</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Hobbs, Tom</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Horton, Ray</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Jinks, Herbert Lynwood</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Kay, Iva</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Leone, Frank</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Moore, A. Glenn</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Sellers, Roger</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Senn, Ray</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Student Life</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">West Campus</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1950s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">849ers</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/108046</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT108046</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:14117</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_14118</identifier><datestamp>2013-11-27T23:13:20Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">849ers Outside National Shirt Shop</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+108047</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kurras, Richard</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">circa 1951-1952</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">The photos in this collection surround the activities of the male students who lived in barracks building 849 on the FSU West Campus at the former Dale Mabry field.  The men, who referred to themselves as the &quot;849ers,&quot; bonded together in a pseudo-fraternity they called Theta Delta Iota.  The persons identified in these photos include Herman Bekemyer ('52), Fred Darkow ('52), Johnnie Fortune ('51), Tom Hobbs ('51), Ray Horton ('51), Herbert Lynwood Jinks ('52), Iva Kay ('52), Frank Leone ('51), A. Glenn Moore ('52), Roger Sellers ('52), and Ray Senn.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Personal photographs of Florida State University student Richard &quot;Dick&quot; Kurras, class of 1952 (BS, Physical Education). These photographs are a part of the Richard Kurras Collection, circa 1951-1952 (Accession No. HP-2008-013). B/W.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Kurras, Richard</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Bekemyer, Herman</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Darkow, Fred</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Fortune, Johnnie</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Hobbs, Tom</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Horton, Ray</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Jinks, Herbert Lynwood</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Kay, Iva</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Leone, Frank</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Moore, A. Glenn</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Sellers, Roger</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Senn, Ray</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">National Shirt Shop</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Tallahassee, Florida</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Student Life</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">West Campus</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">City Scenes</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1950s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">849ers</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/108047</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT108047</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:14118</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_14119</identifier><datestamp>2013-11-27T23:13:29Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">West Campus Group Photo</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+108048</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kurras, Richard</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">circa 1951-1952</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">The photos in this collection surround the activities of the male students who lived in barracks building 849 on the FSU West Campus at the former Dale Mabry field.  The men, who referred to themselves as the &quot;849ers,&quot; bonded together in a pseudo-fraternity they called Theta Delta Iota.  The persons identified in these photos include Herman Bekemyer ('52), Fred Darkow ('52), Johnnie Fortune ('51), Tom Hobbs ('51), Ray Horton ('51), Herbert Lynwood Jinks ('52), Iva Kay ('52), Frank Leone ('51), A. Glenn Moore ('52), Roger Sellers ('52), and Ray Senn.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Personal photographs of Florida State University student Richard &quot;Dick&quot; Kurras, class of 1952 (BS, Physical Education). These photographs are a part of the Richard Kurras Collection, circa 1951-1952 (Accession No. HP-2008-013). B/W.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Kurras, Richard</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Bekemyer, Herman</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Darkow, Fred</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Fortune, Johnnie</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Hobbs, Tom</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Horton, Ray</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Jinks, Herbert Lynwood</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Kay, Iva</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Leone, Frank</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Moore, A. Glenn</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Sellers, Roger</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Senn, Ray</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Student Life</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">West Campus</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1950s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">849ers</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/108048</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT108048</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:14119</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_14120</identifier><datestamp>2013-11-27T23:13:38Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">West Campus Group Photo</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+108049</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kurras, Richard</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">circa 1951-1952</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">The photos in this collection surround the activities of the male students who lived in barracks building 849 on the FSU West Campus at the former Dale Mabry field.  The men, who referred to themselves as the &quot;849ers,&quot; bonded together in a pseudo-fraternity they called Theta Delta Iota.  The persons identified in these photos include Herman Bekemyer ('52), Fred Darkow ('52), Johnnie Fortune ('51), Tom Hobbs ('51), Ray Horton ('51), Herbert Lynwood Jinks ('52), Iva Kay ('52), Frank Leone ('51), A. Glenn Moore ('52), Roger Sellers ('52), and Ray Senn.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Personal photographs of Florida State University student Richard &quot;Dick&quot; Kurras, class of 1952 (BS, Physical Education). These photographs are a part of the Richard Kurras Collection, circa 1951-1952 (Accession No. HP-2008-013). B/W.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Kurras, Richard</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Bekemyer, Herman</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Darkow, Fred</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Fortune, Johnnie</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Hobbs, Tom</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Horton, Ray</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Jinks, Herbert Lynwood</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Kay, Iva</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Leone, Frank</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Moore, A. Glenn</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Sellers, Roger</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Senn, Ray</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Student Life</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">West Campus</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1950s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">849ers</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/108049</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT108049</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:14120</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_14121</identifier><datestamp>2013-11-27T23:13:47Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">West Campus Group Photo</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+108050</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kurras, Richard</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">circa 1951-1952</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">The photos in this collection surround the activities of the male students who lived in barracks building 849 on the FSU West Campus at the former Dale Mabry field.  The men, who referred to themselves as the &quot;849ers,&quot; bonded together in a pseudo-fraternity they called Theta Delta Iota.  The persons identified in these photos include Herman Bekemyer ('52), Fred Darkow ('52), Johnnie Fortune ('51), Tom Hobbs ('51), Ray Horton ('51), Herbert Lynwood Jinks ('52), Iva Kay ('52), Frank Leone ('51), A. Glenn Moore ('52), Roger Sellers ('52), and Ray Senn.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Personal photographs of Florida State University student Richard &quot;Dick&quot; Kurras, class of 1952 (BS, Physical Education). These photographs are a part of the Richard Kurras Collection, circa 1951-1952 (Accession No. HP-2008-013). B/W.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Kurras, Richard</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Bekemyer, Herman</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Darkow, Fred</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Fortune, Johnnie</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Hobbs, Tom</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Horton, Ray</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Jinks, Herbert Lynwood</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Kay, Iva</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Leone, Frank</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Moore, A. Glenn</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Sellers, Roger</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Senn, Ray</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Student Life</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">West Campus</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1950s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">849ers</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/108050</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT108050</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:14121</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_14122</identifier><datestamp>2013-11-27T23:13:56Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">West Campus Group Photo</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+108051</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kurras, Richard</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">circa 1951-1952</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">The photos in this collection surround the activities of the male students who lived in barracks building 849 on the FSU West Campus at the former Dale Mabry field.  The men, who referred to themselves as the &quot;849ers,&quot; bonded together in a pseudo-fraternity they called Theta Delta Iota.  The persons identified in these photos include Herman Bekemyer ('52), Fred Darkow ('52), Johnnie Fortune ('51), Tom Hobbs ('51), Ray Horton ('51), Herbert Lynwood Jinks ('52), Iva Kay ('52), Frank Leone ('51), A. Glenn Moore ('52), Roger Sellers ('52), and Ray Senn.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Personal photographs of Florida State University student Richard &quot;Dick&quot; Kurras, class of 1952 (BS, Physical Education). These photographs are a part of the Richard Kurras Collection, circa 1951-1952 (Accession No. HP-2008-013). B/W.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Kurras, Richard</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Bekemyer, Herman</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Darkow, Fred</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Fortune, Johnnie</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Hobbs, Tom</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Horton, Ray</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Jinks, Herbert Lynwood</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Kay, Iva</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Leone, Frank</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Moore, A. Glenn</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Sellers, Roger</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Senn, Ray</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Student Life</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">West Campus</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1950s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">849ers</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/108051</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT108051</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:14122</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_14123</identifier><datestamp>2013-11-27T23:14:05Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">West Campus Group Photo</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+108052</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kurras, Richard</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">circa 1951-1952</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">The photos in this collection surround the activities of the male students who lived in barracks building 849 on the FSU West Campus at the former Dale Mabry field.  The men, who referred to themselves as the &quot;849ers,&quot; bonded together in a pseudo-fraternity they called Theta Delta Iota.  The persons identified in these photos include Herman Bekemyer ('52), Fred Darkow ('52), Johnnie Fortune ('51), Tom Hobbs ('51), Ray Horton ('51), Herbert Lynwood Jinks ('52), Iva Kay ('52), Frank Leone ('51), A. Glenn Moore ('52), Roger Sellers ('52), and Ray Senn.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Personal photographs of Florida State University student Richard &quot;Dick&quot; Kurras, class of 1952 (BS, Physical Education). These photographs are a part of the Richard Kurras Collection, circa 1951-1952 (Accession No. HP-2008-013). B/W.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Kurras, Richard</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Bekemyer, Herman</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Darkow, Fred</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Fortune, Johnnie</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Hobbs, Tom</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Horton, Ray</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Jinks, Herbert Lynwood</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Kay, Iva</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Leone, Frank</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Moore, A. Glenn</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Sellers, Roger</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Senn, Ray</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Student Life</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">West Campus</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1950s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">849ers</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/108052</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT108052</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:14123</dc:identifier>
+</oai_dc:dc>
+</metadata></record>
+</repository>

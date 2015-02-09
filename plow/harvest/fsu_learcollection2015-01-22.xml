@@ -1,0 +1,655 @@
+<repository xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"      xmlns:dc="http://purl.org/dc/elements/1.1/"      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instanc">
+<record><header><identifier>oai:fsu.digital.flvc.org:fsu_52688</identifier><datestamp>2014-03-13T17:30:42Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">More nonsense</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">fsu:52688</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lear, Edward , 1812-1888</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">enk: F. Warne</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1889</dc:date>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and        research use only. For information about the copyright and reproduction rights for this item,        please contact Special Collections and Archives, Florida State University Libraries,        Tallahassee, Florida.</dc:rights>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">109 leaves : ill. ; 22 x 27 cm.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">print</dc:format>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:52688</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FSULearBook_006</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_60671</identifier><datestamp>2014-03-13T17:32:06Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Nonsense songs</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">fsu:60671</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lear, Edward , 1812-1888</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">enk: F. Warne</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">[1894?]</dc:date>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and        research use only. For information about the copyright and reproduction rights for this item,        please contact Special Collections and Archives, Florida State University Libraries,        Tallahassee, Florida.</dc:rights>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">128 p. : ill. ; 19 cm.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">print</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Edward Lear ; with introduction by Sir E. Strachey, Bart.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">All the original pictures and verses.</dc:description>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:60671</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FSULearBook_014</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_54166</identifier><datestamp>2014-03-13T17:33:49Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">book of nonsense</dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Book of nonsense</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">fsu:54166</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lear, Edward , 1812-1888</dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Miller, James , d. 1883</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Children's poetry-1875.</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Nonsense verse-1875.</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">nyu: James Miller</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">[1875?]</dc:date>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and        research use only. For information about the copyright and reproduction rights for this item,        please contact Special Collections and Archives, Florida State University Libraries,        Tallahassee, Florida.</dc:rights>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">110 leaves of plates : col. ill. ; 16 x 23 cm.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">print</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">by Edward Lear ; from the tenth London edition ; with many new pictures and verses.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">&quot;From the tenth London edition ; with many new pictures and verses&quot;.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Printed on one side of leaf only; leaf &lt;41&gt; misnumbered 4.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">James Miller, bookseller, moved to 779 Broadway in 1877 and remained there until his death in 1883.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Children's poetry</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Conduct of life--Juvenile poetry</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Children--Conduct of life--Juvenile poetry</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Stories in rhyme</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Nonsense verses</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Limericks</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">English wit and humor, Pictorial</dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">United States--New York--New York</dc:coverage>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(uri) http://ufdc.ufl.edu/UF00065522</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:54166</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FSULearBook_012</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_56236</identifier><datestamp>2014-03-13T17:34:53Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">book of nonsense</dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Book of nonsense</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">fsu:56236</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lear, Edward , 1812-1888</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">enk: Frederick Warne and Co., Bedford Street, Strand.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1872-1875</dc:date>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and        research use only. For information about the copyright and reproduction rights for this        item, please contact Special Collections and Archives, Florida State University Libraries,        Tallahassee, Florida.</dc:rights>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">[54] leaves : [113] col. ill. ; 27 cm.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">print</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">By Edward Lear.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Cover title: A book of nonsense / by Edwd. Lear ; [at top left] 110 coloured illustrations.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">First date based on inclusion of Armstrong's name in Scribner imprints from 1872 to 1878. Second date conjectural, based on cover title: covers of almost certainly later 1870s editions read &quot;Lear's book of nonsense ...&quot;</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Printed on outer forme only, 2 or 3 sets of limericks and ill. per leaf in text, totalling 110 on 52 leaves, plus 2 on frontispiece and 1 on t.p. ; blank leaves inserted between facing printed leaves.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Nonsense verses, English</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Limericks, Juvenile</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Children's poetry</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:56236</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FSULearBook_013</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_52883</identifier><datestamp>2014-03-13T17:35:57Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">book of nonsense</dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Book of nonsense</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">fsu:52883</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lear, Edward , 1812-1888</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">enk: F. Warne</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1898</dc:date>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and        research use only. For information about the copyright and reproduction rights for this item,        please contact Special Collections and Archives, Florida State University Libraries,        Tallahassee, Florida.</dc:rights>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">[110] leaves : ill. ; 22 x 26 cm.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">print</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">by Edward Lear.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">&quot;With all the original pictures and verses&quot;.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Dedication page dated 1862.</dc:description>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:52883</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FSULearBook_008</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_48307</identifier><datestamp>2014-03-13T17:36:40Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">book of nonsense</dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Book of nonsense</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">fsu:48307</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lear, Edward , 1812-1888</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">enk: T. McLean</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1846</dc:date>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and        research use only. For information about the copyright and reproduction rights for this item,        please contact Special Collections and Archives, Florida State University Libraries,        Tallahassee, Florida.</dc:rights>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">[67] leaves : chiefly ill. ; 15 x 22 cm.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">print</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">by Derry Down Derry [i.e. E. Lear].</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Title from pasted down brown paper cover. Title page lacking?</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">&quot;Published Feb. 10, 1846, by Thos. McLean, 26, Haymarket&quot; cf. Cover.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">No. 4145.2 in: Shaw, J.M., Childhood in poetry.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">In protective case.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Nonsense-verses, English</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Children's poetry, English</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Limericks</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:48307</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FSULearBook_004</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_64852</identifier><datestamp>2014-03-13T17:38:07Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">nonsense birthday book</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">fsu:64852</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lear, Edward , 1812-1888</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">enk: F. Warne</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1894</dc:date>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and        research use only. For information about the copyright and reproduction rights for this item,        please contact Special Collections and Archives, Florida State University Libraries,        Tallahassee, Florida.</dc:rights>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">383 p. : ill. ; 16 cm.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">print</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Compiled from The book of nonsense and More nonsense by Edward Lear.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Limericks</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Birthday books</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:64852</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FSULearBook_003</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_64184</identifier><datestamp>2014-03-13T17:29:52Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Laughable lyrics</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">fsu:64184</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lear, Edward , 1812-1888</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">enk: Robert John Bush</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1877</dc:date>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and        research use only. For information about the copyright and reproduction rights for this item,        please contact Special Collections and Archives, Florida State University Libraries,        Tallahassee, Florida.</dc:rights>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">[126] p. : ill., plates (music) ; 21 cm.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">print</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">by Edward Lear.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Includes table of contents.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Title vignette.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Half title: Nonsense songs, botany, and alphabets.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Nonsense verses</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:64184</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FSULearBook_005</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_52998</identifier><datestamp>2014-03-13T17:31:22Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Nonsense drolleries</dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">The owl and the pussy-cat</dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">The duck and the kangaroo</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">fsu:52998</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lear, Edward , 1812-1888</dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Foster, William , -1812 (illustrator)</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">enk: F. Warne</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1889</dc:date>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and        research use only. For information about the copyright and reproduction rights for this item,        please contact Special Collections and Archives, Florida State University Libraries,        Tallahassee, Florida.</dc:rights>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">30, [1] p. : ill. (some col.) ; 20 cm.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">print</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">by Edward Lear ; with original illustrations by William Foster.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Children's literature</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:52998</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FSULearBook_009</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_52807</identifier><datestamp>2014-03-13T17:32:47Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Queery Leary nonsense</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">fsu:52807</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lear, Edward , 1812-1888</dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Strachie, Constance Braham Strachey , d. 1936 (editor)</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Cromer, Evelyn Baring , 1841-1917 (author of introduction)</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">enk: Mills &amp; Boon, Limited</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">[1911]</dc:date>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and        research use only. For information about the copyright and reproduction rights for this item,        please contact Special Collections and Archives, Florida State University Libraries,        Tallahassee, Florida.</dc:rights>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">67, [1] p. : ill., col. plates, facsims. ; 26 cm.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">print</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">ed. by Lady Strachey ... with an introduction by the Earl of Cromer ...</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">PN6110.N2 L4</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(lccn) 12001225</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:52807</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FSULearBook_007</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_53933</identifier><datestamp>2014-03-13T17:37:22Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">book of nonsense to which is added more nonsense</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">fsu:53933</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lear, Edward , 1812-1888</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">enk: Frederick Warne &amp; Co., Ltd.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">[n.d.]</dc:date>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and        research use only. For information about the copyright and reproduction rights for this item,        please contact Special Collections and Archives, Florida State University Libraries,        Tallahassee, Florida.</dc:rights>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 v. (unpaged) : ill. ; 21 x 26 cm.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">print</dc:format>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:53933</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FSULearBook_011</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_53844</identifier><datestamp>2014-03-13T17:39:49Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">pelican chorus</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">fsu:53844</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lear, Edward , 1812-1888</dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Brooke, L. Leslie (Leonard Leslie) , 1862-1940 (illustrator)</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">enk: F. Warne</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">[n.d.]</dc:date>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and        research use only. For information about the copyright and reproduction rights for this item,        please contact Special Collections and Archives, Florida State University Libraries,        Tallahassee, Florida.</dc:rights>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">unpaged. : ill.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">print</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Drawings by L. Leslie Brooke.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Nonsense verses</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:53844</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FSULearBook_010</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_92015</identifier><datestamp>2014-03-28T14:15:48Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Letter from Edward Lear to Edwin Prince, 1841</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">fsu:92015</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lear, Edward, 1812-1888</dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Prince, Edwin (Addressee)</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Correspondence</dc:type>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1841-08-20</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">English</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">4 p.</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Summary: In this letter, written to Edwin Prince on August 20, 1841, Edward Lear inquires after John Gould on the death of Gould's wife. Lear illustrated Gould's famous ornithological work. The letter is written from Knowsley Hall, seat of the Earl of Derby. It was for Derby's children that Lear wrote, The Book of Nonsense, published in 1846.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Knowsley Hall (England)--History--19th century</dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Knowsley Hall (England)</dc:coverage>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">19th century</dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Gould, John 1804-1881</dc:subject>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Edward Lear Letter, 1841--http://fsuarchon.fcla.edu/index.php?p=collections/controlcard&amp;id=3766&amp;q=edward+lear</dc:relation>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FSU_MSS_1979_003</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_92231</identifier><datestamp>2014-03-31T14:37:01Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Letter from Edward Lear to Henry Bruce, August 11, 1877</dc:title>
+  <dc:creator>Lear, Edward, 1812-1888</dc:creator>
+  <dc:description>Summary: Has sent the painting of the Kinchinjunga. Asks them not to state the price to anyone, for he would charge others more. Requests payment of the balance. May not return to England, for he has no family and few remaining friends. Speaks of various acquaintances.</dc:description>
+  <dc:publisher>Place of publication: Stratton, Micheldever Station</dc:publisher>
+  <dc:contributor>Aberdare, Henry Austin Bruce, Baron, 1815-1895 (addressee)</dc:contributor>
+  <dc:date>1877-08-11</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type>Correspondence</dc:type>
+  <dc:format>8 p.</dc:format>
+  <dc:identifier>fsu:92231</dc:identifier>
+  <dc:identifier>(URL) http://purl.flvc.org/fsu/fd/FSU_Lear_MSS_1978_32b_18</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Edward Lear Papers--http://fsuarchon.fcla.edu/index.php?p=collections/controlcard&amp;id=3767&amp;q=edward+lear</dc:relation>
+  <dc:rights>Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_92237</identifier><datestamp>2014-03-31T14:37:01Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Letter from Edward Lear to Henry Bruce, August 23, 1877</dc:title>
+  <dc:creator>Lear, Edward, 1812-1888</dc:creator>
+  <dc:description>Summary: Lear is delighted that the painting of the Kinchinjunga pleases. Has been told that he cannot consider himself a painter since he paints on commission and is unknown to the public.</dc:description>
+  <dc:publisher>Place of publication: 8 Duchess Street. Portland Place</dc:publisher>
+  <dc:contributor>Aberdare, Henry Austin Bruce, Baron, 1815-1895 (addressee)</dc:contributor>
+  <dc:date>1877-08-23</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type>Correspondence</dc:type>
+  <dc:format>4 p.</dc:format>
+  <dc:identifier>fsu:92237</dc:identifier>
+  <dc:identifier>(URL) http://purl.flvc.org/fsu/fd/FSU_Lear_MSS_1978_32b_19</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Edward Lear Papers--http://fsuarchon.fcla.edu/index.php?p=collections/controlcard&amp;id=3767&amp;q=edward+lear</dc:relation>
+  <dc:rights>Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_92247</identifier><datestamp>2014-03-31T14:37:02Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Letter from Edward Lear to Henry Bruce, December 31, 1883</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">fsu:92247</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lear, Edward, 1812-1888</dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Aberdare, Henry Austin Bruce, Baron, 1815-1895 (addressee)</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Correspondence</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Place of publication: Villa Tennyson, Sanremo, Italia</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1883-12-31</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">English</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">4 p.</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Summary: Sends New Year greetings. Is 72 but continues working. Prefers large subjects as less trying to the eyes. Sends his works to Foord's in Wardour Street for sale.  The two sons of his old servant now care for him. Quotes a portion of &quot;Mrs. Jayphar's Wisdom.&quot;</dc:description>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Edward Lear Papers--http://fsuarchon.fcla.edu/index.php?p=collections/controlcard&amp;id=3767&amp;q=edward+lear</dc:relation>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FSU_Lear_MSS_1978_32b_21</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_92032</identifier><datestamp>2014-03-31T14:37:02Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Letter from Edward Lear to Henry Bruce, July 3, 1868</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">fsu:92032</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lear, Edward, 1812-1888</dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Aberdare, Henry Austin Bruce, Baron, 1815-1895 (addressee)</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Correspondence</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Place of publication: 15 Stratford Place, Oxford Street, W.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1868-07-03</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">English</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">4 p.</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Summary: Playfully accuses Bruce of avoiding him.</dc:description>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Edward Lear Papers--http://fsuarchon.fcla.edu/index.php?p=collections/controlcard&amp;id=3767&amp;q=edward+lear</dc:relation>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FSU_Lear_MSS_1978_32a</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_92027</identifier><datestamp>2014-03-31T14:37:03Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Letter from Edward Lear to Henry Bruce, July 31, 1863</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">fsu:92027</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lear, Edward, 1812-1888</dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Aberdare, Henry Austin Bruce, Baron, 1815-1895 (addressee)</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Correspondence</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Place of publication: 15 Stratford Place, Oxford Street, W.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1863-07-31</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">English</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">8 p.</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Summary: Feels remorse at not having called on Mrs. Bruce. Has been hoping to get their children to his house. Has been making a small copy of a painting for &quot;little Willie&quot; Beadon, whose father lived at No. 9, opposite. Is going to Hastings. Refers to Napier's writings on Cephalonica. Lear will be in London in September and Bruce may select from numerous paintings. Refers to &quot;Ionian Judge&quot; political controversy. Hears Bruce is well liked as Under Secretary.</dc:description>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Edward Lear Papers--http://fsuarchon.fcla.edu/index.php?p=collections/controlcard&amp;id=3767&amp;q=edward+lear</dc:relation>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FSU_Lear_MSS_1978_32a_03</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_92075</identifier><datestamp>2014-03-31T14:37:03Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Letter from Edward Lear to Henry Bruce, June 6, 1875</dc:title>
+  <dc:creator>Lear, Edward, 1812-1888</dc:creator>
+  <dc:description>Summary: Lear's friend, Penry Williams, has become concerned about the fate of correspondence he retains. Lear asks if Lord Aberdare would agree to keep it in case anyone should wish to prepare a memoir of Williams. Lear fears that he may forget to address the title his old friends now elevated to the peerage. He has completed Lord and Lady Aberdare's paintings of Smila and Benares. Will do Lord Aberdare's Kinchinjunga next winter.</dc:description>
+  <dc:publisher>Place of publication: Villa Emily, Sanremo</dc:publisher>
+  <dc:contributor>Aberdare, Henry Austin Bruce, Baron, 1815-1895 (addressee)</dc:contributor>
+  <dc:date>1875-06-06</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type>Correspondence</dc:type>
+  <dc:format>4 p.</dc:format>
+  <dc:identifier>fsu:92075</dc:identifier>
+  <dc:identifier>(URL) http://purl.flvc.org/fsu/fd/FSU_Lear_MSS_1978_32b_15</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Edward Lear Papers--http://fsuarchon.fcla.edu/index.php?p=collections/controlcard&amp;id=3767&amp;q=edward+lear</dc:relation>
+  <dc:rights>Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_92030</identifier><datestamp>2014-03-31T14:37:03Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Letter from Edward Lear to Henry Bruce, November 24, 1865</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">fsu:92030</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lear, Edward, 1812-1888</dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Aberdare, Henry Austin Bruce, Baron, 1815-1895 (addressee)</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Correspondence</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Place of publication: Hotel Danieli, Venice, Italy</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1865-11-24</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">English</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">4 p.</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Summary: Compliments Bruce on his Ministry and describes his happy reaction to the appointment of Chichester Fortescue to the Irish Secretaryship. Hopes for the rise of T. G. Baring. Has been sketching but weather is foggy. He fears asthma. His servant George is ill at Corfu.</dc:description>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Edward Lear Papers--http://fsuarchon.fcla.edu/index.php?p=collections/controlcard&amp;id=3767&amp;q=edward+lear</dc:relation>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FSU_Lear_MSS_1978_32a_06</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_92029</identifier><datestamp>2014-03-31T14:37:04Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Letter from Edward Lear to Henry Bruce, October 18, 1865</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">fsu:92029</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lear, Edward, 1812-1888</dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Aberdare, Henry Austin Bruce, Baron, 1815-1895 (addressee)</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Correspondence</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Place of publication: 15 Stratford Place, Oxford Street, W.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1865-10-18</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">English</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">4 p.</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Summary: Quarantines have changed his travel plans. After painting view of Jerusalem and Mt. Olympus, Lear will head south. Holman Hunt is to marry in December and go to Palestine. References to numerous social visits, including one to Tennyson.</dc:description>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Edward Lear Papers--http://fsuarchon.fcla.edu/index.php?p=collections/controlcard&amp;id=3767&amp;q=edward+lear</dc:relation>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FSU_Lear_MSS_1978_32a_05</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_92057</identifier><datestamp>2014-03-31T14:37:04Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Letter from Edward Lear to Henry Bruce, September 11, 1872</dc:title>
+  <dc:creator>Lear, Edward, 1812-1888</dc:creator>
+  <dc:description>Summary: Regrets he will not be able to visit, for all his time is taken up. Acknowledges a commission for a painting to be executed in India.</dc:description>
+  <dc:publisher>Place of publication: 6 Chandos Street, Cavendish Square, W.</dc:publisher>
+  <dc:contributor>Aberdare, Henry Austin Bruce, Baron, 1815-1895 (addressee)</dc:contributor>
+  <dc:date>1872-09-11</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type>Correspondence</dc:type>
+  <dc:format>3 p.</dc:format>
+  <dc:identifier>fsu:92057</dc:identifier>
+  <dc:identifier>(URL) http://purl.flvc.org/fsu/fd/FSU_Lear_MSS_1978_32a_12</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Edward Lear Papers--http://fsuarchon.fcla.edu/index.php?p=collections/controlcard&amp;id=3767&amp;q=edward+lear</dc:relation>
+  <dc:rights>Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_92252</identifier><datestamp>2014-03-31T14:37:04Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Letter from Edward Lear to Henry Bruce, September 25, 1884</dc:title>
+  <dc:creator>Lear, Edward, 1812-1888</dc:creator>
+  <dc:description>Summary: Acknowledges the purchase of his paintings for pounds 31.8.0. Is surprised that Millais receives such prices for works that require much less labor than Lear's. Considers new publications and republications. Refers to Richard Doyle as &quot;a wonderfully beautiful artist.&quot; Speaks of his work on 200 illustrations for Tennyson.</dc:description>
+  <dc:publisher>Place of publication: Villa Tennyson, Sanremo</dc:publisher>
+  <dc:contributor>Aberdare, Henry Austin Bruce, Baron, 1815-1895 (addressee)</dc:contributor>
+  <dc:date>1884-09-25</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type>Correspondence</dc:type>
+  <dc:format>4 p.</dc:format>
+  <dc:identifier>fsu:92252</dc:identifier>
+  <dc:identifier>(URL) http://purl.flvc.org/fsu/fd/FSU_Lear_MSS_1978_32b_22</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Edward Lear Papers--http://fsuarchon.fcla.edu/index.php?p=collections/controlcard&amp;id=3767&amp;q=edward+lear</dc:relation>
+  <dc:rights>Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_92081</identifier><datestamp>2014-03-31T14:37:06Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Letter from Edward Lear to Henry Bruce, September 26, 1875</dc:title>
+  <dc:creator>Lear, Edward, 1812-1888</dc:creator>
+  <dc:description>Summary: Has ordered a six-foot canvas to be sent to Sanremo for the painting of the Kinchinjunga. Stays at Franklin Lushington's on the way to Folkstone.</dc:description>
+  <dc:publisher>Place of publication: Riverhead Vicarage, 7 Okes [sic]</dc:publisher>
+  <dc:contributor>Aberdare, Henry Austin Bruce, Baron, 1815-1895 (addressee)</dc:contributor>
+  <dc:date>1875-09-26</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type>Correspondence</dc:type>
+  <dc:format>4 p.</dc:format>
+  <dc:identifier>fsu:92081</dc:identifier>
+  <dc:identifier>(URL) http://purl.flvc.org/fsu/fd/FSU_Lear_MSS_1978_32b_16</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Edward Lear Papers--http://fsuarchon.fcla.edu/index.php?p=collections/controlcard&amp;id=3767&amp;q=edward+lear</dc:relation>
+  <dc:rights>Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_92031</identifier><datestamp>2014-03-31T14:37:06Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Letter from Edward Lear to Henry Bruce, September 8, 1866</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">fsu:92031</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lear, Edward, 1812-1888</dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Aberdare, Henry Austin Bruce, Baron, 1815-1895 (addressee)</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Correspondence</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Place of publication: 15 Stratford Place, Oxford Street, W.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1866-09-08</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">English</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">8 p.</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Summary: Inquires about the opportunities for an old friend's son, who has been thrown out of work by recent economic conditions. Refers to the death of Thomas George Baring's father; the son will now be Lord Northbrook. Lear's friend Penry Williams thinks of settling in London. Lear has accidentally burned a canvas. Sir Henry Storks has asked Lear to go to Malta with him. References to Cardinal Manning and to Holman Hunt.</dc:description>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Edward Lear Papers--http://fsuarchon.fcla.edu/index.php?p=collections/controlcard&amp;id=3767&amp;q=edward+lear</dc:relation>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FSU_Lear_MSS_1978_32a_07</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_92026</identifier><datestamp>2014-03-31T14:37:06Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Letter from Edward Lear to Henry Bruce, undated</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">fsu:92026</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lear, Edward, 1812-1888</dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Aberdare, Henry Austin Bruce, Baron, 1815-1895 (addressee)</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Correspondence</dc:type>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">English</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">2 p.</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Summary: Concerns establishing a time for a visit with Bruce. Refers to the William Beadons.</dc:description>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Edward Lear Papers--http://fsuarchon.fcla.edu/index.php?p=collections/controlcard&amp;id=3767&amp;q=edward+lear</dc:relation>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FSU_Lear_MSS_1978_32a_02</dc:identifier>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Place of publication: 16 Upper Seymour Street, Portman Square</dc:publisher>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_92258</identifier><datestamp>2014-03-31T14:37:07Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Letter from Edward Lear to Henry Bruce, undated</dc:title>
+  <dc:creator>Lear, Edward, 1812-1888</dc:creator>
+  <dc:description>Summary: Sorry to have missed him. Mentions T. G. Baring, E. Drummond, Mr. Helps, Stephen Carr, and Spenser Robinson. Gives an anecdote of a school inspector.</dc:description>
+  <dc:contributor>Aberdare, Henry Austin Bruce, Baron, 1815-1895 (addressee)</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type>Correspondence</dc:type>
+  <dc:format>2 p.</dc:format>
+  <dc:identifier>fsu:92258</dc:identifier>
+  <dc:identifier>(URL) http://purl.flvc.org/fsu/fd/FSU_Lear_MSS_1978_32b_23</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Edward Lear Papers--http://fsuarchon.fcla.edu/index.php?p=collections/controlcard&amp;id=3767&amp;q=edward+lear</dc:relation>
+  <dc:rights>Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_92033</identifier><datestamp>2014-03-31T14:37:07Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Letter from Edward Lear to Nora Bruce, April 15, 1868-May 7, 1868</dc:title>
+  <dc:creator>Lear, Edward, 1812-1888</dc:creator>
+  <dc:description>Summary: On a sheet begun at Cannes, 15 April 1868. Lear is miserable in Cannes and decided to leave. Since he could not go to Palestine as planned, he went to Corsica to paint. However, wet weather and fever make him think of returning to Nice and England.</dc:description>
+  <dc:publisher>Place of publication: Ajaccio, Corsica</dc:publisher>
+  <dc:contributor>Bruce, Nora Creina Blanche Napier (addressee)</dc:contributor>
+  <dc:date>1868</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type>Correspondence</dc:type>
+  <dc:format>4 p.</dc:format>
+  <dc:identifier>fsu:92033</dc:identifier>
+  <dc:identifier>(URL) http://purl.flvc.org/fsu/fd/FSU_Lear_MSS_1978_32a_09</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Edward Lear Papers--http://fsuarchon.fcla.edu/index.php?p=collections/controlcard&amp;id=3767&amp;q=edward+lear</dc:relation>
+  <dc:rights>Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_92068</identifier><datestamp>2014-03-31T14:37:07Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Letter from Edward Lear to Nora Bruce, April 25, 1875</dc:title>
+  <dc:creator>Lear, Edward, 1812-1888</dc:creator>
+  <dc:description>Summary: Has failed to reply to her because of his eyesight and guests. Has seen Oliver Jones, Lord Digby and Lord Wyatt. Failed earlier to congratulate her daughter, Margaret Richmond, on the birth of a son. Is preparing landscape sketches for both Lord and Lady Aberdare. Plans another for Lord Aberdare. Expects to be in London in June. Requires a big room to exhibit his paintings. His servant's wife has died.</dc:description>
+  <dc:publisher>Place of publication: Villa Emily, Sanremo</dc:publisher>
+  <dc:contributor>Bruce, Nora Creina Blanche Napier (addressee)</dc:contributor>
+  <dc:date>1875-04-25</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type>Correspondence</dc:type>
+  <dc:format>4 p.</dc:format>
+  <dc:identifier>fsu:92068</dc:identifier>
+  <dc:identifier>(URL) http://purl.flvc.org/fsu/fd/FSU_Lear_MSS_1978_32b_14</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Edward Lear Papers--http://fsuarchon.fcla.edu/index.php?p=collections/controlcard&amp;id=3767&amp;q=edward+lear</dc:relation>
+  <dc:rights>Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_92047</identifier><datestamp>2014-03-31T14:37:07Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Letter from Edward Lear to Nora Bruce, December 24, 1870</dc:title>
+  <dc:creator>Lear, Edward, 1812-1888</dc:creator>
+  <dc:description>Summary: Mrs. W. Napier has not come. Refers to recent publication of his Nonsense Songs and Stories. His new rooms are too wet to occupy. The war has made it difficult to sell paintings. Becomes increasingly indifferent as he grows older. Asks after Mrs. W. Beadon, her children and others.</dc:description>
+  <dc:publisher>Place of publication: San Remo, Italia</dc:publisher>
+  <dc:contributor>Bruce, Nora Creina Blanche Napier (addressee)</dc:contributor>
+  <dc:date>1870-12-24</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type>Correspondence</dc:type>
+  <dc:format>4 p.</dc:format>
+  <dc:identifier>fsu:92047</dc:identifier>
+  <dc:identifier>(URL) http://purl.flvc.org/fsu/fd/FSU_Lear_MSS_1978_32a_11</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Edward Lear Papers--http://fsuarchon.fcla.edu/index.php?p=collections/controlcard&amp;id=3767&amp;q=edward+lear</dc:relation>
+  <dc:rights>Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_92063</identifier><datestamp>2014-03-31T14:37:08Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Letter from Edward Lear to Nora Bruce, February 13, 1875</dc:title>
+  <dc:creator>Lear, Edward, 1812-1888</dc:creator>
+  <dc:description>Summary: He has returned from India. Hears that she has twin grandchildren. Will begin a painting for her.</dc:description>
+  <dc:publisher>Place of publication: Villa Emily, Sanremo</dc:publisher>
+  <dc:contributor>Bruce, Nora Creina Blanche Napier (addressee)</dc:contributor>
+  <dc:date>1875-02-13</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type>Correspondence</dc:type>
+  <dc:format>2 p.</dc:format>
+  <dc:identifier>fsu:92063</dc:identifier>
+  <dc:identifier>(URL) http://purl.flvc.org/fsu/fd/FSU_Lear_MSS_1978_32b_13</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Edward Lear Papers--http://fsuarchon.fcla.edu/index.php?p=collections/controlcard&amp;id=3767&amp;q=edward+lear</dc:relation>
+  <dc:rights>Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_92088</identifier><datestamp>2014-03-31T14:37:08Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Letter from Edward Lear to Nora Bruce, February 26, 1877</dc:title>
+  <dc:creator>Lear, Edward, 1812-1888</dc:creator>
+  <dc:description>Summary: Is glad that Lord Aberdare was not seriously hurt. Received General, Mrs. and Miss McMurdo last Thursday. His servant George is very ill. Would Lord Aberdare be willing to make an advanced payment on his painting?</dc:description>
+  <dc:publisher>Place of publication: Villa Emily, Sanremo</dc:publisher>
+  <dc:contributor>Bruce, Nora Creina Blanche Napier (addressee)</dc:contributor>
+  <dc:date>1877-02-26</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type>Correspondence</dc:type>
+  <dc:format>3 p.</dc:format>
+  <dc:identifier>fsu:92088</dc:identifier>
+  <dc:identifier>(URL) http://purl.flvc.org/fsu/fd/FSU_Lear_MSS_1978_32b_17</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Edward Lear Papers--http://fsuarchon.fcla.edu/index.php?p=collections/controlcard&amp;id=3767&amp;q=edward+lear</dc:relation>
+  <dc:rights>Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_92028</identifier><datestamp>2014-03-31T14:37:09Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Letter from Edward Lear to Nora Bruce, January 10, 1865</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">fsu:92028</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lear, Edward, 1812-1888</dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Bruce, Nora Creina Blanche Napier (addressee)</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Correspondence</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Place of publication: 61 Promenade des Anglais, Nice, France</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1865-01-10</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">English</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">4 p.</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Summary: Is reading a biography of her father, William Napier. Wishes to read Napier's account of the Peninsular War and other writings. Asks after her uncle, who wrote a history of Florence. Has walked to Genoa and back preparing drawings. Asks after Mrs. W. F. Beadon and child. Objects to social swells at Nice.</dc:description>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Edward Lear Papers--http://fsuarchon.fcla.edu/index.php?p=collections/controlcard&amp;id=3767&amp;q=edward+lear</dc:relation>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FSU_Lear_MSS_1978_32a_04</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_92040</identifier><datestamp>2014-03-31T14:37:10Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Letter from Edward Lear to Nora Bruce, November 25, 1868</dc:title>
+  <dc:creator>Lear, Edward, 1812-1888</dc:creator>
+  <dc:description>Summary: About Henry Bruce's loss of an election for Parliament. Will finish 50 drawings in three more days.</dc:description>
+  <dc:publisher>Place of publication: 15 Stratford Place, Oxford Street, W.</dc:publisher>
+  <dc:contributor>Bruce, Nora Creina Blanche Napier (addressee)</dc:contributor>
+  <dc:date>1868-11-25</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type>Correspondence</dc:type>
+  <dc:format>4 p.</dc:format>
+  <dc:identifier>fsu:92040</dc:identifier>
+  <dc:identifier>(URL) http://purl.flvc.org/fsu/fd/FSU_Lear_MSS_1978_32a_10</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Edward Lear Papers--http://fsuarchon.fcla.edu/index.php?p=collections/controlcard&amp;id=3767&amp;q=edward+lear</dc:relation>
+  <dc:rights>Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_92242</identifier><datestamp>2014-03-31T14:37:10Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Letter from Edward Lear to Nora Bruce, October 7, 1877</dc:title>
+  <dc:creator>Lear, Edward, 1812-1888</dc:creator>
+  <dc:description>Summary: Wishes to hear from them and to know how they like the Kinchinjunga. Speaks of his new servant's comical diction. Sends copies of his new list of paintings (not present). Has visited his old servant at Corfu.</dc:description>
+  <dc:publisher>Place of publication: Villa Emily, Sanremo</dc:publisher>
+  <dc:contributor>Bruce, Nora Creina Blanche Napier (addressee)</dc:contributor>
+  <dc:date>1877-10-07</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type>Correspondence</dc:type>
+  <dc:format>3 p.</dc:format>
+  <dc:identifier>fsu:92242</dc:identifier>
+  <dc:identifier>(URL) http://purl.flvc.org/fsu/fd/FSU_Lear_MSS_1978_32b_20</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Edward Lear Papers--http://fsuarchon.fcla.edu/index.php?p=collections/controlcard&amp;id=3767&amp;q=edward+lear</dc:relation>
+  <dc:rights>Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_48246</identifier><datestamp>2014-11-19T20:13:12Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Facsimile of A nonsense alphabet</dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">A nonsense alphabet</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">fsu:48246</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lear, Edward , 1812-1888</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">enk: F. Warne</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">c1926</dc:date>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and        research use only. For information about the copyright and reproduction rights for this item,        please contact Special Collections and Archives, Florida State University Libraries,        Tallahassee, Florida.</dc:rights>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">[29] leaves : ill., facsims. ; 23 cm.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">print</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">drawn and written by Edward Lear.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Published for the first time from ms. drawings and text executed by Lear about 1849; cf. &quot;Publishers' note&quot;.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">&quot;1,000 copies only have been printed and no further issue will be made. This copy is number 690.&quot;</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Nonsense verses</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:48246</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FSULearBook_002</dc:identifier>
+</oai_dc:dc>
+</metadata></record>
+</repository>

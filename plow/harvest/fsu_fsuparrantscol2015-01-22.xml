@@ -1,0 +1,932 @@
+<repository xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"      xmlns:dc="http://purl.org/dc/elements/1.1/"      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instanc">
+<record><header><identifier>oai:fsu.digital.flvc.org:fsu_13647</identifier><datestamp>2013-11-26T23:41:12Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Pat Arrants with Two Other Women Outdoors</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+2866210</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Arrants, Patricia Virginia</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">undated, circa 1954-55</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Arrants describes this as &quot;proper campus attire '54-'55&quot;.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Personal photographs of Florida State University student Patricia Arrants, class of 1958 (B.S. Home Ec.).  These photographs are part of the Pat Arrants Collection, 1955-1958 (HP-2010-027).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Arrants, Patricia Virginia</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1950s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Student Life</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/2866210</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT2866210</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:13647</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_13648</identifier><datestamp>2013-11-26T23:41:16Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Jennie Murphree Hall</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+2866211</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Arrants, Patricia Virginia</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">undated, circa 1955-1958</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Arrants has marked her doom room.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Personal photographs of Florida State University student Patricia Arrants, class of 1958 (B.S. Home Ec.).  These photographs are part of the Pat Arrants Collection, 1955-1958 (HP-2010-027).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Arrants, Patricia Virginia</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Jennie Murphree Hall</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1950s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Buildings and Grounds</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/2866211</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT2866211</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:13648</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_13649</identifier><datestamp>2013-11-26T23:41:20Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Reynolds Hall and Jennie Murphree Hall</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+2866212</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Arrants, Patricia Virginia</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">undated, circa 1955-1958</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Arrants has written on the back &quot;dorm on left is Reynolds-the one on the right is Jennie Murphree. That's mine!</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Personal photographs of Florida State University student Patricia Arrants, class of 1958 (B.S. Home Ec.).  These photographs are part of the Pat Arrants Collection, 1955-1958 (HP-2010-027).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Arrants, Patricia Virginia</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Jennie Murphree Hall</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Reynolds Hall</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1950s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Buildings and Grounds</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/2866212</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT2866212</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:13649</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_13650</identifier><datestamp>2013-11-26T23:41:25Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Sandels Building</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+2866213</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Arrants, Patricia Virginia</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">undated, circa 1955-1958</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Arrants describes this as the &quot;new?&quot; Home Ec building seen from Jennie Murphree.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Personal photographs of Florida State University student Patricia Arrants, class of 1958 (B.S. Home Ec.).  These photographs are part of the Pat Arrants Collection, 1955-1958 (HP-2010-027).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Arrants, Patricia Virginia</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Sandels Building</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1950s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Buildings and Grounds</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/2866213</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT2866213</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:13650</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_13651</identifier><datestamp>2013-11-26T23:41:29Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Pat Arrants' Roommate in their Dorm Room</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+2866214</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Arrants, Patricia Virginia</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">undated, circa 1955-1958</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Arrants has written on the back &quot;My stupid roommate&quot;.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Personal photographs of Florida State University student Patricia Arrants, class of 1958 (B.S. Home Ec.).  These photographs are part of the Pat Arrants Collection, 1955-1958 (HP-2010-027).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Arrants, Patricia Virginia</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1950s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Campus Housing</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Student Life</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/2866214</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT2866214</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:13651</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_13652</identifier><datestamp>2013-11-26T23:41:34Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Two Women in a Dorm Room</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+2866215</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Arrants, Patricia Virginia</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">undated, circa 1955-1958</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Personal photographs of Florida State University student Patricia Arrants, class of 1958 (B.S. Home Ec.).  These photographs are part of the Pat Arrants Collection, 1955-1958 (HP-2010-027).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Arrants, Patricia Virginia</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1950s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Campus Housing</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Student Life</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/2866215</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT2866215</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:13652</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_13653</identifier><datestamp>2013-11-26T23:41:38Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Pat Arrants with Three Other Women Having a Meal</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+2866216</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Arrants, Patricia Virginia</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">undated, circa 1955-1958</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Personal photographs of Florida State University student Patricia Arrants, class of 1958 (B.S. Home Ec.).  These photographs are part of the Pat Arrants Collection, 1955-1958 (HP-2010-027).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Arrants, Patricia Virginia</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1950s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Student Life</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/2866216</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT2866216</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:13653</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_13654</identifier><datestamp>2013-11-26T23:41:42Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Two Women Sitting at a Table Having a Meal</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+2866217</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Arrants, Patricia Virginia</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">undated, circa 1955-1958</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Personal photographs of Florida State University student Patricia Arrants, class of 1958 (B.S. Home Ec.).  These photographs are part of the Pat Arrants Collection, 1955-1958 (HP-2010-027).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Arrants, Patricia Virginia</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1950s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Student Life</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/2866217</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT2866217</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:13654</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_13655</identifier><datestamp>2013-11-26T23:41:47Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Two Women Crawling Through a Wooden Clothes Drying Rack</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+2866218</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Arrants, Patricia Virginia</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">undated, circa 1955-1958</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Personal photographs of Florida State University student Patricia Arrants, class of 1958 (B.S. Home Ec.).  These photographs are part of the Pat Arrants Collection, 1955-1958 (HP-2010-027).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Arrants, Patricia Virginia</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1950s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Student Life</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/2866218</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT2866218</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:13655</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_13656</identifier><datestamp>2013-11-26T23:41:52Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Women in the Kitchen of the Home Management House</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+2866219</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Arrants, Patricia Virginia</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">undated, circa 1955-1958</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">&quot;Kitchen Duty&quot;.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Personal photographs of Florida State University student Patricia Arrants, class of 1958 (B.S. Home Ec.).  These photographs are part of the Pat Arrants Collection, 1955-1958 (HP-2010-027).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Arrants, Patricia Virginia</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Home Management House</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1950s</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/2866219</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT2866219</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:13656</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_13657</identifier><datestamp>2013-11-26T23:41:58Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Ardyce Napier, Cherry Corbin, Pat Arrants, and June Hamilton at the Home Management House</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+2866220</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Arrants, Patricia Virginia</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">undated, circa 1955-1958</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Arrants writes &quot;check where everyone is looking- no two to the same place&quot;.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Personal photographs of Florida State University student Patricia Arrants, class of 1958 (B.S. Home Ec.).  These photographs are part of the Pat Arrants Collection, 1955-1958 (HP-2010-027).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Arrants, Patricia Virginia</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Home Management House</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Napier, Ardyce</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Corbin, Cherrylene</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Hamilton, June</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1950s</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/2866220</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT2866220</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:13657</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_13658</identifier><datestamp>2013-11-26T23:42:03Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Four Women at the Dining Table in the Home Management House</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+2866221</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Arrants, Patricia Virginia</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">undated, circa 1955-1958</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">&quot;Proper Dining&quot;.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Personal photographs of Florida State University student Patricia Arrants, class of 1958 (B.S. Home Ec.).  These photographs are part of the Pat Arrants Collection, 1955-1958 (HP-2010-027).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Arrants, Patricia Virginia</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Home Management House</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1950s</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/2866221</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT2866221</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:13658</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_13659</identifier><datestamp>2013-11-26T23:42:07Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Two Women at an Ironing Board</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+2866222</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Arrants, Patricia Virginia</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">undated, circa 1955-1958</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">&quot;ironing the table linens&quot;.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Personal photographs of Florida State University student Patricia Arrants, class of 1958 (B.S. Home Ec.).  These photographs are part of the Pat Arrants Collection, 1955-1958 (HP-2010-027).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Arrants, Patricia Virginia</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Home Management House</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1950s</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/2866222</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT2866222</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:13659</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_13660</identifier><datestamp>2013-11-26T23:42:12Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Westcott Building in the Snow</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+2866223</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Arrants, Patricia Virginia</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">12 February 1958</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Personal photographs of Florida State University student Patricia Arrants, class of 1958 (B.S. Home Ec.).  These photographs are part of the Pat Arrants Collection, 1955-1958 (HP-2010-027).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Arrants, Patricia Virginia</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Westcott Building</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1950s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Westcott Fountain</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Campus Scenes</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/2866223</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT2866223</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:13660</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_13661</identifier><datestamp>2013-11-26T23:42:17Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Pat Arrants with Other Students in the Snow</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+2866224</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Arrants, Patricia Virginia</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">12 February 1958</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Arrants describes this as the night of the Garnet Key Induction (girls in white skirts).  Persons in the photograph are identified as (standing, left to right) Pat Arrants, Joyce Wethrup, unknown, (front row, left to right) Anne Williams, Celia Norris and Jacqueline Bouder (now Dr. Jacqueline B. Clemens).</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Personal photographs of Florida State University student Patricia Arrants, class of 1958 (B.S. Home Ec.).  These photographs are part of the Pat Arrants Collection, 1955-1958 (HP-2010-027).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Arrants, Patricia Virginia</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1950s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Student Life</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Bouder, Jacqueline</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Clemens, Jacqueline B.</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Norris, Celia</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Wethrup, Joyce</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Williams, Anne</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/2866224</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT2866224</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:13661</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_13662</identifier><datestamp>2013-11-26T23:42:22Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Palm Tree in the Snow</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+2866225</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Arrants, Patricia Virginia</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">12 February 1958</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Personal photographs of Florida State University student Patricia Arrants, class of 1958 (B.S. Home Ec.).  These photographs are part of the Pat Arrants Collection, 1955-1958 (HP-2010-027).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Arrants, Patricia Virginia</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1950s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Campus Scenes</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/2866225</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT2866225</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:13662</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_13663</identifier><datestamp>2013-11-26T23:42:27Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Automobile Covered in Snow</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+2866226</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Arrants, Patricia Virginia</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">12 February 1958</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Personal photographs of Florida State University student Patricia Arrants, class of 1958 (B.S. Home Ec.).  These photographs are part of the Pat Arrants Collection, 1955-1958 (HP-2010-027).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Arrants, Patricia Virginia</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1950s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Campus Scenes</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/2866226</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT2866226</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:13663</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_13664</identifier><datestamp>2013-11-26T23:42:32Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Four Men</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+2866227</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Arrants, Patricia Virginia</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">circa 1955-1958</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Personal photographs of Florida State University student Patricia Arrants, class of 1958 (B.S. Home Ec.).  These photographs are part of the Pat Arrants Collection, 1955-1958 (HP-2010-027).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Arrants, Patricia Virginia</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1950s</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/2866227</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT2866227</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:13664</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_13665</identifier><datestamp>2013-11-26T23:42:37Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Man Being Thrown into Westcott Fountain</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+2866228</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Arrants, Patricia Virginia</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">circa 1955-1958</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Arrants writes that &quot;when a boy 'pinned' his girl, he got thrown in the Westcott pool&quot;.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Personal photographs of Florida State University student Patricia Arrants, class of 1958 (B.S. Home Ec.).  These photographs are part of the Pat Arrants Collection, 1955-1958 (HP-2010-027).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Arrants, Patricia Virginia</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Westcott Fountain</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1950s</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/2866228</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT2866228</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:13665</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_13666</identifier><datestamp>2013-11-26T23:42:42Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">North Cawthon making Homecoming Decorations</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+2866229</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Arrants, Patricia Virginia</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">circa 1955-1958</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Personal photographs of Florida State University student Patricia Arrants, class of 1958 (B.S. Home Ec.).  These photographs are part of the Pat Arrants Collection, 1955-1958 (HP-2010-027).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Arrants, Patricia Virginia</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1950s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Homecoming</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/2866229</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT2866229</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:13666</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_13667</identifier><datestamp>2013-11-26T23:42:46Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Pat Arrants Making Homecoming Decorations</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+2866230</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Arrants, Patricia Virginia</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">circa 1955-1958</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Personal photographs of Florida State University student Patricia Arrants, class of 1958 (B.S. Home Ec.).  These photographs are part of the Pat Arrants Collection, 1955-1958 (HP-2010-027).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Arrants, Patricia Virginia</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Homecoming</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1950s</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/2866230</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT2866230</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:13667</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_13668</identifier><datestamp>2013-11-26T23:42:51Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Two Women Making Homecoming Decorations</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+2866231</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Arrants, Patricia Virginia</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">circa 1955-1958</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Personal photographs of Florida State University student Patricia Arrants, class of 1958 (B.S. Home Ec.).  These photographs are part of the Pat Arrants Collection, 1955-1958 (HP-2010-027).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Arrants, Patricia Virginia</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Homecoming</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1950s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Student Life</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/2866231</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT2866231</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:13668</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_13669</identifier><datestamp>2013-11-26T23:42:56Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Pat arrants with Two Other in Graduation Caps and Gowns</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+2866232</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Arrants, Patricia Virginia</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">circa 1955-1958</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Personal photographs of Florida State University student Patricia Arrants, class of 1958 (B.S. Home Ec.).  These photographs are part of the Pat Arrants Collection, 1955-1958 (HP-2010-027).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Arrants, Patricia Virginia</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Graduation</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1950s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Buildings and Grounds</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Student Life</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/2866232</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT2866232</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:13669</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_13670</identifier><datestamp>2013-11-26T23:43:01Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Group of Women Wearing Caps and Clowning Around</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+2866233</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Arrants, Patricia Virginia</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">circa 1955-1958</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Personal photographs of Florida State University student Patricia Arrants, class of 1958 (B.S. Home Ec.).  These photographs are part of the Pat Arrants Collection, 1955-1958 (HP-2010-027).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Arrants, Patricia Virginia</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1950s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Student Life</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/2866233</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT2866233</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:13670</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_13671</identifier><datestamp>2013-11-26T23:43:06Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Pat Arrants with a Group of Women Wearing Caps While Clowning Around in a Dorm Hallway</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+2866234</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Arrants, Patricia Virginia</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">circa 1955-1958</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Personal photographs of Florida State University student Patricia Arrants, class of 1958 (B.S. Home Ec.).  These photographs are part of the Pat Arrants Collection, 1955-1958 (HP-2010-027).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Arrants, Patricia Virginia</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1950s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Student Life</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/2866234</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT2866234</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:13671</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_13672</identifier><datestamp>2013-11-26T23:43:25Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">&quot;Zo-Imba&quot; Cast Members Mary Jackson, Pat Arrants, Jack Rogero, John Ziles, and Don Teal</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+2866235</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Arrants, Patricia Virginia</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">circa 1955</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Personal photographs of Florida State University student Patricia Arrants, class of 1958 (B.S. Home Ec.).  These photographs are part of the Pat Arrants Collection, 1955-1958 (HP-2010-027).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Arrants, Patricia Virginia</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Jackson, Mary</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Rogero, Jack</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Ziles, John</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Teal, Don</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Zo-Imba Production</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1950s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Campus Productions</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/2866235</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT2866235</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:13672</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_13673</identifier><datestamp>2013-11-26T23:43:29Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">&quot;Our Director&quot; Herb Reinhart</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+2866236</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Arrants, Patricia Virginia</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">circa 1955</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Personal photographs of Florida State University student Patricia Arrants, class of 1958 (B.S. Home Ec.).  These photographs are part of the Pat Arrants Collection, 1955-1958 (HP-2010-027).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Arrants, Patricia Virginia</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Reinhart, Herb</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Zo-Imba Production</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1950s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Campus Productions</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/2866236</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT2866236</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:13673</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_13674</identifier><datestamp>2013-11-26T23:43:33Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">&quot;Jo, Bill and Sandy&quot; Singing</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+2866237</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Arrants, Patricia Virginia</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">circa 1955</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Jo Jones, Bill Roche, and Sandra Darling.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Personal photographs of Florida State University student Patricia Arrants, class of 1958 (B.S. Home Ec.).  These photographs are part of the Pat Arrants Collection, 1955-1958 (HP-2010-027).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Arrants, Patricia Virginia</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Zo-Imba Production</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Jones, Jo</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Roche, Bill</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Darling, Sandra</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1950s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Campus Productions</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/2866237</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT2866237</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:13674</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_13675</identifier><datestamp>2013-11-26T23:43:37Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Rehearsal in the Gym. Blanche Alligood, Mary Jackson, and John Zilles </dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+2866238</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Arrants, Patricia Virginia</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">circa 1955</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Personal photographs of Florida State University student Patricia Arrants, class of 1958 (B.S. Home Ec.).  These photographs are part of the Pat Arrants Collection, 1955-1958 (HP-2010-027).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Arrants, Patricia Virginia</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Zo-Imba Production</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Ziles, John</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Alligood, Blanche</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Jackson, Mary</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1950s</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/2866238</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT2866238</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:13675</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_13676</identifier><datestamp>2013-11-26T23:43:42Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">John Ziles and Mary Jackson</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+2866239</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Arrants, Patricia Virginia</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">circa 1955</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Personal photographs of Florida State University student Patricia Arrants, class of 1958 (B.S. Home Ec.).  These photographs are part of the Pat Arrants Collection, 1955-1958 (HP-2010-027).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Arrants, Patricia Virginia</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Zo-Imba Production</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Ziles, John</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Jackson, Mary</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1950s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Campus Productions</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/2866239</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT2866239</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:13676</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_13677</identifier><datestamp>2013-11-26T23:43:47Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">G. Don Teal, Author and Actor</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+2866240</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Arrants, Patricia Virginia</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">circa 1955</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Personal photographs of Florida State University student Patricia Arrants, class of 1958 (B.S. Home Ec.).  These photographs are part of the Pat Arrants Collection, 1955-1958 (HP-2010-027).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Arrants, Patricia Virginia</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Zo-Imba Production</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Teal, Don</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1950s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Campus Productions</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/2866240</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT2866240</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:13677</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_13678</identifier><datestamp>2013-11-26T23:43:52Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">&quot;Dr. Burnfield&quot; (Don Teal) in the Zo-Imba Production</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+2866241</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Arrants, Patricia Virginia</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">circa 1955</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Personal photographs of Florida State University student Patricia Arrants, class of 1958 (B.S. Home Ec.).  These photographs are part of the Pat Arrants Collection, 1955-1958 (HP-2010-027).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Arrants, Patricia Virginia</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Zo-Imba Production</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Teal, Don</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1950s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Campus Productions</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/2866241</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT2866241</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:13678</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_13680</identifier><datestamp>2013-11-26T23:44:03Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">&quot;Scientist&quot;, Jack Rogero</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+2866243</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Arrants, Patricia Virginia</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">circa 1955</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Personal photographs of Florida State University student Patricia Arrants, class of 1958 (B.S. Home Ec.).  These photographs are part of the Pat Arrants Collection, 1955-1958 (HP-2010-027).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Arrants, Patricia Virginia</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Zo-Imba Production</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Rogero, Jack</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1950s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Campus Productions</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/2866243</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT2866243</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:13680</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_13681</identifier><datestamp>2013-11-26T23:44:10Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">&quot;Botanist&quot;, Mary Jackson</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+2866244</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Arrants, Patricia Virginia</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">circa 1955</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Personal photographs of Florida State University student Patricia Arrants, class of 1958 (B.S. Home Ec.).  These photographs are part of the Pat Arrants Collection, 1955-1958 (HP-2010-027).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Arrants, Patricia Virginia</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Zo-Imba Production</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Jackson, Mary</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1950s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Campus Productions</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/2866244</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT2866244</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:13681</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_13682</identifier><datestamp>2013-11-26T23:44:16Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">TV Studio, Announcer (David Dreis) and the Deadheads (Jo Jones, Bill Roche, and Sandra Darling) in the Zo-Imba Production</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+2866245</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Arrants, Patricia Virginia</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">circa 1955</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Personal photographs of Florida State University student Patricia Arrants, class of 1958 (B.S. Home Ec.).  These photographs are part of the Pat Arrants Collection, 1955-1958 (HP-2010-027).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Arrants, Patricia Virginia</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Zo-Imba Production</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Jones, Jo</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Roche, Bill</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Darling, Sandra</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Dreis, David</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1950s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Campus Productions</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/2866245</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT2866245</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:13682</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_13683</identifier><datestamp>2013-11-26T23:44:22Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">The Big Five on the Ropes (Mary Jackson, Pat Arrants, Jack Rogero, John Ziles, and Don Teal)</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+2866246</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Arrants, Patricia Virginia</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">circa 1955</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Personal photographs of Florida State University student Patricia Arrants, class of 1958 (B.S. Home Ec.).  These photographs are part of the Pat Arrants Collection, 1955-1958 (HP-2010-027).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Arrants, Patricia Virginia</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Zo-Imba Production</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Jackson, Mary</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Rogero, Jack</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Ziles, John</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Teal, Don</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1950s</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/2866246</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT2866246</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:13683</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_13684</identifier><datestamp>2013-11-26T23:44:29Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Zo-Imba Production</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+2866247</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Arrants, Patricia Virginia</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">circa 1955</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Persons in the photograph are identified as Pat Arrants, Joe Tarbuck, Jack Rogero, Loida Velozuez, Fred Siegrist, Chris Ginocchio, Sandra Darling, John Ziles, Nancy Cubbon, Jim Kearce, Louise Petering, Beverly Laurent, and Bill Roche.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Personal photographs of Florida State University student Patricia Arrants, class of 1958 (B.S. Home Ec.).  These photographs are part of the Pat Arrants Collection, 1955-1958 (HP-2010-027).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Arrants, Patricia Virginia</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Zo-Imba Production</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Tarbuck, Joe</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Rogero, Jack</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Velozuez, Loida</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Siegrist, Fred</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Ginocchio, Chris</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Darling, Sandra</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Ziles, John</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Cubbon, Nancy</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Kearce, Jim</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Petering, Louise</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Laurent, Beverly</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Roche, Bill</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1950s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Campus Productions</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/2866247</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT2866247</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:13684</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_13685</identifier><datestamp>2013-11-26T23:44:35Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Zo-Imba Production</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+2866248</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Arrants, Patricia Virginia</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">circa 1955</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Persons in the photograph are identified as Pat Arrants, Jack Rogero, Loida Velozuez, Jim Kearce, Louise Petering, Sandra Darling, John Ziles, Bill Roche, Al Mattman, and E.L. Allen.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Personal photographs of Florida State University student Patricia Arrants, class of 1958 (B.S. Home Ec.).  These photographs are part of the Pat Arrants Collection, 1955-1958 (HP-2010-027).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Arrants, Patricia Virginia</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Zo-Imba Production</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Rogero, Jack</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Velozuez, Loida</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Kearce, Jim</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Petering, Louise</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Darling, Sandra</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Ziles, John</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Roche, Bill</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Mattman, Al</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Allen, E.L.</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1950s</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/2866248</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT2866248</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:13685</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_13686</identifier><datestamp>2013-11-26T23:44:42Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Patricia Arrants in Newspaper Clipping about Zo-Imba</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+2866249</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Arrants, Patricia Virginia</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">circa 1955</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Caption reads: Chattanooga's Patricia Arrants, second from right, is shown with some of the students at Florida State University taking part in the school's annual musical comedy, &quot;Zo-Imba.&quot; The musical is a satire concerned with an anthropological expedition to a miniture island near Borneo.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Personal photographs of Florida State University student Patricia Arrants, class of 1958 (B.S. Home Ec.).  These photographs are part of the Pat Arrants Collection, 1955-1958 (HP-2010-027).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Arrants, Patricia Virginia</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">circa 1950s</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Campus Productions</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/dt/2866249</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT2866249</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:13686</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_13679</identifier><datestamp>2015-01-20T20:08:41Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">&quot;A Cannibal Wife&quot; in the Zo-Imba Production</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 2866242</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Arrants, Patricia Virginia</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Heritage Protocol, Florida State University, Tallahassee, Florida.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">circa 1955</dc:date>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Personal photographs of Florida State University student Patricia Arrants, class of 1958 (B.S. Home Ec.).  These photographs are part of the Pat Arrants Collection, 1955-1958 (HP-2010-027).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Arrants, Patricia Virginia</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Zo-Imba Production</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Campus Productions</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fcla/dt/2866242</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This image is the property of Florida State University. Its use is governed by U.S. and international copyright laws. To obtain a high-resolution copy of this image for a fee, please contact Florida State University Heritage Protocol.</dc:rights>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">This collection is open to all researchers.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT2866242</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:13679</dc:identifier>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1950-1960</dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">1950-1960</dc:coverage>
+</oai_dc:dc>
+</metadata></record>
+</repository>

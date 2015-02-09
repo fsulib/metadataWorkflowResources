@@ -1,0 +1,813 @@
+<repository xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"      xmlns:dc="http://purl.org/dc/elements/1.1/"      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instanc">
+<record><header><identifier>oai:fsu.digital.flvc.org:fsu_6637</identifier><datestamp>2013-10-21T17:06:29Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Approximate detail of revenue and expenses from 1791 to 1798</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6637</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">3180297</dc:identifier>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">French</dc:language>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://purl.flvc.org/fcla/dt/3180297</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">FSDT3180297</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6637</dc:identifier>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 p.</dc:format>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">France--History--Revolution, 1789-1799.</dc:subject>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Receipts</dc:type>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Receipt detailing the weight, amount, and expenses of various army purchases during the war between France and Austria.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Dillon, Arthur, comte, 1750-1794</dc:subject>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_6640</identifier><datestamp>2013-10-21T18:02:15Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Berwick Regiment list of revenue and expenses. January, 1772 to May, 1772</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6640</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">3180300</dc:identifier>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">French</dc:language>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://purl.flvc.org/fcla/dt/3180300</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">FSDT3180300</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6640</dc:identifier>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Bonaparte, Napoleon, 1769-1821</dc:subject>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Receipts</dc:type>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Receipts listing the items purchased, whom they were purchased by, and total expenses.</dc:description>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_6633</identifier><datestamp>2013-10-22T13:27:03Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Text and drawings</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6633</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">3180293</dc:identifier>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">French</dc:language>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://purl.flvc.org/fcla/dt/3180293</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">FSDT3180293</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6633</dc:identifier>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">2 p.</dc:format>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Notes</dc:type>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Untitled document with handwritten notes, diagrams, and drawings.</dc:description>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_6628</identifier><datestamp>2013-10-22T14:12:09Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Regulations concerning the cadet-gentlemen, made into the troops of the king, by the order of 25 March 1776.</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6628</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">3180288</dc:identifier>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">French</dc:language>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://purl.flvc.org/fcla/dt/3180288</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">FSDT3180288</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6628</dc:identifier>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">7 p.</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Rules and regulations for the troops concerning the management of receipts, supplies, lodgings, payment, clothing, etc.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"/>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Paris (France)</dc:coverage>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_6649</identifier><datestamp>2013-10-22T14:40:56Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">The president of the electoral college to the gentlemen voters of Herault.</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6649</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">3180309</dc:identifier>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">French</dc:language>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://purl.flvc.org/fcla/dt/3180309</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">FSDT3180309</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6649</dc:identifier>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">4 p.</dc:format>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Letter</dc:type>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Letter written to the male voters living in Herault, France from the president of the electoral college in Paris named Le Comte de Lally-Tolendal. The letter is meant to convince wealthy men that the newly re-instated monarchy will ensure that they are allowed to vote in an election.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Lally-Tolendal, Trophime-Gérard, marquis de, 1751-1830</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">France. Assemblée nationale (1871-1942). Chambre des députés</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"/>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Hérault (France)</dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"/>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Paris (France)</dc:coverage>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_6631</identifier><datestamp>2013-10-22T20:37:30Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Observations of Count Lally-Tolendal, on the letter written by M. Le Comte de Mirabeau</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6631</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">3180291</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lally-Tolendal, Trophime-Gerard, marquis de, 1751-1830</dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">1789</dc:contributor>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">French</dc:language>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://purl.flvc.org/fcla/dt/3180291</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">FSDT3180291</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6631</dc:identifier>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">53 p.</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Response letter written that states how heroic Le Comte de Mirabeau is and argues against Le Comte de Saint-Priest.</dc:description>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Journals</dc:type>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Saint-Priest, Marie Joseph Emmanuel Guignard, vicomte de, 1732-1794</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Mirabeau, Marie-Emilie de Riquetti, comtesse de, 1754?-1800</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"/>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Palais-Royal (Paris, France)</dc:coverage>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_6659</identifier><datestamp>2013-10-24T13:30:02Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Notice from the department of war</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6659</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">3180319</dc:identifier>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">French</dc:language>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://purl.flvc.org/fcla/dt/3180319</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">FSDT3180319</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6659</dc:identifier>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 p.</dc:format>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Letter</dc:type>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Letter from the office of the Department of War under King Louis XVIII awarding Dearron Deserennet the Order of the Knight. The notice is signed by the secretary of the Department of War and bears the king's coat of arms.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Monarchy--France--History.</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"/>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Paris (France)</dc:coverage>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_6661</identifier><datestamp>2013-10-25T17:08:50Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Letter from Camille Desmoulins to General Arthur Dillon</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6661</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">3180321</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Desmoulins, Camille, 1760-1794</dc:creator>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">French</dc:language>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Dillon, Arthur, comte, 1750-1794</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Revolutionary literature, French.</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://purl.flvc.org/fcla/dt/3180321</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">FSDT3180321</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6661</dc:identifier>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">59 p.</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Letter written by Camille Desmoulins, a member of the Paris Convention, to General Dillon, who was imprisoned at the time. This document also includes the letter from Dillon informing Desmoulins and the Convention of his wrongful imprisonment and Desmoulins's response.</dc:description>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Letter</dc:type>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_6638</identifier><datestamp>2013-10-25T18:02:22Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Letter from the king</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6638</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">3180298</dc:identifier>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">French</dc:language>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://purl.flvc.org/fcla/dt/3180298</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">FSDT3180298</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6638</dc:identifier>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">4 p.</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Letter from the king written for the Duke of Berwick and commander of the spanish army that explains the contentious relationship between France and Spain during the War of the Quadruple Alliance.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Berwick, James Fitzjames, Duke of, 1670-1734</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Louis XV, King of France, 1710-1774.</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"/>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Paris (France)</dc:coverage>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_6666</identifier><datestamp>2013-10-25T18:03:21Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Berwick Regiment list of revenue and expenses. May, 1771 to May, 1772</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6666</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">3180326</dc:identifier>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">French</dc:language>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://purl.flvc.org/fcla/dt/3180326</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">FSDT3180326</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6666</dc:identifier>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Bonaparte, Napoleon, 1769-1821</dc:subject>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Receipts</dc:type>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 p.</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Receipts listing purchases, expenses, and whom the purchases were made by the Berwick Regiment.</dc:description>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_6622</identifier><datestamp>2013-10-25T18:49:37Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">List of the regiment of Dillon</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6622</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">3180283</dc:identifier>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">French</dc:language>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Dillon, Arthur, comte, 1750-1794</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://purl.flvc.org/fcla/dt/3180283</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">FSDT3180283</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6622</dc:identifier>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">2 p.</dc:format>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Notes</dc:type>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Handwritten list of the names, rankings, and other attributes of the men serving in the regiment of Arthur Dillon, which includes notes at the bottom and on the second page.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">First Coalition, War of the, 1792-1797.</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">France--History--Revolution, 1789-1799.</dc:subject>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_6660</identifier><datestamp>2013-10-28T17:16:47Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">The red book</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6660</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">3180320</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Desmoulins, Lucile, 1770 or 71-1794</dc:creator>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">French</dc:language>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://purl.flvc.org/fcla/dt/3180320</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">FSDT3180320</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6660</dc:identifier>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Book that is named &quot;The red book,&quot; written by Lucile Duplessis, wife of Camille Desmoulins. The inscriptions at the front state who the book was written by and that in 1834, it was given to Lucile Duplessis's sister, and the remainder of the book contains poems written by Lucile Duplessis.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Desmoulins, Camille, 1760-1794.</dc:subject>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Books</dc:type>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">26 p.</dc:format>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_6645</identifier><datestamp>2013-10-28T17:17:23Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">The old franciscan: no. 1</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6645</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">3180305</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Desmoulins, Camille, 1760-1794</dc:creator>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">French</dc:language>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://purl.flvc.org/fcla/dt/3180305</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">FSDT3180305</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6645</dc:identifier>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">8 p.</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">First edition of &quot;The Old Franciscan&quot; written by Camille Desmoulins that appeals to those who fight during the French Revolution in favor of a french republic and argues against the restraints put upon journalists in France.</dc:description>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Journals</dc:type>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Revolutionary literature, French.</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Jacobins.</dc:subject>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_6656</identifier><datestamp>2013-10-28T17:18:05Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">The old franciscan: no. 2</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6656</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">3180316</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Desmoulins, Camille, 1760-1794</dc:creator>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">French</dc:language>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://purl.flvc.org/fcla/dt/3180316</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">FSDT3180316</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6656</dc:identifier>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">16 p.</dc:format>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Journals</dc:type>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Second edition of &quot;The Old Franciscan&quot; written by Camille Desmoulins that argues against the Girondins and in favor of the Jacobins and uses specific quotes, allusions, and examples to do so.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Revolutionary literature, French.</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Jacobins.</dc:subject>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_6643</identifier><datestamp>2013-10-28T17:18:31Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">The old franciscan: no. 3</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6643</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">3180303</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Desmoulins, Camille, 1760-1794</dc:creator>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">French</dc:language>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://purl.flvc.org/fcla/dt/3180303</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">FSDT3180303</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6643</dc:identifier>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Journals</dc:type>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">25 p.</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Third edition of &quot;The Old Franciscan&quot; that includes sketches of flowers on the cover. The journal discusses the idea that monarchies are built upon deceit and corruption while republics are more virtuous.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Revolutionary literature, French.</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Jacobins.</dc:subject>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_6624</identifier><datestamp>2013-10-28T17:18:57Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">The old franciscan: no. 4</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6624</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">3180285</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Desmoulins, Camille, 1760-1794</dc:creator>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">French</dc:language>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://purl.flvc.org/fcla/dt/3180285</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">FSDT3180285</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6624</dc:identifier>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Journals</dc:type>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">16 p.</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Fourth edition of &quot;The Old Franciscan&quot; written to defend the third edition and argue against the monarchy of France.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Revolutionary literature, French.</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Jacobins.</dc:subject>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_6652</identifier><datestamp>2013-10-28T17:19:19Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">The old franciscan: no. 5</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6652</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">3180312</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Desmoulins, Camille, 1760-1794</dc:creator>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">French</dc:language>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://purl.flvc.org/fcla/dt/3180312</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">FSDT3180312</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6652</dc:identifier>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">56 p.</dc:format>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Journals</dc:type>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Fifth edition of &quot;The Old Franciscan&quot; that includes sketches of flowers on the cover. This edition describes why Camille Desmoulins felt he needed to write a political journal and support the Republic and the Jacobins.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Revolutionary literature, French.</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Jacobins.</dc:subject>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_6653</identifier><datestamp>2013-10-28T17:19:44Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">The old franciscan: no. 6</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6653</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">3180313</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Desmoulins, Camille, 1760-1794</dc:creator>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">French</dc:language>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://purl.flvc.org/fcla/dt/3180313</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">FSDT3180313</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6653</dc:identifier>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">20 p.</dc:format>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Journals</dc:type>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Sixth edition of &quot;The Old Franciscan&quot; that includes sketches of flowers on the cover and claims that the monarchy cannot bring freedom to people the way a republic can.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Revolutionary literature, French.</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Jacobins.</dc:subject>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_6658</identifier><datestamp>2013-10-28T17:20:02Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">The old franciscan: no. 7</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6658</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">3180318</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Desmoulins, Camille, 1760-1794</dc:creator>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">French</dc:language>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://purl.flvc.org/fcla/dt/3180318</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">FSDT3180318</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6658</dc:identifier>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">56 p.</dc:format>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Journals</dc:type>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Seventh edition of &quot;The Old Franciscan,&quot; which argues against those who favor monarchy and supports those who favor republic. This journal uses many specific references to Classical authors.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Revolutionary literature, French.</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Jacobins.</dc:subject>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_6644</identifier><datestamp>2013-10-28T18:01:53Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Letter from Arthur Dillon to Camille Desmoulins</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6644</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">3180304</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Dillon, Arthur, comte, 1750-1794.</dc:creator>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">French</dc:language>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://purl.flvc.org/fcla/dt/3180304</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">FSDT3180304</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6644</dc:identifier>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">3 p.</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Letter written by General Arthur Dillon concerning his imprisonment and the need for a French Republic.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Desmoulins, Camille, 1760-1794.</dc:subject>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Letter</dc:type>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"/>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Paris (France)</dc:coverage>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_6648</identifier><datestamp>2013-10-28T20:34:14Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Letter from the embassy of France to Rome</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6648</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">3180308</dc:identifier>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Italian</dc:language>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">France--History--19th century.</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://purl.flvc.org/fcla/dt/3180308</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">FSDT3180308</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6648</dc:identifier>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 p.</dc:format>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Letter</dc:type>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Letter announcing that Earl August Henry Dillon at Rome is being awarded the &quot;gold cross of devotion&quot; by the French Embassy.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"/>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Rome (Italy)</dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"/>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">France</dc:coverage>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_6639</identifier><datestamp>2013-10-28T20:51:51Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Note regarding Dillon's Regiment</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6639</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">3180299</dc:identifier>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">French</dc:language>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://purl.flvc.org/fcla/dt/3180299</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">FSDT3180299</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6639</dc:identifier>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">2 p.</dc:format>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_6627</identifier><datestamp>2013-10-29T13:41:14Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Letter from the military department to the Vicount of Foncaude</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6627</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">3180287</dc:identifier>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">French</dc:language>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://purl.flvc.org/fcla/dt/3180287</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">FSDT3180287</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6627</dc:identifier>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 p.</dc:format>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Letter</dc:type>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Letter from the Lieutenant-General, Count O-Mahony of the Military Department to the Vicount of Foncaude. Most of the letter is illegible.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">France--History--19th century.</dc:subject>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_6657</identifier><datestamp>2013-10-29T13:49:09Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Letter from Lieutenant of Lally-Tolendal</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6657</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">3180317</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lally-Tolendal, Trophime-Gerard, marquis de, 1751-1830</dc:creator>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">French</dc:language>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://purl.flvc.org/fcla/dt/3180317</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">FSDT3180317</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6657</dc:identifier>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">2 p.</dc:format>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Letter</dc:type>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Letter from the Lieutenant of Lally-Toldendal to Monsieur Baron concerning the French Republic.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">France--History--19th century.</dc:subject>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_6665</identifier><datestamp>2013-10-29T14:09:03Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Letter from the Count of Bourke</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6665</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">3180325</dc:identifier>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">French</dc:language>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://purl.flvc.org/fcla/dt/3180325</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">FSDT3180325</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6665</dc:identifier>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">2 p.</dc:format>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Letter</dc:type>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"/>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Paris (France)</dc:coverage>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Letter written by Count of Bourke to another, unknown count concerning the gentlemen and king of France. Most of the letter is illegible.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Monarchy--France--History.</dc:subject>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_6662</identifier><datestamp>2013-10-29T14:29:29Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Letter from the superior officers of the Dillon Regiment regarding Sergeant Prudeaux</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6662</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">3180322</dc:identifier>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">French</dc:language>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">France--History--18th century.</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://purl.flvc.org/fcla/dt/3180322</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">FSDT3180322</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6662</dc:identifier>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">2 p.</dc:format>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Letter</dc:type>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Letter written by the superior officers of the Dillon Regiment urging that Sergeant Prudeaux be allowed to continue his services in the military.</dc:description>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_6636</identifier><datestamp>2013-10-29T14:34:44Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Letter from the superior officers of the Dillon Regiment regarding Charles Moy</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6636</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">3180296</dc:identifier>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">French</dc:language>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">France--History--18th century.</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://purl.flvc.org/fcla/dt/3180296</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">FSDT3180296</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6636</dc:identifier>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">3 p.</dc:format>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Letter</dc:type>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Letter written by the superior officers of the Dillon Regiment concerning Charles Moy's injuries and his inability to continue fighting in the army.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Moy, Charles-Alexandre de, 1750-1834</dc:subject>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_6629</identifier><datestamp>2013-10-29T14:44:24Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Letter from the Army of the French Republic regarding General Macdonald</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6629</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">3180289</dc:identifier>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">French</dc:language>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://purl.flvc.org/fcla/dt/3180289</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">FSDT3180289</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6629</dc:identifier>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 p.</dc:format>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Letter</dc:type>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Letter from the Army of the French Republic concerning General Macdonald. Includes the seal of the French Republic at the time and most of the letter is illegible.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">France--History--Revolution, 1789-1799.</dc:subject>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_6667</identifier><datestamp>2013-10-29T19:49:01Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">My good mama letter</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6667</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">3180327</dc:identifier>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">French</dc:language>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://purl.flvc.org/fcla/dt/3180327</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">FSDT3180327</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6667</dc:identifier>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Letter</dc:type>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">2 p.</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Letter that is addressed to &quot;my good mama&quot; concerning the army. Most of the letter, including the signature, is illegible.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">France--History--19th century.</dc:subject>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_6635</identifier><datestamp>2013-10-29T20:25:05Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Letter to the Count of Dillon</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6635</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">3180295</dc:identifier>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">French</dc:language>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://purl.flvc.org/fcla/dt/3180295</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">FSDT3180295</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6635</dc:identifier>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">2 p.</dc:format>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Letter</dc:type>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Letter from the Count of Dillon listing certain expenses and other concerns. Much of the letter is illegible.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">France--History--19th century.</dc:subject>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_6646</identifier><datestamp>2013-10-29T20:41:34Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Letter to Brother Philippe of Colloredo from the Count of Dillon</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6646</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">3180306</dc:identifier>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">French</dc:language>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://purl.flvc.org/fcla/dt/3180306</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">FSDT3180306</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6646</dc:identifier>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">3 p.</dc:format>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Letter</dc:type>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Letter written by Count August Henry of Dillon to Brother Philip of Colloredo regarding payments and other issues. Most of the letter is illegible.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">France--History.</dc:subject>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_6641</identifier><datestamp>2013-10-29T20:55:10Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Letter to J. L. Mallet-du-San</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6641</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">3180301</dc:identifier>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">French</dc:language>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://purl.flvc.org/fcla/dt/3180301</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">FSDT3180301</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6641</dc:identifier>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">3 p.</dc:format>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Letter</dc:type>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Napoleonic Wars, 1800-1815.</dc:subject>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Personal letter written to J. L. Mallet-du-San, secretary to the auditor's office in London concerning the Napoleonic Wars and the author's own concerns.</dc:description>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_6664</identifier><datestamp>2013-11-04T18:24:04Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Law: on attacks against M. Dillon and others</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6664</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">3180324</dc:identifier>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">French</dc:language>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://purl.flvc.org/fcla/dt/3180324</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">FSDT3180324</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6664</dc:identifier>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">2 p.</dc:format>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Journals</dc:type>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Document criticizing the way in which the National Assembly tried to suspend Arthur Dillon and others as members.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">France--History--18th century.</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Dillon, Arthur, comte, 1750-1794</dc:subject>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_6655</identifier><datestamp>2013-11-04T18:27:17Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Law: Arthur Dillon and the National Assembly</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6655</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">3180315</dc:identifier>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">French</dc:language>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://purl.flvc.org/fcla/dt/3180315</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">FSDT3180315</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6655</dc:identifier>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">2 p.</dc:format>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Journals</dc:type>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Document written on behalf of the National Assembly, stating that, by the motion of a member, a decree that Arthur Dillon lost the confidence of the nation must be suspended.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">France--History--18th century.</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Dillon, Arthur, comte, 1750-1794</dc:subject>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_6647</identifier><datestamp>2013-11-04T18:36:46Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Salary for Lieutenant Colonel James Gormocan</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6647</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">3180307</dc:identifier>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">French</dc:language>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">France--History--Revolution, 1789-1799.</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://purl.flvc.org/fcla/dt/3180307</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">FSDT3180307</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6647</dc:identifier>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 p.</dc:format>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Letter</dc:type>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Handwritten letter detailing the battles Lieutenant Colonel James Gormocan has fought in and what his pay should be based upon his duties as an officer in the 92nd Regiment.</dc:description>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_6630</identifier><datestamp>2013-11-04T18:38:04Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Document for the relief stipend from the Dillon Regiment</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6630</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">3180290</dc:identifier>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">French</dc:language>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">France--History--18th century.</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://purl.flvc.org/fcla/dt/3180290</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">FSDT3180290</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6630</dc:identifier>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 p.</dc:format>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Letter</dc:type>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Letter explaining the specific expenses of the Dillon Regiment and including some notes at the top about these expenses.</dc:description>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_6634</identifier><datestamp>2013-11-04T19:04:41Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Note of the documents necessary to obtain the cross of devotion</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6634</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">3180294</dc:identifier>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Italian</dc:language>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://purl.flvc.org/fcla/dt/3180294</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">FSDT3180294</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6634</dc:identifier>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 p.</dc:format>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Notes</dc:type>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Document explaining the relations one must possess to obtain the Cross of Devotion, including a genealogy chart and explanation of how one can prove their relations.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Italy.</dc:subject>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_6642</identifier><datestamp>2013-11-04T19:15:15Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Note from Lieutenant Colonel O'Kennelly</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6642</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">3180302</dc:identifier>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">French</dc:language>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://purl.flvc.org/fcla/dt/3180302</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">FSDT3180302</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6642</dc:identifier>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 p.</dc:format>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Notes</dc:type>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Note to the volunteers in Lieutenant Colonel O'Kennelly's regiment, including a seal of the French army. Most of the letter is illegible.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">France--History--18th century.</dc:subject>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_6654</identifier><datestamp>2013-11-04T19:25:00Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Note from Surgeon-Major LeGros</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6654</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">3180314</dc:identifier>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">French</dc:language>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://purl.flvc.org/fcla/dt/3180314</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">FSDT3180314</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6654</dc:identifier>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 p.</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Note written by Surgeon-Major LeGros, who was a member of Arthur Dillon's regiment, that discusses the surgical staff.</dc:description>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Notes</dc:type>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">France--History--18th century.</dc:subject>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_6650</identifier><datestamp>2013-11-04T19:32:47Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Note from Surgeon-Major LeGros regarding Charles Moy</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6650</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">3180310</dc:identifier>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">French</dc:language>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://purl.flvc.org/fcla/dt/3180310</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">FSDT3180310</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6650</dc:identifier>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 p.</dc:format>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Notes</dc:type>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Note written by Surgeon-Major LeGross, who was part of Arthur Dillon's regiment, concerning the surgical staff and Charles Moy from the infantry.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">France--History--18th century.</dc:subject>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_6626</identifier><datestamp>2013-11-04T19:42:11Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Note from the Duke of Fitz-James, Paris</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6626</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">3180286</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Charles de Fitz-James, 1712-1787</dc:creator>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">French</dc:language>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://purl.flvc.org/fcla/dt/3180286</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">FSDT3180286</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6626</dc:identifier>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 p.</dc:format>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Letter</dc:type>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Brief response to a previous letter sent to the Duke of Fitz-James. At the end of the letter, the Duke proclaims himself a humble and obedient servant to the man this letter was written to.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">France--History--18th century.</dc:subject>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_6663</identifier><datestamp>2013-11-04T19:42:35Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Note from the office of the movement of troops</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6663</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">3180323</dc:identifier>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">French</dc:language>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://purl.flvc.org/fcla/dt/3180323</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">FSDT3180323</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6663</dc:identifier>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 p.</dc:format>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Notes</dc:type>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Short note from the Office of the Movement of the Troops concerning the Duke of Fitz-James and the regiment of the Irlandois infantry.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">France--History--18th century.</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"/>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Versailles (France)</dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Charles de Fitz-James, 1712-1787</dc:subject>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_6632</identifier><datestamp>2013-11-04T21:53:30Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Berwick Regiment list of revenue and expenses. 1771 to 1772</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6632</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">3180292</dc:identifier>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">French</dc:language>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://purl.flvc.org/fcla/dt/3180292</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">FSDT3180292</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6632</dc:identifier>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Receipts</dc:type>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">2 p.</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Receipts that list the total expenses of various military purchases and who they were purchased by.</dc:description>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_6651</identifier><datestamp>2013-11-04T21:54:06Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Letter to Arthur Donnelly Irlandais</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6651</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">3180311</dc:identifier>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">French</dc:language>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://purl.flvc.org/fcla/dt/3180311</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">FSDT3180311</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:6651</dc:identifier>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">3 p.</dc:format>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Letter</dc:type>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Letter written to Arthur Donnelly Irlandais. Most of the letter is illegible.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">France--History--18th century.</dc:subject>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_6623</identifier><datestamp>2013-12-06T16:27:18Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Letter from Morard of Galles</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">fsu:6623</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 3180284</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">de Galles, Justin-Bonaventure Morard.</dc:creator>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">French</dc:language>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fcla/dt/3180284</dc:identifier>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT3180284</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:6623</dc:identifier>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">3 p.</dc:format>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Special Collections, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Letter</dc:type>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Letter from Justin-Bonaventure Morard of Galles, commander of the army, concerning the republic of France and the military during the French Revolution.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">France--History--Revolution, 1789-1799.</dc:subject>
+</oai_dc:dc>
+</metadata></record>
+</repository>

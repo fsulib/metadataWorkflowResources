@@ -1,0 +1,323 @@
+<repository xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"      xmlns:dc="http://purl.org/dc/elements/1.1/"      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instanc">
+<record><header><identifier>oai:fsu.digital.flvc.org:fsu_116944</identifier><datestamp>2014-09-26T18:01:54Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>If I Were The President</dc:title>
+  <dc:creator>Campbell, Doak S. (Doak Sheridan) , 1888-1973</dc:creator>
+  <dc:subject>Students.</dc:subject>
+  <dc:subject>Universities and colleges--Administration</dc:subject>
+  <dc:subject>Universities and colleges--Presidents</dc:subject>
+  <dc:subject>Florida State University</dc:subject>
+  <dc:date>1958-05</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type>speech</dc:type>
+  <dc:format>4 p.</dc:format>
+  <dc:identifier>(IID) FSU_mss044_b14_b58_f02</dc:identifier>
+  <dc:identifier>(URL) http://purl.flvc.org/fsu/fd/FSU_mss044_b14_b58_f02</dc:identifier>
+  <dc:identifier>fsu:116944</dc:identifier>
+  <dc:language>Englisheng</dc:language>
+  <dc:relation>Doak S. Campbell Papers, 1935-1972--http://fsuarchon.fcla.edu/index.php?p=collections/findingaid&amp;id=3718</dc:relation>
+  <dc:rights>Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Heritage Protocol &amp; University Archives, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_116945</identifier><datestamp>2014-09-26T18:11:44Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>The Obligations of the Scholar</dc:title>
+  <dc:creator>Campbell, Doak S. (Doak Sheridan) , 1888-1973</dc:creator>
+  <dc:subject>Junior colleges.</dc:subject>
+  <dc:subject>Graduation</dc:subject>
+  <dc:subject>Learning and scholarship.</dc:subject>
+  <dc:subject>Scholars.</dc:subject>
+  <dc:subject>Mississippi</dc:subject>
+  <dc:description>Summary: Speech given at Junior College, Holmes County, Mississippi.</dc:description>
+  <dc:date>1958-05-15</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type>speech</dc:type>
+  <dc:format>6 p.</dc:format>
+  <dc:identifier>(IID) FSU_mss044_b14_b58_f03</dc:identifier>
+  <dc:identifier>(URL) http://purl.flvc.org/fsu/fd/FSU_mss044_b14_b58_f03</dc:identifier>
+  <dc:identifier>fsu:116945</dc:identifier>
+  <dc:language>Englisheng</dc:language>
+  <dc:relation>Doak S. Campbell Papers, 1935-1972--http://fsuarchon.fcla.edu/index.php?p=collections/findingaid&amp;id=3718</dc:relation>
+  <dc:coverage>Mississippi</dc:coverage>
+  <dc:rights>Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Heritage Protocol &amp; University Archives, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_116943</identifier><datestamp>2014-09-26T18:13:03Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Greetings</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSU_mss044_b14_b58_f01</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Campbell, Doak S. (Doak Sheridan) , 1888-1973</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">speech</dc:type>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1958-02-21</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Englisheng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 p.</dc:format>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Inauguration</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Universities and colleges.</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Florida State University</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Florida State College for Women</dc:subject>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Doak S. Campbell Papers, 1935-1972--http://fsuarchon.fcla.edu/index.php?p=collections/findingaid&amp;id=3718</dc:relation>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Heritage Protocol &amp; University Archives, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FSU_mss044_b14_b58_f01</dc:identifier>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Summary: Speech given at the inauguration of President Robert M. Strozier of Florida State University.</dc:description>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_116947</identifier><datestamp>2014-09-26T18:36:01Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>The Baptists and Education</dc:title>
+  <dc:creator>Campbell, Doak S. (Doak Sheridan) , 1888-1973</dc:creator>
+  <dc:subject>Baptists.</dc:subject>
+  <dc:subject>Education.</dc:subject>
+  <dc:subject>Baptist colleges</dc:subject>
+  <dc:subject>Universities and colleges--Administration</dc:subject>
+  <dc:subject>College teachers.</dc:subject>
+  <dc:subject>Students.</dc:subject>
+  <dc:subject>Texas</dc:subject>
+  <dc:description>Summary: Speech given at the Texas General Baptist Convention, San Antonio, Texas.</dc:description>
+  <dc:date>1958-11-05</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type>speech</dc:type>
+  <dc:format>8 p.</dc:format>
+  <dc:identifier>(IID) FSU_mss044_b14_b58_f05</dc:identifier>
+  <dc:identifier>(URL) http://purl.flvc.org/fsu/fd/FSU_mss044_b14_b58_f05</dc:identifier>
+  <dc:identifier>fsu:116947</dc:identifier>
+  <dc:language>Englisheng</dc:language>
+  <dc:relation>Doak S. Campbell Papers, 1935-1972--http://fsuarchon.fcla.edu/index.php?p=collections/findingaid&amp;id=3718</dc:relation>
+  <dc:coverage>Texas</dc:coverage>
+  <dc:rights>Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Heritage Protocol &amp; University Archives, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_116948</identifier><datestamp>2014-09-26T18:50:16Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Handwritten notes of untitled Campbell speech</dc:title>
+  <dc:creator>Campbell, Doak S. (Doak Sheridan) , 1888-1973</dc:creator>
+  <dc:subject>Baptists.</dc:subject>
+  <dc:subject>Russians.</dc:subject>
+  <dc:subject>Physical sciences.</dc:subject>
+  <dc:subject>Edícia Sputnik</dc:subject>
+  <dc:subject>Ethics.</dc:subject>
+  <dc:subject>Communism.</dc:subject>
+  <dc:subject>Christianity.</dc:subject>
+  <dc:subject>Education.</dc:subject>
+  <dc:subject>Soviet Union</dc:subject>
+  <dc:description>Summary: Undated handwritten notes of an untitled speech. Possibly early draft or addition to Campbell's Baptists and Education speech.</dc:description>
+  <dc:type>Text</dc:type>
+  <dc:type>speech</dc:type>
+  <dc:format>4 p.</dc:format>
+  <dc:identifier>(IID) FSU_mss044_b14_b58_f05b</dc:identifier>
+  <dc:identifier>(URL) http://purl.flvc.org/fsu/fd/FSU_mss044_b14_b58_f05b</dc:identifier>
+  <dc:identifier>fsu:116948</dc:identifier>
+  <dc:language>Englisheng</dc:language>
+  <dc:relation>Doak S. Campbell Papers, 1935-1972--http://fsuarchon.fcla.edu/index.php?p=collections/findingaid&amp;id=3718</dc:relation>
+  <dc:coverage>Soviet Union</dc:coverage>
+  <dc:rights>Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Heritage Protocol &amp; University Archives, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_116949</identifier><datestamp>2014-09-26T18:57:52Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Who Determines the Curriculum?</dc:title>
+  <dc:creator>Campbell, Doak S. (Doak Sheridan) , 1888-1973</dc:creator>
+  <dc:subject>Education.</dc:subject>
+  <dc:subject>Public schools.</dc:subject>
+  <dc:subject>Teachers.</dc:subject>
+  <dc:subject>Curriculum planning</dc:subject>
+  <dc:subject>Legislative bodies.</dc:subject>
+  <dc:subject>Textbooks</dc:subject>
+  <dc:description>Summary: Speech given to the Kansas Teacher Association, Salina, Kansas.</dc:description>
+  <dc:date>1958-11-07</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type>speech</dc:type>
+  <dc:format>5 p.</dc:format>
+  <dc:identifier>(IID) FSU_mss044_b14_b58_f06</dc:identifier>
+  <dc:identifier>(URL) http://purl.flvc.org/fsu/fd/FSU_mss044_b14_b58_f06</dc:identifier>
+  <dc:identifier>fsu:116949</dc:identifier>
+  <dc:language>Englisheng</dc:language>
+  <dc:relation>Doak S. Campbell Papers, 1935-1972--http://fsuarchon.fcla.edu/index.php?p=collections/findingaid&amp;id=3718</dc:relation>
+  <dc:rights>Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Heritage Protocol &amp; University Archives, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_116950</identifier><datestamp>2014-09-26T19:12:55Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>How Can We Meet the Needs of Our Rural Schools?</dc:title>
+  <dc:creator>Campbell, Doak S. (Doak Sheridan) , 1888-1973</dc:creator>
+  <dc:subject>Education.</dc:subject>
+  <dc:subject>Public schools.</dc:subject>
+  <dc:subject>Rural schools.</dc:subject>
+  <dc:subject>Teachers.</dc:subject>
+  <dc:subject>Rural conditions</dc:subject>
+  <dc:subject>Students.</dc:subject>
+  <dc:subject>Kansas</dc:subject>
+  <dc:description>Summary: Speech given to the Kansas Teachers Association, Salina, Kansas.</dc:description>
+  <dc:date>1958-11-07</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type>speech</dc:type>
+  <dc:format>10 p.</dc:format>
+  <dc:identifier>(IID) FSU_mss044_b14_b58_f07</dc:identifier>
+  <dc:identifier>(URL) http://purl.flvc.org/fsu/fd/FSU_mss044_b14_b58_f07</dc:identifier>
+  <dc:identifier>fsu:116950</dc:identifier>
+  <dc:language>Englisheng</dc:language>
+  <dc:relation>Doak S. Campbell Papers, 1935-1972--http://fsuarchon.fcla.edu/index.php?p=collections/findingaid&amp;id=3718</dc:relation>
+  <dc:coverage>Kansas</dc:coverage>
+  <dc:rights>Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Heritage Protocol &amp; University Archives, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_116951</identifier><datestamp>2014-09-26T19:20:39Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>The Machine Age</dc:title>
+  <dc:subject>Machinery.</dc:subject>
+  <dc:subject>Education.</dc:subject>
+  <dc:subject>Religion.</dc:subject>
+  <dc:description>Summary: Excerpt from Thomas Carlyle's essay &quot;Signs of the Times,&quot; originally published in The Edinburgh Review.</dc:description>
+  <dc:contributor>Carlyle, Thomas , 1795-1881 (author)</dc:contributor>
+  <dc:date>1829</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type>essay</dc:type>
+  <dc:format>2 p.</dc:format>
+  <dc:identifier>(IID) FSU_mss044_b14_b58_f08</dc:identifier>
+  <dc:identifier>(URL) http://purl.flvc.org/fsu/fd/FSU_mss044_b14_b58_f08</dc:identifier>
+  <dc:identifier>fsu:116951</dc:identifier>
+  <dc:language>Englisheng</dc:language>
+  <dc:relation>Doak S. Campbell Papers, 1935-1972--http://fsuarchon.fcla.edu/index.php?p=collections/findingaid&amp;id=3718</dc:relation>
+  <dc:rights>Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Heritage Protocol &amp; University Archives, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_116952</identifier><datestamp>2014-09-26T19:33:49Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Educational Television</dc:title>
+  <dc:creator>Campbell, Doak S. (Doak Sheridan) , 1888-1973</dc:creator>
+  <dc:subject>Education.</dc:subject>
+  <dc:subject>Television.</dc:subject>
+  <dc:subject>Television in education</dc:subject>
+  <dc:description>Summary: Undated notes prepared for discussion with A &amp; M University (possibly Florida A &amp; M University).</dc:description>
+  <dc:type>Text</dc:type>
+  <dc:type>notes</dc:type>
+  <dc:format>2 p.</dc:format>
+  <dc:identifier>(IID) FSU_mss044_b14_b58_f09</dc:identifier>
+  <dc:identifier>(URL) http://purl.flvc.org/fsu/fd/FSU_mss044_b14_b58_f09</dc:identifier>
+  <dc:identifier>fsu:116952</dc:identifier>
+  <dc:language>Englisheng</dc:language>
+  <dc:relation>Doak S. Campbell Papers, 1935-1972--http://fsuarchon.fcla.edu/index.php?p=collections/findingaid&amp;id=3718</dc:relation>
+  <dc:rights>Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Heritage Protocol &amp; University Archives, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_116953</identifier><datestamp>2014-09-26T19:45:55Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Letter from J. Ollie Edmunds to Doak S. Campbell</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSU_mss044_b14_b58_f10</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Edmunds, J. Ollie , 1903-</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">letter</dc:type>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1955-09-26</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Englisheng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">2 p.</dc:format>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Baptists.</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Students.</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Universities and colleges--Food service</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Universities and colleges--Finance</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida</dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Florida</dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Stetson University</dc:subject>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Doak S. Campbell Papers, 1935-1972--http://fsuarchon.fcla.edu/index.php?p=collections/findingaid&amp;id=3718</dc:relation>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Heritage Protocol &amp; University Archives, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FSU_mss044_b14_b58_f10</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_116955</identifier><datestamp>2014-09-26T19:57:33Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Report on Christian Education</dc:title>
+  <dc:creator>Campbell, Doak S. (Doak Sheridan) , 1888-1973</dc:creator>
+  <dc:subject>Education.</dc:subject>
+  <dc:subject>Baptists.</dc:subject>
+  <dc:subject>Christian education.</dc:subject>
+  <dc:subject>Florida</dc:subject>
+  <dc:subject>Stetson University</dc:subject>
+  <dc:date>1955-10-07</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type>reporting</dc:type>
+  <dc:format>2 p.</dc:format>
+  <dc:identifier>(IID) FSU_mss044_b14_b58_f12</dc:identifier>
+  <dc:identifier>(URL) http://purl.flvc.org/fsu/fd/FSU_mss044_b14_b58_f12</dc:identifier>
+  <dc:identifier>fsu:116955</dc:identifier>
+  <dc:language>Englisheng</dc:language>
+  <dc:relation>Doak S. Campbell Papers, 1935-1972--http://fsuarchon.fcla.edu/index.php?p=collections/findingaid&amp;id=3718</dc:relation>
+  <dc:coverage>Florida</dc:coverage>
+  <dc:rights>Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Heritage Protocol &amp; University Archives, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_116954</identifier><datestamp>2014-09-26T19:58:20Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Christian Education</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSU_mss044_b14_b58_f11</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Campbell, Doak S. (Doak Sheridan) , 1888-1973</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">speech</dc:type>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Englisheng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">2 p.</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Summary: Handwritten draft of undated speech.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Education.</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Baptists.</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Schools.</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Universities and colleges</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Christian education.</dc:subject>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Doak S. Campbell Papers, 1935-1972--http://fsuarchon.fcla.edu/index.php?p=collections/findingaid&amp;id=3718</dc:relation>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Heritage Protocol &amp; University Archives, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FSU_mss044_b14_b58_f11</dc:identifier>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1955-10-07</dc:date>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_116978</identifier><datestamp>2014-09-29T20:22:39Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Some Observations on Junior College Development</dc:title>
+  <dc:creator>Campbell, Doak S. (Doak Sheridan) , 1888-1973</dc:creator>
+  <dc:subject>Junior colleges.</dc:subject>
+  <dc:subject>Education.</dc:subject>
+  <dc:subject>Teachers.</dc:subject>
+  <dc:subject>Junior colleges--Accreditation</dc:subject>
+  <dc:description>Summary: Speech given at State Junior College Meeting, Trophy Room, Student Center, Florida State University, Tallahassee, Florida.</dc:description>
+  <dc:date>1955-01-14</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type>speech</dc:type>
+  <dc:format>3 p.</dc:format>
+  <dc:identifier>(IID) FSU_mss044_b58_f01</dc:identifier>
+  <dc:identifier>(URL) http://purl.flvc.org/fsu/fd/FSU_mss044_b58_f01</dc:identifier>
+  <dc:identifier>fsu:116978</dc:identifier>
+  <dc:language>Englisheng</dc:language>
+  <dc:relation>Doak S. Campbell Papers--http://fsuarchon.fcla.edu/index.php?p=collections/findingaid&amp;id=3718</dc:relation>
+  <dc:rights>Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Heritage Protocol &amp; University Archives, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_116979</identifier><datestamp>2014-09-29T20:50:40Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Religion and Religious Experience (Lecture No. 1)</dc:title>
+  <dc:creator>Campbell, Doak S. (Doak Sheridan) , 1888-1973</dc:creator>
+  <dc:subject>Education, Higher--Religious aspects--Christianity</dc:subject>
+  <dc:subject>Experience (Religion)</dc:subject>
+  <dc:subject>Universities and colleges.</dc:subject>
+  <dc:subject>Education, Humanistic.</dc:subject>
+  <dc:subject>Philosophy and religion.</dc:subject>
+  <dc:subject>Scholars</dc:subject>
+  <dc:description>Summary: Speech given at La Grange, Georgia.</dc:description>
+  <dc:date>1955-02-15</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type>speech</dc:type>
+  <dc:format>14 p.</dc:format>
+  <dc:identifier>(IID) FSU_mss044_b58_f02</dc:identifier>
+  <dc:identifier>(URL) http://purl.flvc.org/fsu/fd/FSU_mss044_b58_f02</dc:identifier>
+  <dc:identifier>fsu:116979</dc:identifier>
+  <dc:language>Englisheng</dc:language>
+  <dc:relation>Doak S. Campbell Papers--http://fsuarchon.fcla.edu/index.php?p=collections/findingaid&amp;id=3718</dc:relation>
+  <dc:rights>Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Heritage Protocol &amp; University Archives, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_116946</identifier><datestamp>2014-09-26T18:24:22Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Commencement Address, George Peabody College</dc:title>
+  <dc:creator>Campbell, Doak S. (Doak Sheridan) , 1888-1973</dc:creator>
+  <dc:subject>Graduation</dc:subject>
+  <dc:subject>Education.</dc:subject>
+  <dc:subject>Political science.</dc:subject>
+  <dc:subject>Teachers.</dc:subject>
+  <dc:subject>Teachers--Training of</dc:subject>
+  <dc:subject>Law--Study and teaching</dc:subject>
+  <dc:subject>Dewey, John , 1859-1952</dc:subject>
+  <dc:subject>Flexner, Abraham , 1866-1959</dc:subject>
+  <dc:description>Summary: Speech given at graduation of George Peabody College, Nashville, Tennessee.</dc:description>
+  <dc:date>1958-08-15</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type>speech</dc:type>
+  <dc:format>10 p.</dc:format>
+  <dc:identifier>(IID) FSU_mss044_b14_b58_f04</dc:identifier>
+  <dc:identifier>(URL) http://purl.flvc.org/fsu/fd/FSU_mss044_b14_b58_f04</dc:identifier>
+  <dc:identifier>fsu:116946</dc:identifier>
+  <dc:language>Englisheng</dc:language>
+  <dc:relation>Doak S. Campbell Papers, 1935-1972--http://fsuarchon.fcla.edu/index.php?p=collections/findingaid&amp;id=3718</dc:relation>
+  <dc:rights>Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Heritage Protocol &amp; University Archives, Florida State University Libraries, Tallahassee, Florida.</dc:rights>
+</oai_dc:dc>
+</metadata></record>
+</repository>

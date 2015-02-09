@@ -1,0 +1,1417 @@
+<repository xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"      xmlns:dc="http://purl.org/dc/elements/1.1/"      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instanc">
+<record><header><identifier>oai:fsu.digital.flvc.org:fsu_20702</identifier><datestamp>2014-03-13T17:48:07Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Gee whoa!</dc:title>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">ilu: W.B. Conkey Co.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1894</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 online resource ([15] p.) : chiefly ill. (some col.)</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic</dc:format>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Children's stories</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Children's poetry</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">fsu:20702</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FS66750001</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 229491</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:20702</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FS66750001</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_20573</identifier><datestamp>2014-03-13T17:48:52Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Gleeful days: a treasury for the little ones</dc:title>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">nyu: Cassell &amp; Co.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1889</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 online resource (74 p.) : ill.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Little red Sukey -- Timid Fanny -- Tot and the turkey gobbler -- Polly White -- Jeanie and the robin -- The donkeys of Portugal -- Brother Edward and Lily-Blossom -- Dan and Jack -- Little lost Willie -- Kate's idea -- Sound and true -- Grandma's birth-day -- Sister Molly -- How a butterfly came -- Baby Calla -- Run-away Flossie -- Nothing but leaves -- Weezy's pickle -- Pearl rain-drop -- Tabby and Mouser -- Tommy and the snake -- The fairy in the pink -- Harry boy -- Bobby's blunder.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Children's stories</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Children's poetry</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:20573</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(oclc) 459552636</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 2672993</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT2672993</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:20573</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_23584</identifier><datestamp>2014-03-13T17:49:36Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Happy days childhood</dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Happy days of childhood</dc:title>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">mau: Lothrop Publishing Co.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1904</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 online resource ([120] p.) : ill.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Ned and Nick -- Dobbin's friends -- Who scratched the baby? -- Ladybug and her two cousins -- Jack Horner's Christmas pie -- Grandpa's story of Pero -- Tim's monkey -- Little grey mouse -- Teddy makes a cat -- A postman with wings -- Plum -- Dressing up -- Another house -- Round the Christmas tree -- The story of a lamb -- Four doll-mammas</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Children's poetry</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Children's stories</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">fsu:23584</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FS66750030</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 235631</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:23584</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FS66750030</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_22301</identifier><datestamp>2014-03-13T17:50:26Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Happy hearts and lively times</dc:title>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">mau: Lothrop Publishing Co.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1900</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 online resource ([71] p.) : ill. (some col.)</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">A funny monkey trap -- Trottino -- Mrs. Lucas's pets -- Trottino-- Peter the goat-herd -- Trottino -- The ugly duckling -- Trottino -- Trottino -- What cured Scamp -- Trottino -- Pictures in the fire -- Trottino -- A dream-camel -- Trottino -- Mungo: a Scotch doggie -- Trottino -- Trottino -- A little journey round the world -- Fire! Fire! in China -- Trottino -- Trottino -- Two little pickaninnies -- A little helper -- Susie's gift -- My little sister -- The Christmas rose -- Monk the Saint Bernard dog -- Pip, Pop and Skip.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Children's stories</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Children's poetry</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Animals--Juvenile fiction</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">fsu:22301</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FS66750009</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 231928</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:22301</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FS66750009</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_20403</identifier><datestamp>2014-03-13T17:51:05Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Hold the fort!: melodies and rhymes from the memorable writings of Mother Goose</dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Hold the fort ABC</dc:title>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">xxu: Juvenile Publishing Co.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1896</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 online resource ([113] p.) : ill. (some col.)</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Summary: Includes &quot;Picture Alphabet for Wee Ones&quot; and popular nursery rhymes, as well as the stories &quot;Cinderella&quot;, &quot;Beauty and the Beast&quot; and &quot;Little Red Riding Hood&quot;.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Fairy tales</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Nursery rhymes</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:20403</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(oclc) 458534311</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 201938</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT201938</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:20403</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_21297</identifier><datestamp>2014-03-13T17:55:09Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Little curly locks: story and rhyme for boys and girls at Christmastime</dc:title>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">nyu: W.B. Conkey Co.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1894</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 online resource ([14] p.) : ill.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Puzzles about Peter and Patty -- Riding to Boston -- How Tommy tended the baby -- The little burglar -- Disappointment -- Bess and her party -- A Sunday school recitation -- Rover passes by -- Little frogs at school -- A good monkey -- Lulu's pets -- Eastern travel.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Christmas stories</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Children's stories</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">fsu:21297</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FS66750037</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 236869</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:21297</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FS66750037</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_21939</identifier><datestamp>2014-03-13T17:57:39Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Merry times</dc:title>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">mau: Lothrop Publishing Co.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1904</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 online resource ([51] p.) : ill.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Nurse Powell's giant -- Alec's bank -- The best nuts -- How Dick went clamming -- The text and the spider.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Children's stories</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">fsu:21939</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FS66750007</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 231532</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:21939</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FS66750007</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_21130</identifier><datestamp>2014-03-13T17:59:27Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Pretty ones' ABC book</dc:title>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">ilu: W.B. Conkey Co.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1901</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 online resource ([40] p.) : ill.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic</dc:format>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Children's stories</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Alphabet books</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">fsu:21130</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FS66750021</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 234632</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:21130</dc:identifier>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Summary: &quot;Containing a large, handsome, illustrated alphabet, and numerous short stories told in simple language to delight the little darlings.&quot;</dc:description>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FS66750021</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_21069</identifier><datestamp>2014-03-13T18:01:29Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">School days</dc:title>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">mau: Lothrop Publishing Co.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1904</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 online resource ([50] p.) : ill.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">The deer -- The elephant -- The gorilla -- The jaguar -- The lammergeyer -- The crow -- The owl and the rabbits -- The baboon -- The rabbit -- The wolf -- The bear -- The weasel -- The sea-gull -- The tiger -- The lynx -- The puma -- The osprey.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Animals--Juvenile fiction</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">fsu:21069</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FS66750016</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 233208</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:21069</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FS66750016</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_22274</identifier><datestamp>2014-03-13T18:03:06Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Snow time stories</dc:title>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">mau: Lothrop Publishing Co.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1904</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 online resource ([71] p.) : ill.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic</dc:format>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Children's stories</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">fsu:22274</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FS66750008</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 231693</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:22274</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FS66750008</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_20901</identifier><datestamp>2014-03-13T18:03:46Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Sunny days and playtime hours</dc:title>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">mau: Lothrop Publishing Co.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1900</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 online resource ([51] p.) : ill.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Two little Chinese -- The birthday horse -- Little Tommy's dream -- How Tommy learned his letters -- Janie's lesson -- Getting acquainted -- A puzzled boy -- Our little horsemen -- The story of Tildy Muffet -- At Dot's house -- William McElroy's story.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Children's poetry</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Children's stories</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">fsu:20901</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FS66750011</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 232312</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:20901</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FS66750011</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_85483</identifier><datestamp>2014-03-20T13:27:34Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Gray's elegy</dc:title>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">18??</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 online resource (22 p. [4] p. of plates) : ill.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic resource</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Title from cover.</dc:description>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:85483</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(oclc) 433010735</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 190429</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT190429</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:85483</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact The Goldstein Library, Florida State University, Tallahassee, Florida.</dc:rights>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_83486</identifier><datestamp>2014-03-20T15:06:32Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Elsie's holidays at Roselands</dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Holidays at Roselands</dc:title>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Finley, Martha , 1828-1909</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">18??</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 online resource (354 p. [1] p. of plates) : ill.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic resource</dc:format>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:83486</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(oclc) 433010734</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 188866</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT188866</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:83486</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact The Goldstein Library, Florida State University, Tallahassee, Florida.</dc:rights>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_84984</identifier><datestamp>2014-03-20T15:13:45Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Gladiola Murphy</dc:title>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Sawyer, Ruth , 1880-1970</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">New York: Harper</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1923</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 online resource (337 p.)</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic resource</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Summary: A poor girl leaves her family and comes to Boston in search of a better life.</dc:description>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:84984</dc:identifier>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Gladiola Murphy--(OCoLC)4354803</dc:relation>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(oclc) 431926921</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 190264</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT190264</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:84984</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact The Goldstein Library, Florida State University, Tallahassee, Florida.</dc:rights>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_85527</identifier><datestamp>2014-03-20T15:15:24Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Life in the Roman World of Nero and St. Paul</dc:title>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tucker, T. G. (Thomas George) , 1859-1946</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">New York: Macmillan Co.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1910</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 online resource (xix, 453 p.) : ill., maps</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic resource</dc:format>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Rome--Social conditions</dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Rome</dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Rome--Civilization</dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Rome</dc:coverage>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:85527</dc:identifier>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Life in the Roman World of Nero and St. Paul--(OCoLC)3831829</dc:relation>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(oclc) 431963268</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 191020</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT191020</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:85527</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact The Goldstein Library, Florida State University, Tallahassee, Florida.</dc:rights>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_80691</identifier><datestamp>2014-03-20T15:23:39Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Short plays for junior and senior high schools</dc:title>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Webber, James Plaisted , 1878-1930 (editor)</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Webster, Hanson Hart , 1877-1940 (editor)</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">bibliography</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Boston: Houghton Mifflin</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1925</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 online resource (vi, 313 p.) : ill., music</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic resource</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Includes bibliographical references: p. [297]-313.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">College and school drama</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Drama--Collections</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:80691</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(oclc) 431903028</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 192306</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT192306</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:80691</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact The Goldstein Library, Florida State University, Tallahassee, Florida.</dc:rights>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_81014</identifier><datestamp>2014-03-20T16:31:14Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">From office boy to reporter</dc:title>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Garis, Howard Roger , 1873-1962</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">New York: Chatterton-Peck Co.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1907</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 online resource (vi, 311 p. [4] leaves of plates) : ill.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic resource</dc:format>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Journalists--Fiction</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:81014</dc:identifier>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">07023465--(OCoLC)6878027</dc:relation>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(oclc) 431927364</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 194294</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT194294</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:81014</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact The Goldstein Library, Florida State University, Tallahassee, Florida.</dc:rights>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_81339</identifier><datestamp>2014-03-20T16:33:54Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Lucky and his travels</dc:title>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Sherwood, Elmer , b. 1884</dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">O'Keeffe, Neil. (illustrator)</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Racine, Wis.: Whitman Pub. Co.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1922</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 online resource (121 p., [8] p. of plates) : ill.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic resource</dc:format>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:81339</dc:identifier>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">(OCoLC)10378984</dc:relation>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(oclc) 432997298</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 194945</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT194945</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:81339</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact The Goldstein Library, Florida State University, Tallahassee, Florida.</dc:rights>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_82961</identifier><datestamp>2014-03-20T16:57:05Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Ten boys who lived on the road from long ago to now</dc:title>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andrews, Jane , 1833-1887</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Boston: Lee and Shepard</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1886</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 online resource (240 p., [10] p. of plates) : ill.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic resource</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Summary: The author attempts to interest readers in the history of the Aryan race through stories of children through the ages.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Indo-Europeans--Juvenile fiction</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">History--Juvenile fiction</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:82961</dc:identifier>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Ten boys who lived on the road from long ago to now--04016119--(OCoLC)2696445</dc:relation>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(oclc) 433010723</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 198795</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT198795</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:82961</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact The Goldstein Library, Florida State University, Tallahassee, Florida.</dc:rights>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_82009</identifier><datestamp>2014-03-20T14:55:04Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Camp Fire girls at Pine-Tree Camp</dc:title>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Sanderson, Margaret Love.</dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Batchelder, Pauline Manning. (illustrator)</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Chicago: The Reilly &amp; Lee Co.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1914</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 online resource (284 p.)</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic resource</dc:format>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Camp Fire Girls</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:82009</dc:identifier>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Camp Fire girls at Pine-Tree Camp--(OCoLC)29931262</dc:relation>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(oclc) 431918328</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 196327</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT196327</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:82009</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact The Goldstein Library, Florida State University, Tallahassee, Florida.</dc:rights>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_81556</identifier><datestamp>2014-03-20T16:41:16Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">tale of Miss Kitty Cat</dc:title>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Bailey, Arthur Scott , 1877-1949</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">New York: Grosset &amp; Dunlap</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1921</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 online resource (115 p.) : ill.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic resource</dc:format>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:81556</dc:identifier>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">(OCoLC)30562380</dc:relation>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(oclc) 432048964</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 195421</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT195421</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:81556</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact The Goldstein Library, Florida State University, Tallahassee, Florida.</dc:rights>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_81687</identifier><datestamp>2014-03-20T16:44:42Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">tale of nimble deer</dc:title>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Bailey, Arthur Scott , 1877-1949</dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Smith, Harry L. (illustrator)</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">New York: Grosset &amp; Dunlap</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1922</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 online resource (126 p., [4] p. of plates) : col. ill.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic resource</dc:format>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:81687</dc:identifier>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">(OCoLC)26638794</dc:relation>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(oclc) 433010722</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 195683</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT195683</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:81687</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact The Goldstein Library, Florida State University, Tallahassee, Florida.</dc:rights>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_81822</identifier><datestamp>2014-03-20T16:47:05Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">tale of Dickie deer mouse</dc:title>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Bailey, Arthur Scott , 1877-1949</dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Smith, Harry L. (illustrator)</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">New York: Grosset &amp; Dunlap</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1918</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 online resource (128 p.) : col. ill.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic resource</dc:format>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Mice--Juvenile fiction</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:81822</dc:identifier>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">(OCoLC)18452624</dc:relation>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(oclc) 431926099</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 195953</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT195953</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:81822</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact The Goldstein Library, Florida State University, Tallahassee, Florida.</dc:rights>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_81959</identifier><datestamp>2014-03-20T16:53:46Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">flowers</dc:title>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Gerry, Margarita Spalding , 1870-1939</dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Elliott, Elizabeth Shippen Green. (illustrator)</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">New York: Harper &amp; Brothers Publishers</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1910</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 online resource ([40] p., [2] leaves of plates) : col. ill.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic resource</dc:format>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:81959</dc:identifier>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">10009260--(OCoLC)6785469</dc:relation>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(oclc) 433010767</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 196227</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT196227</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:81959</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact The Goldstein Library, Florida State University, Tallahassee, Florida.</dc:rights>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_23515</identifier><datestamp>2014-03-13T17:28:03Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">An April shower</dc:title>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">mau: D. Lothrop and Co.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1882</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 online resource (64 p. in various pagings) : ill.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic</dc:format>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Children's stories</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">fsu:23515</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FS66750027</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 235174</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:23515</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FS66750027</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_21758</identifier><datestamp>2014-03-13T17:40:37Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">At grandpa's farm</dc:title>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Cox, Palmer , 1840-1924</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">ilu: W.B. Conkey Co.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1901</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 online resource ([39] p.) : ill.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Summary: A story of the various animals that live on grandpa's farm, and the children who play with them.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">by Palmer Cox.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Animals--Juvenile fiction</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Stories in rhyme</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">fsu:21758</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FS66750006</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 231429</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:21758</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FS66750006</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_25545</identifier><datestamp>2014-03-13T17:42:43Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Blossoms plucked from the treasures of story and song</dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Blossoms</dc:title>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">enk: W.B. Conkey Co.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1894</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 online resource ([54] p.) : ill. (some col.)</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Summary: A collection of poetry, short stories, and educational activities for children.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Children's stories</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Children's poetry</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">fsu:25545</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 199961</dc:identifier>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">http://purl.fcla.edu/fsu/lib/digcoll/speccoll/juvi/236930</dc:relation>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT199961</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:25545</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FSDT199961</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_20350</identifier><datestamp>2014-03-13T17:43:22Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Bright and early</dc:title>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">mau: Lothrop Publishing Co.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1895</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 online resource ([42] p.) : ill.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Kit and Fop -- The striped kitten's lesson -- Getting acquainted -- Robbie's turtle -- How Tommy learned his letters -- Almost a sad story.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Animals--Juvenile fiction</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Children's stories</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Children's poetry</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">fsu:20350</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 200081</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT200081</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:20350</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FSDT200081</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_34971</identifier><datestamp>2014-03-13T17:44:34Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Dear Santa Claus</dc:title>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">ilu: W.B. Conkey Company</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1901</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 online resource ([39] p.) : ill.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">The night before Christmas -- The night after Christmas -- Nelly's visit -- Fairy stories -- Off on the wheels.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Holiday stories</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">fsu:34971</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 200472</dc:identifier>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">http://purl.fcla.edu/fsu/lib/digcoll/speccoll/juvi/235353</dc:relation>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT200472</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:34971</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FSDT200472</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_22835</identifier><datestamp>2014-03-13T17:45:10Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Family pets</dc:title>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">mau: Lothrop Publishing Co.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1896</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 online resource ([156] p.) : ill. (some col.)</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic</dc:format>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Children's stories</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Animals--Juvenile fiction</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">fsu:22835</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FS66750018</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 233689</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:22835</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FS66750018</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_23749</identifier><datestamp>2014-03-13T17:45:50Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Fern Leaf's visit</dc:title>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">mau: D. Lothrop and Co.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1882</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 online resource (48 p. in various pagings) : ill.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">The story of a mitten -- Don and his trucks -- Fern-leaf's visit -- A story of a parrot -- Jumper's strange fish -- Mabel's chipmunks -- Jack Horner's Christmas pie -- The story of Kitty Camomile -- A true story about a hen -- Peggy's sled -- Scamp -- Prink -- The Snowball family -- Carina -- Remember's Thanksgiving -- The true story of Dick's dollar -- Walter's friend -- What Percy found -- About chestnuts -- Fanny.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Children's stories</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Animals--Juvenile fiction</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">fsu:23749</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FS66750033</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 236204</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:23749</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FS66750033</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_31528</identifier><datestamp>2014-03-13T17:46:30Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Fireside dreams</dc:title>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">mau: Lothrop Publishing Co.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1895</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 online resource ([92] p.) : ill., c1895.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Nep -- Great-great-grandma's Christmas in &quot;merrie England&quot; -- Cousin Louise talks about the deer -- Esther Hendrickson's New Year's party -- The shepherd dog -- Edward the Sixth and his whipping boy -- Aunt Lucy's Australian pets -- Harry's knife -- Grandma's valentine -- What they did with the snow in Paris -- Inside and outside -- Duke -- Charley in Holland -- Some things grandpa saw -- Uncle Jake's strange passenger -- The alfalfa harvest at valley home ranch -- Florence's Philopena -- Charlie -- Little &quot;oh my!&quot;</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Children's stories</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Children's poetry</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">fsu:31528</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FS66750012</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 232472</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:31528</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FS66750012</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_21229</identifier><datestamp>2014-03-13T17:47:27Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Fun and frolic</dc:title>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">enk: W.B. Conkey Co.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1894</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 online resource ([50] p.) : ill. (some col.)</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic</dc:format>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Children's stories</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Children's poetry</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">fsu:21229</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FS66750029</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 235457</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:21229</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FS66750029</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_22621</identifier><datestamp>2014-03-13T17:52:25Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Jack and I</dc:title>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">mau: Lothrop Publishing Co.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1901</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 online resource ([109] p.) : ill. (some col.)</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Summary: Includes a collection titled &quot;Stories About Sweetheart&quot;, as well as various other stories and poems.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Children's stories</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">fsu:22621</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FS66750017</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 233352</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:22621</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FS66750017</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_23086</identifier><datestamp>2014-03-13T17:53:14Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Jolly little playmates</dc:title>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">nyu: W.B. Conkey Co.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1896</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 online resource ([87] p.) : ill.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Four-handed Jack -- Riding on a whale -- May's chairs -- Orphan May -- A race for life -- A happy family -- Rawthmall Range -- Wanted -- Betsey O'Dee -- Little sailor-girl.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Children's stories</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Animals--Juvenile fiction</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">fsu:23086</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FS66750019</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 234156</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:23086</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FS66750019</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_27715</identifier><datestamp>2014-03-13T17:53:49Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Laura's necklace</dc:title>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">mau: D. Lothrop and Co.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1882</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 online resource ([44] p.) : ill.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Ned -- A little brown baby -- About owls -- Three travellers -- The two moths -- Peri and Ponto -- Laura's necklace -- Bessy -- Some of Nannie's queer acquaintances -- A pig in a feather-bed -- An ocean bird -- Birds in winter -- Little folks in Holland -- Like baby -- The naughty little prince -- The bear that came to school -- Mary's journey -- Ralph and Rover -- The old snow man -- Why the clock told stories -- Tid-er-e-i -- What shall we do?</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Children's stories</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">fsu:27715</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FS66750015</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 233031</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:27715</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FS66750015</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_21179</identifier><datestamp>2014-03-13T17:54:26Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Little beauties</dc:title>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">ilu: W.B. Conkey Co.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1901</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 online resource ([39] p.) : ill.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Cinderella and the glass slipper -- At the seaside -- Driving the tally-ho -- How Mischief took the rosebud -- Bose and Sam -- Sailor lads and lassies.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Children's stories</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">fsu:21179</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FS66750022</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 234746</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:21179</dc:identifier>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Summary: &quot;A collection of short, fascinating stories by the most popular juvenile writers of the day.&quot;</dc:description>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FS66750022</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_23191</identifier><datestamp>2014-03-13T17:55:47Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Little people's own book</dc:title>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">nyu: Hurst and Co.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">circa 1902</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 online resource ([90] p.) : ill. (some col.)</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Lost Lily -- Daisy's flowers -- Flossie's patient -- A home in the West -- A winter scene -- Ruth's flower -- A naughty dog -- The laughing jackass -- A ride on an elephant -- A dog story -- Pussy's class -- The snow storm -- Jack the sailor boy.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Children's stories</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Children's poetry</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">fsu:23191</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FS66750020</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 234387</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:23191</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FS66750020</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_23660</identifier><datestamp>2014-03-13T17:56:40Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Mama's story</dc:title>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">mau: D. Lothrop and Co.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1882</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 online resource (44 p. in various pagings) : ill.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Jealous Polly -- Little folks in Egypt -- The heron -- Gray and Ashy -- About leopards -- How I heard about bumble-bees -- Tommy -- Brave mr. bluebird -- The cowbird -- Little Zitta -- Robby's dog -- Sleepy Susy -- Something about bears -- Mamma's story -- Jimmie -- Lady Bug and her two cousins -- Contrary Billy -- About swans -- Sissy's store -- In the top drawer -- The rat-babies -- What Nell found -- Billy Newton's luncheon -- About Jack.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Children's stories</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Children's poetry</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">fsu:23660</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FS66750031</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 236027</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:23660</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FS66750031</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_21319</identifier><datestamp>2014-03-13T17:58:13Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Picture book garden</dc:title>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">xxu: s.n.]</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1901</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 online resource ([130] p.) : ill. (some col.)</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic</dc:format>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Children's stories</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Alphabet books</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">fsu:21319</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FS66750005</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 230995</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:21319</dc:identifier>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Summary: &quot;Comprising stories rhymes and plays to entertain the darlings of the nursery&quot;.</dc:description>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FS66750005</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_23842</identifier><datestamp>2014-03-13T17:58:49Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Playing with Rover</dc:title>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">nyu: W.B. Conkey Co.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1896</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 online resource ([100] p.) : ill. (some col.)</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Lizzie the elephant -- A true coon story -- Santa Claus's letter -- The pumpkin-stalk flute -- What Sammy's monkey did -- The busy bees -- A wonderful nest -- The birds and the whistle -- Lily's pet deer -- The opossum in the hen-house -- How Roy went a fishing -- Hiving the bees -- Lulu's first Thanksgiving -- Moses goes to a candy party -- Fan's cards-A Christmas hint -- Kitty's tramp -- Tommy and the gander -- How the bears helped one another -- A pig caught in a sly trick -- Beppo -- The country week -- The story of a cane -- Tommy's temptation.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Animals--Juvenile fiction</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Children's stories</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">fsu:23842</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FS66750034</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 236394</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:23842</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FS66750034</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_21008</identifier><datestamp>2014-03-13T18:00:10Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Puss in boots</dc:title>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">mau: Lothrop Publishing Co.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1903</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 online resource ([41] p.) : ill.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Puss in boots -- How little grandmother's shoes were made -- Dolls and dolls -- Mrs. Kitty Cat -- The chief and his guests -- The chimney-swallows home-coming -- Insects with music boxes -- The story Willie is reading -- Pepper -- The royal children of Germany -- How Blossom was found, lost, and found again -- Willie and 'Fraid Cat -- The story of Estokee.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Animals--Juvenile fiction</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Children's stories</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">fsu:21008</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FS66750013</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 232748</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:21008</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FS66750013</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_20725</identifier><datestamp>2014-03-13T18:00:47Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Reynard the fox</dc:title>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">ilu: W.B. Conkey Co.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1894</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 online resource ([15] p.) : chiefly ill.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">A bid bastet -- Four and twenty blackbirds -- What a big man am I -- Dollie's party -- What baby does -- All about a frog</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Children's poetry</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">fsu:20725</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FS66750002</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 230404</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:20725</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FS66750002</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_24908</identifier><datestamp>2014-03-13T18:02:33Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Snow bird's gift</dc:title>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">mau: D. Lothrop and Co.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1882</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 online resource (48 p. in various pagings) : ill.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Rob's tramp -- Snow bird's gift -- Pussy Meek's lesson -- Muggerditch's trowsers -- Caro's captain -- A prickly family -- Field flowers -- Miss Dotty -- Indian oxen -- Dovey one-foot -- A little arctic girl -- Where they grow -- When I was a little girl -- The surgeon bird -- Happy little Laura -- Harry's birthday -- What I saw in Boston -- Beauties -- How Mooly cow talked -- Little Bolster -- The raisin cure -- How the Dickson chickens were saved -- Who had the cherries.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Children's stories</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">fsu:24908</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FS66750035</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 236704</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:24908</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FS66750035</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_27977</identifier><datestamp>2014-03-13T18:04:25Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Winter sports</dc:title>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">mau: Lothrop Publishing Co.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1898</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 online resource ([36] p.) : ill.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">What the firefly told them (Tiptoe Twins) -- What the wind told them -- What the bee told them -- What the oak-tree told them -- What the rose told them -- What the moon told them -- What the shell told them -- Marjory's nest -- What the rain told them -- What the blackberry-vine told them -- What the sparrow told them -- What the spider told them -- What the snowflake told them.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Animals--Juvenile fiction</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Children's stories</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">fsu:27977</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FS66750014</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 232894</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:27977</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FS66750014</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_78803</identifier><datestamp>2014-03-20T14:56:26Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Diddie, Dumps, and Tot</dc:title>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Pyrnelle, Louise Clarke</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">nyu: Harper</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1882</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 online resource (viii, 217 p.) : ill.</dc:format>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:78803</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(oclc) 431926781</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 187866</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT187866</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:78803</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact The Goldstein Library, Florida State University, Tallahassee, Florida.</dc:rights>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_79234</identifier><datestamp>2014-03-20T15:03:05Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Field flowers</dc:title>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Field, Eugene , 1850-1895</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Chicago: Press of A.L. Swift</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1896</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 online resource ([38] p.) : ill.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic resource</dc:format>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Poetry</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:79234</dc:identifier>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">(OCoLC)21774933</dc:relation>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(oclc) 431962417</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 188782</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT188782</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:79234</dc:identifier>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Summary: &quot;Published under the auspices of Mrs. Eugene Field, with the approval of the Monument Committee...&quot; On cover: Eugene Field monument souvenir.</dc:description>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact The Goldstein Library, Florida State University, Tallahassee, Florida.</dc:rights>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_80238</identifier><datestamp>2014-03-20T15:12:33Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Goldilocks and the three bears</dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Torquil MacFerron</dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Thomas Olifant</dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Tyranny</dc:title>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Cummins, S. Lyle (Stevenson Lyle) , b. 1873</dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Stampa, G. L. (George Loraine) , 1875-1951 (illustrator)</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">New York: George H. Doran Co.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1923</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 online resource (xii p., 111 p., 17 leaves of plates) : ill.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic resource</dc:format>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:80238</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(oclc) 433010740</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 190076</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT190076</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:80238</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact The Goldstein Library, Florida State University, Tallahassee, Florida.</dc:rights>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_81460</identifier><datestamp>2014-03-20T16:37:56Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Slovenly Peter</dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Cheerful stories and funny pictures for good little folks</dc:title>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Hoffmann, Heinrich , 1809-1894</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">[Eau Claire, Wis.]: E.M. Hale and Co.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">19??</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 online resource ([88] p.) : ill. (some col.)</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic resource</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">On cover: &quot;By Dr. Henry Hoffmann.&quot;</dc:description>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:81460</dc:identifier>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">(OCoLC)13114670</dc:relation>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(oclc) 433010571</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 195229</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT195229</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:81460</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact The Goldstein Library, Florida State University, Tallahassee, Florida.</dc:rights>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_82291</identifier><datestamp>2014-03-20T16:56:06Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Young peoples history of the world</dc:title>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">18??</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 online resource (667 p. [96] p. of plates) : ill., ports.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic resource</dc:format>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">History, Modern--19th century</dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">19th century</dc:coverage>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:82291</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(oclc) 433010736</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 197455</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT197455</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:82291</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact The Goldstein Library, Florida State University, Tallahassee, Florida.</dc:rights>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_20746</identifier><datestamp>2014-03-13T17:42:00Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Big ABC book</dc:title>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">ilu: W.B. Conkey Company</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">c1901</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 online resource ([39] p.) : ill. (some col.)</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic</dc:format>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Alphabet books</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">fsu:20746</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FS66750003</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 230463</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:20746</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FS66750003</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_79988</identifier><datestamp>2014-03-20T15:09:40Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florence stories</dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">English channel</dc:title>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Abbott, Jacob , 1803-1879</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">New York: Sheldon &amp; Company</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1867</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 online resource (viii, 252 p., [6] p. of plates) : ill.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic resource</dc:format>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Voyages and travels--Juvenile fiction</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Channel Islands--Juvenile fiction</dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Channel Islands</dc:coverage>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:79988</dc:identifier>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">(OCoLC)191234324</dc:relation>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(oclc) 433010742</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 189576</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT189576</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:79988</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact The Goldstein Library, Florida State University, Tallahassee, Florida.</dc:rights>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_78517</identifier><datestamp>2014-03-24T13:31:40Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Aunt Martha's corner cupboard</dc:title>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kirby, Mary , 1817-1893</dc:creator>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kirby, Elizabeth , 1823-1873</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Philadelphia: Henry Altemus Company</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1898</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 online resource (164 p., [24] p. of plates) : ill. (some col.)</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic resource</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">by Mary and Elizabeth Kirby ; with sixty illustrations.</dc:description>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:78517</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(oclc) 433010757</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 187498</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT187498</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:78517</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://goldstein.cci.fsu.edu/</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact The Goldstein Library, Florida State University, Tallahassee, Florida.</dc:rights>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_94516</identifier><datestamp>2014-04-02T18:52:32Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Victorian anthology, 1837-1895</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">fsu:94516</dc:identifier>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Stedman, Edmund Clarence , 1833-1908 (edteditor)</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Boston: Houghton Mifflin Company</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1895</dc:date>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and        research use only. For information about the copyright and reproduction rights for this        item, please contact The Harold Goldstein Library, Florida State University, Tallahassee,        Florida.</dc:rights>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">xl, 744 p. : ill.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">print</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">edited by Edmund Clarence Stedman.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">English poetry</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:94516</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FSUGold_003</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_93819</identifier><datestamp>2014-04-02T18:55:52Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">young Crusoe</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">fsu:93819</dc:identifier>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Boston: Walker, Wise, &amp; Co.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1864</dc:date>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and        research use only. For information about the copyright and reproduction rights for this        item, please contact The Harold Goldstein Library, Florida State University, Tallahassee,        Florida.</dc:rights>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">viii, 270 p., [4] p. of plates : ill.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">print</dc:format>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Castaways--Fiction</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Shipwrecks--Juvenile fiction</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Shipwreck survival--Juvenile fiction</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:93819</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FSUGold_001</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_102041</identifier><datestamp>2014-04-07T21:16:15Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Tarzan and the ant men</dc:title>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Burroughs, Edgar Rice , 1875-1950</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">nyu: Grosset &amp; Dunlap</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">c1924</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 online resource (346 p.) : ill.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">by Edgar Rice Burroughs.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Description based on print version record.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Tarzan (Fictitious character)--Fiction</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fsu/lib/digcoll/goldstein/juvenile/212944</dc:identifier>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Tarzan and the ant men--(OCoLC)880426</dc:relation>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(oclc) 432051278</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+212944</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT212944</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:102041</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_100518</identifier><datestamp>2014-04-17T18:14:04Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Children's interests in reading</dc:title>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jordan, Arthur Melville , b. 1888</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">bibliography</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">New York: Teachers College, Columbia University</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1921</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">engEnglish</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 online resource (143 p.) : ill.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic resource</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Includes bibliographical references (p. 42).</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Children--Books and reading</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:100518</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(oclc) 431918322</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 212303</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT212303</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:100518</dc:identifier>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Summary: Originally presented as the author's thesis, Columbia.</dc:description>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact The Goldstein Library, Florida State University, Tallahassee, Florida.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://goldstein.cci.fsu.edu/</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_102396</identifier><datestamp>2014-04-17T18:21:16Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">adventures of Pinocchio</dc:title>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Collodi, Carlo , 1826-1890</dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Mussino, Attilio , 1878-1954 (illustrator)</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Della Chiesa, Carol , 1887- (translator)</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">New York: Macmillan</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1951</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">engEnglish</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 online resource (vii., 206 p.) : ill.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic resource</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Summary: A magical puppet longs to be a real boy.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">by C. Collodi ; with illustrations after Attilio Mussino ; [translated from the Italian by Carol Della Chiesa].</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Puppets--Fiction</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:102396</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(oclc) 433022761</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 213299</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT213299</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:102396</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact The Goldstein Library, Florida State University, Tallahassee, Florida.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://goldstein.cci.fsu.edu/</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_102615</identifier><datestamp>2014-04-17T18:26:08Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">bojabi tree</dc:title>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Rickert, Edith , 1871-1938</dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Botkin, Gleb. (illustrator)</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Garden City, N.Y.: Doubleday, Doran &amp; Company, Inc.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1923</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">engEnglish</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 online resource (47 p.) : ill.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic resource</dc:format>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:102615</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(oclc) 432048979</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 213518</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT213518</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:102615</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact The Goldstein Library, Florida State University, Tallahassee, Florida.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://goldstein.cci.fsu.edu/</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_100813</identifier><datestamp>2014-04-17T18:30:38Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">brownies</dc:title>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Cox, Palmer , 1840-1924</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Eau Claire, Wis.: E.M. Hale and Co.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1915</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">engEnglish</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 online resource (xi, 144 p.) : ill.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic resource</dc:format>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:100813</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(oclc) 433009763</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 213722</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT213722</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:100813</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact The Goldstein Library, Florida State University, Tallahassee, Florida.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://goldstein.cci.fsu.edu/</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_103105</identifier><datestamp>2014-04-17T18:35:26Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">young master of Hyson Hall</dc:title>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Stockton, Frank Richard , 1834-1902</dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Davisson, Virginia H. (illustrator)</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Stephens, Charles H. (illustrator)</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">London: Chatto &amp; Windus</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1899</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">engEnglish</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 online resource (viii, 287 p., [6] leaves of plates) : ill. (some col.)</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic resource</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">by Frank R. Stockton ; with illustrations by Virginia H. Davisson and Charles H. Stephens.</dc:description>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:103105</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(oclc) 431959573</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 217113</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT217113</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:103105</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact The Goldstein Library, Florida State University, Tallahassee, Florida.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://goldstein.cci.fsu.edu/</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_103434</identifier><datestamp>2014-04-17T18:40:59Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Toby Tyler</dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Ten weeks with a circus</dc:title>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Otis, James , 1848-1912</dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Rodgers, Richard H. (illustrator)</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">New York: Harper Brothers</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1920</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">engEnglish</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 online resource (xvii, 251 p. [4] p. of plates) : col. ill.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic resource</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">[by] James Otis ; illustrated by Richard H. Rodgers.</dc:description>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:103434</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(oclc) 433010761</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 218167</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT218167</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:103434</dc:identifier>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Summary: Follows the adventures of a young boy who runs away to join the circus and discovers, contrary to his expectations, that circus life is not always carefree and happy.</dc:description>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact The Goldstein Library, Florida State University, Tallahassee, Florida.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://goldstein.cci.fsu.edu/</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_103706</identifier><datestamp>2014-04-18T13:36:52Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Two years before the mast</dc:title>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Dana, Richard Henry , 1815-1882</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Boston: Houghton Mifflin Co.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1911</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">engEnglish</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 online resource (xiii, 533 p., [8] p. of plates) : ill. (some col.)</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic resource</dc:format>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Seafaring life</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:103706</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(oclc) 433010738</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 220257</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT220257</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:103706</dc:identifier>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Smith, E. Boyd (illustrator)</dc:contributor>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact The Goldstein Library, Florida State University, Tallahassee, Florida.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://goldstein.cci.fsu.edu/</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_84527</identifier><datestamp>2014-03-20T14:57:38Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Elbert Hubbard's scrap book</dc:title>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Hubbard, Elbert , 1856-1915</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">New York: W.H. Wise &amp; Co.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1923</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 online resource (xii, 228 p.) : ill.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic resource</dc:format>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Literature--History and criticism</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:84527</dc:identifier>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Elbert Hubbard's scrap book--24000374--(OCoLC)335164</dc:relation>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(oclc) 433010748</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 188284</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT188284</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:84527</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact The Goldstein Library, Florida State University, Tallahassee, Florida.</dc:rights>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_86181</identifier><datestamp>2014-03-20T16:34:55Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">story of little Goody Two-shoes</dc:title>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Gillespie, Jessie. (illustrator)</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">New York: Grosset &amp; Dunlap</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1944</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 online resource (33 p.) : ill. (part col.)</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic resource</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Summary: A poor but virtuous girl becomes a school teacher.</dc:description>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:86181</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(oclc) 431903035</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 195187</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT195187</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:86181</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact The Goldstein Library, Florida State University, Tallahassee, Florida.</dc:rights>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_102665</identifier><datestamp>2014-04-30T15:43:45Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Odyssey of Homer</dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Odyssey</dc:title>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Palmer, George Herbert , 1842-1933 (translator)</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Boston: Houghton Mifflin Co.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1921</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">engEnglish</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">xxxi, 402 p. : fold. map, port. ; 18 cm.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic resource</dc:format>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Odysseus (Greek mythology)--Poetry</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Epic poetry, Greek--Translations into English</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:102665</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(oclc) 431959560</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 214262</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT214262</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:102665</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Homer</dc:creator>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact The Goldstein Library, Florida State University, Tallahassee, Florida.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://goldstein.cci.fsu.edu/</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_23383</identifier><datestamp>2014-03-13T17:41:24Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Bedtime stories</dc:title>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">mau: Lothrop Publishing Co.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1904</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 online resource ([51] p.) : ill.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Mac and his doings -- Dotty and Dell -- Araminta Rosabelle -- The story of a goose -- Getting ready for Christmas -- Little Tim's playmates -- How Danny said he was sorry -- Little Poll parrot's dream -- Little Chris' Christmas present -- The naughty black chicken -- The beauty of the family -- The story of a rabbit -- What came of peeping -- Where did it go? -- The belle of the Sunday-school -- Robbie rat's lesson -- At the seashore.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Holiday stories</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Children's stories</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">fsu:23383</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FS66750024</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 234857</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:23383</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FS66750024</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_20808</identifier><datestamp>2014-03-13T17:51:47Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Holiday stories for all the year</dc:title>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">mau: Lothrop Publishing Co.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1900</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 online resource ([124] p.) : ill.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">A pleasant surprise -- What you will see in Algeria -- Poor little Teddy and rich little Tom -- Who knew best? -- Prying Polly -- A day with a king -- Patter-foot -- The story of the pied piper -- Henry M. Stanley and his wife -- Elsie's Christmas present -- The watch king -- The fourth of July -- Little So-sat -- A new home -- A blue jay's jabberings -- An earth-worm's remarks -- The plague of locusts -- The swallows at Beechcroft -- Easter monday at the White House</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Holiday stories</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Animals--Juvenile fiction</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">fsu:20808</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FS66750004</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 230644</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:20808</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FS66750004</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_22423</identifier><datestamp>2014-03-13T17:43:55Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Christmas morning</dc:title>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">mau: Lothrop Publishing Co.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1897</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 online resource ([34] p.) : ill.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Dotty Dilver's Christmas present -- Mamma's present -- Sybillena's scarlet fever -- What Bluebell found -- Three boys -- The cut finger -- How Judy's cat was found -- Two little loves -- Snowflake's bad dream -- A snow-day -- Weighing dollie</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Holiday stories</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Winter--Juvenile literature</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">fsu:22423</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FS66750010</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 232181</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:22423</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FS66750010</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_115970</identifier><datestamp>2014-08-25T16:08:47Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">The last of the Mohicans: a narrative of 1757</dc:title>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Cooper, James Fenimore , 1789-1851</dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Wyeth, N. C. (Newell Convers) , 1882-1945 (illustrator)</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">New York: C. Scribner's Sons</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1925</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">English</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">vi, 370 p. [11] p. of plates : col. ill.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic resource</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Summary: While guiding a small party of English settlers to the protection of a fort during the French and Indian War, Hawkeye, a frontier scout, and his two Indian friends, the remaining braves of the Mohican tribe, struggle against the evils of Uncas who desires a white maiden for his wife.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Mohegan Indians--Fiction</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Bumppo, Natty (Fictitious character)--Fiction</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Frontier and pioneer life--Fiction</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/lib/digcoll/goldstein/juvenile/213876</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(oclc) 433010726</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 213876</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT213876</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:115970</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact The Goldstein Library, Florida State University, Tallahassee, Florida.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://goldstein.cci.fsu.edu/</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_94101</identifier><datestamp>2014-04-02T18:54:29Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">story of Washington</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">fsu:94101</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Seelye, Elizabeth Eggleston , 1858-1923</dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Eggleston, Allegra. (illillustrator)</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Eggleston, Edward , 1837-1902 (edteditor) (auiauthor of introduction)</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">New York: D. Appleton and Company</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1893</dc:date>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and        research use only. For information about the copyright and reproduction rights for this        item, please contact The Harold Goldstein Library, Florida State University, Tallahassee,        Florida.</dc:rights>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">xvii, 382 p., [6] leaves of plates : ill., maps</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">print</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">by Elizabeth Eggleston Seelye ; with over one hundred illustrations by Allegra Eggleston ; edited with an introduction by Edward Eggleston.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Washington, George , 1732-1799</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Presidents--Juvenile literature</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Generals--Juvenile literature</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Soldiers--Juvenile literature</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Battles--Juvenile literature</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Statesmen--Juvenile literature</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:94101</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FSUGold_002</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_104604</identifier><datestamp>2014-04-08T20:49:54Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">My garden of memory: an autobiography</dc:title>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Wiggin, Kate Douglas Smith , 1856-1923</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">bibliography</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">biography</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">mau: Houghton Mifflin Co.</dc:publisher>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 online resource (xxv, 465 p., front., [3] p. of plates) : ill.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">by Kate Douglas Wiggin.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Description based on print version record.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Wiggin, Kate Douglas Smith , 1856-1923</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Authors, American--19th century--Biography</dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">19th century</dc:coverage>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fsu/lib/digcoll/goldstein/juvenile/212453</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/herb/212453a1.sid</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) 
+http://purl.flvc.org/fcla/aerials/212453a1.sid</dc:identifier>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">My garden of memory--23015164--(OCoLC)1183901</dc:relation>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(oclc) 431918327</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 
+212453</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT212453</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:104604</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_104281</identifier><datestamp>2014-04-30T16:01:31Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Under Foch's command</dc:title>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brereton, F. S. (Frederick Sadleir) , b. 1872</dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Paget, Walter , 1863-1935 (illustrator)</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">London: Blackie and Son</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1918?</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">engEnglish</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">287 p. : ill. ; 20 cm.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">electronic resource</dc:format>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Foch, Ferdinand , 1851-1929</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">World War, 1914-1918--Campaigns--France--Juvenile fiction</dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">France</dc:coverage>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">fsu:104281</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(oclc) 431918334</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(digitool) 237879</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSDT237879</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:104281</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact The Goldstein Library, Florida State University, Tallahassee, Florida.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://goldstein.cci.fsu.edu/</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_99988</identifier><datestamp>2014-06-27T12:58:38Z</datestamp></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Scottish chiefs</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">fsu:99988</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Porter, Jane , 1776-1850</dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Wiggin, Kate Douglas Smith , 1856-1923 (edteditor)</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Smith, Nora Archibald , 1859-1934 (edteditor)</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Wyeth, N. C. (Newell Convers) , 1882-1945 (illillustrator)</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">New York: C. Scribner's Sons</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1933</dc:date>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and        research use only. For information about the copyright and reproduction rights for this        item, please contact The Harold Goldstein Library, Florida State University, Tallahassee,        Florida.</dc:rights>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">xvi, 503 p., [9] p. of plates : ill.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">print</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Summary: William Wallace encounters secret passageways, disguises, and a quintet of horrible villains as he fights for Scotland at the turn of the fourteenth century.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">by Jane Porter ; edited by Kate Douglas Wiggin and Nora A. Smith ; illustrated by N.C. Wyeth.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Wallace, William , -1305</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Revolutionaries--Scotland--Fiction</dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Scotland</dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Scotland--History--War of Independence, 1285-1371--Fiction</dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Scotland</dc:coverage>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">War of Independence, 1285-1371</dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Scotland--Kings and rulers--Fiction</dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Scotland</dc:coverage>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:99988</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FSUGold_004</dc:identifier>
+</oai_dc:dc>
+</metadata></record>
+</repository>
