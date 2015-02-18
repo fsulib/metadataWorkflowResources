@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>    
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+<xsl:stylesheet xmlns="http://www.loc.gov/mods/v3" 
+    xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:mods="http://www.loc.gov/mods/v3" xmlns:marc="http://www.loc.gov/MARC21/slim"
@@ -254,7 +255,7 @@
     <!-- Build marc:collection -->
     <xsl:template match="marc:collection">
         <!-- FSU Modification: Removed http://www.loc.gov/mods/v3 from xsi:schemaLocation because the result did not validate. mag 2014/05/28 -->
-        <modsCollection xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+        <modsCollection xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
             <xsl:apply-templates select="marc:record"/>
         </modsCollection>
     </xsl:template>
@@ -288,7 +289,7 @@
                     >MU</xsl:when>
             </xsl:choose>
         </xsl:variable>
-        <mods version="3.4">
+        <mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
             <!-- FSU Modification: Removed http://www.loc.gov/mods/v3 from xsi:schemaLocation because the result did not validate. mag 2014/05/28 -->
             <!-- Adds appropriate namespaces and schema declaration if root is marc:record -->
             <!-- FSU: Added FLVC namespace and extensions -->
@@ -302,13 +303,16 @@
                 research use only. For information about the copyright and reproduction rights for this
                 item, please contact Special Collections and Archives, Florida State University
                 Libraries, Tallahassee, Florida.</accessCondition>
-            
+            <!--
             <xsl:if test="/marc:record">
+                <xsl:namespace name="">http://www.loc.gov/mods/v3</xsl:namespace>
+                <xsl:namespace name="xlink">http://www.w3.org/1999/xlink</xsl:namespace>
                 <xsl:namespace name="xsi">http://www.w3.org/2001/XMLSchema-instance</xsl:namespace>
                 <xsl:namespace name="flvc">info:flvc/manifest/v1</xsl:namespace>
                 <xsl:attribute name="xsi:schemaLocation"
-                    >http://www.loc.gov/standards/mods/v3/mods-3-4.xsd</xsl:attribute>
-            </xsl:if>
+                    >http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd</xsl:attribute>
+                <xsl:attribute name="version">3.4</xsl:attribute>
+            </xsl:if> -->
             <!-- Call titleInfo templates and linking fields-->
             <xsl:apply-templates
                 select="marc:datafield[@tag='245'] | marc:datafield[@tag='880'][starts-with(marc:subfield[@code='6'],'245')]"
@@ -4631,9 +4635,9 @@
                      <xsl:value-of select="translate(translate($fsuIID,' &#x9;&#xa;&#xd;.',''),' &#x9;&#xa;&#xd;.','')" />
                  </identifier>
              </xsl:when>
-             <!-- 050 and 090 present, select 050 -->
+             <!-- 050 and 090 present, select 090 -->   
              <xsl:when test="boolean(../marc:datafield[@tag='050']) and boolean(../marc:datafield[@tag='090'])">
-                 <xsl:variable name="fsuIID" select="concat('fsu_',mods:subfieldSelect(../marc:datafield[@tag='050'], 'ab'))" />
+                 <xsl:variable name="fsuIID" select="concat('fsu_',mods:subfieldSelect(../marc:datafield[@tag='090'], 'ab'))" />
                  <identifier type="IID">
                      <xsl:value-of select="translate(translate($fsuIID,' &#x9;&#xa;&#xd;.',''),' &#x9;&#xa;&#xd;.','')" />
                  </identifier>
