@@ -3,6 +3,7 @@
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     exclude-result-prefixes="xs"
     version="2.0">
+<!-- This stylesheet removes empty elements and elements given the value of 'null' by OpenRefine. -->
     <xsl:output method="xml" version="1.0" byte-order-mark="no" encoding="UTF-8" indent="yes" />
     <xsl:template match="node()|@*">
         <xsl:if test="normalize-space(string(.)) != '' and normalize-space(string(.)) != 'null'">
