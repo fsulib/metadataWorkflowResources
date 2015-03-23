@@ -1406,6 +1406,8 @@
                         </dateCreated>
                     </xsl:if>
                 </xsl:if>
+                
+                <!-- dateIssuedTarget -->
                 <xsl:if
                     test="($controlField008-6='e' or $controlField008-6='p' or $controlField008-6='r' or $controlField008-6='s' or $controlField008-6='t') and not($leader6='d' or $leader6='f' or $leader6='p' or $leader6='t')">
                     <xsl:if
@@ -1799,7 +1801,7 @@
                     <xsl:value-of select="mods:stripPunctuation(.,',:;/ ')"/>
                 </publisher>
             </xsl:when>
-            <xsl:when test="@code='c'">
+            <!-- <xsl:when test="@code='c'">
                 <xsl:choose>
                     <xsl:when test="$leader6='d' or $leader6='f' or $leader6='p' or $leader6='t'">
                         <dateCreated>
@@ -1812,7 +1814,7 @@
                         </dateIssued>
                     </xsl:otherwise>
                 </xsl:choose>
-            </xsl:when>
+            </xsl:when> -->
             <xsl:when test="@code='g'">
                 <dateCreated>
                     <xsl:apply-templates/>
