@@ -13,7 +13,7 @@
     <xsl:template match="/">
         
         <xsl:for-each select="//mods">
-            <xsl:variable name="filename" select="concat('MODS/',identifier[@type='IID'],'.xml')" />
+            <xsl:variable name="filename" select="concat('MODS/',identifier[@type='file'],'.xml')" />
             <xsl:value-of select="$filename" />
             <xsl:result-document href="{$filename}" format="xml">
                 <xsl:copy-of copy-namespaces="yes" select="." />

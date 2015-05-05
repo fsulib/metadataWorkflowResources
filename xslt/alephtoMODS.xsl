@@ -2013,7 +2013,7 @@
         <xsl:if
             test="marc:controlfield[@tag='007']     or marc:datafield[@tag='130' or @tag='240' or @tag='242' or @tag='245' or @tag='246' or @tag='730']/child::*[@code='h']     or marc:datafield[@tag='256']/child::*[@code='a']     or marc:datafield[@tag='300']/child::*[@code='a' or @code='b' or @coe='c' or @code='e']    or marc:datafield[@tag='351']/child::*[@code='3' or @code='a' or @coe='b' or @code='c']    or marc:datafield[@tag='285']/child::*[@code='q']     or marc:datafield[@tag='856']/child::*[@code='q']">
             <physicalDescription>
-					<digitalOrigin>digitized other analog</digitalOrigin>
+					<digitalOrigin>reformatted digital</digitalOrigin>
                 <!--  880 field -->
                 <xsl:call-template name="z3xx880"/>
                 <!-- <xsl:call-template name="digitalOrigin">
@@ -4632,21 +4632,21 @@
          <xsl:choose>
              <!-- 050 present with no 090, select 050 -->
              <xsl:when test="boolean(../marc:datafield[@tag='050']) and not(boolean(../marc:datafield[@tag='090']))">
-                 <xsl:variable name="fsuIID" select="concat('fsu_',mods:subfieldSelect(.,'ab'))" />
+                 <xsl:variable name="fsuIID" select="concat('FSU_',mods:subfieldSelect(.,'ab'))" />
                  <identifier type="IID">
                      <xsl:value-of select="translate(translate($fsuIID,' &#x9;&#xa;&#xd;.',''),' &#x9;&#xa;&#xd;.','')" />
                  </identifier>
              </xsl:when>
              <!-- 050 and 090 present, select 090 -->   
              <xsl:when test="boolean(../marc:datafield[@tag='050']) and boolean(../marc:datafield[@tag='090'])">
-                 <xsl:variable name="fsuIID" select="concat('fsu_',mods:subfieldSelect(../marc:datafield[@tag='090'], 'ab'))" />
+                 <xsl:variable name="fsuIID" select="concat('FSU_',mods:subfieldSelect(../marc:datafield[@tag='090'], 'ab'))" />
                  <identifier type="IID">
                      <xsl:value-of select="translate(translate($fsuIID,' &#x9;&#xa;&#xd;.',''),' &#x9;&#xa;&#xd;.','')" />
                  </identifier>
              </xsl:when>
              <!-- 090 present with no 050, select 090 -->
              <xsl:when test="not(boolean(../marc:datafield[@tag='050'])) and boolean(../marc:datafield[@tag='090'])">
-                 <xsl:variable name="fsuIID" select="concat('fsu_',mods:subfieldSelect(.,'ab'))" />
+                 <xsl:variable name="fsuIID" select="concat('FSU_',mods:subfieldSelect(.,'ab'))" />
                  <identifier type="IID">
                      <xsl:value-of select="translate(translate($fsuIID,' &#x9;&#xa;&#xd;.',''),' &#x9;&#xa;&#xd;.','')" />
                  </identifier>
