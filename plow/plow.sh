@@ -1,8 +1,27 @@
 #!/bin/bash
 
-# Ready the output directory
+# Ready the outputs
 rm -rf ./harvest
 mkdir harvest
+rm assets/setSpec.txt
+rm assets/setName.txt
+
+#build arrays
+touch assets/setSpec.txt
+touch assets/setName.txt
+python assets/setSpecFetch.py
+
+printf 'setList=(' > assets/setSpec.txt
+for setSpec in $( xmlstarlet sel -T -t -v //setSpec assets/setSpec.xml ); do
+	printf '%s ' $setSpec >> assets/setSpec.txt
+done
+printf ')' >> assets/setSpec.txt
+
+printf 'setName=(' > assets/setName.txt
+for setName in $( xmlstarlet sel -T -t -v //setName assets/setSpec.xml ); do
+	printf '%s ' $setName >> assets/setName.txt
+done
+printf ')' >> assets/setName.txt
 
 # Define report functions
 breaker () {
@@ -14,8 +33,8 @@ count () {
 
 
 # Reading set data into the array
-source setList.txt
-source setName.txt
+source assets/setSpec.txt
+source assets/setName.txt
 iso=`date -I`
 mark=0
 
