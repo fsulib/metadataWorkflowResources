@@ -14,8 +14,8 @@ iso=`date -I`
 touch fsudlReport$iso.csv
 
 # Read set list into array
-source setList.txt
-source setName.txt
+source assets/setSpec.txt
+source assets/setName.txt
 mark=0
 
 echo 'setName, setSpec, # of records, # of titles, # of creators, avg creators per record, # of dates, # of coverages, # of formats, # of types, # of 
