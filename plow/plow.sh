@@ -47,7 +47,7 @@ printf "\n\nHarvest complete.\n\n"
 
 # Start report
 touch fsudlReport$iso.csv
-echo 'setName, setSpec, # of records, # of titles, # of creators, avg creators per record, # of subjects, avg subjects per record' >>fsudlReport$iso.csv
+echo 'setSpec, # of records, # of titles, # of creators, avg creators per record, # of subjects, avg subjects per record' >> fsudlReport$iso.csv
 
 # Setting up the report loop
 for i in ${setList[@]}; do
@@ -55,12 +55,12 @@ for i in ${setList[@]}; do
 	setName=${setName[$mark]}
 	recNum=`count ./harvest/$i* record$`
 	if [ $recNum -eq 0 ]; then
-		echo "$setName, $i, 0, 0, 0, 0, 0, 0" >>fsudlReport$iso.csv
+		printf '%s, 0, 0, 0, 0, 0, 0' $i >> fsudlReport$iso.csv
 	else
 		titleNum=`breaker title ./harvest/$i*`
 		creatorNum=`breaker creator ./harvest/$i*`
 		subNum=`breaker subject ./harvest/$i*`
-		echo $setName "," $i "," $recNum "," $titleNum "," $creatorNum "," $(( $creatorNum / $recNum )) "," $subNum "," $(( $subNum / $recNum )) >>fsudlReport$iso.csv
+		printf '%s, %.2f, %.2f, %.2f, %.2f, %.2f, %.2f\n' $i $recNum $titleNum $creatorNum $(( $creatorNum / $recNum )) $subNum $(( $subNum / $recNum )) >> fsudlReport$iso.csv
 	fi
 	mark=$(( $mark + 1 ))
 done
