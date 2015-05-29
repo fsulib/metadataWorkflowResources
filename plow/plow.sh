@@ -55,7 +55,7 @@ for i in ${setList[@]}; do
 	setName=${setName[$mark]}
 	recNum=`count ./harvest/$i* record$`
 	if [ $recNum -eq 0 ]; then
-		printf '%s, 0, 0, 0, 0, 0, 0' $i >> fsudlReport$iso.csv
+		printf '%s, 0, 0, 0, 0, 0, 0\n' $i >> fsudlReport$iso.csv
 	else
 		titleNum=`breaker title ./harvest/$i*`
 		creatorNum=`breaker creator ./harvest/$i*`
