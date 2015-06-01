@@ -26,7 +26,7 @@ for i in ${setList[@]}; do
 	setName=${setName[$mark]}
 	recNum=`count /home/mmiguez/bin/plow/harvest/$i* record$`
 	if [ $recNum -eq 0 ]; then
-		printf '%s, 0, 0, 0, 0, 0, 0\n' $i >> /home/mmiguez/bin/plow/fsudlReport$iso.csv
+		printf '%s, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0\n' $i >> /home/mmiguez/fsudlReport$iso.csv
 	else
 		titleNum=`breaker title /home/mmiguez/bin/plow/harvest/$i*`
 		creatorNum=`breaker creator /home/mmiguez/bin/plow/harvest/$i*`
@@ -35,7 +35,7 @@ for i in ${setList[@]}; do
 		formatNum=`breaker format /home/mmiguez/bin/plow/harvest/$i*`
 		typeNum=`breaker type /home/mmiguez/bin/plow/harvest/$i*`
 		subNum=`breaker subject /home/mmiguez/bin/plow/harvest/$i*`
-		printf '%s, %.2f, %.2f, %.2f, %.2f, %.2f, %.2f\n' $i $recNum $titleNum $creatorNum $(( $creatorNum / $recNum )) $subNum $(( $subNum / $recNum )) >> /home/mmiguez/bin/plow/fsudlReport$iso.csv
+		printf '%s, %.2f, %.2f, %.2f, %.2f, %.2f, %.2f, %.2f, %.2f, %.2f, %.2f\n' $i $recNum $titleNum $creatorNum $(( $creatorNum / $recNum )) $dateNum $coverNum $formatNum $typeNum $subNum $(( $subNum / $recNum )) >> /home/mmiguez/fsudlReport$iso.csv
 	fi
 	mark=$(( $mark + 1 ))
 done
