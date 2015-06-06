@@ -1,0 +1,484 @@
+<repository xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"      xmlns:dc="http://purl.org/dc/elements/1.1/"      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instanc">
+<record><header><identifier>oai:fsu.digital.flvc.org:fsu_48038</identifier><datestamp>2014-01-31T21:19:45Z</datestamp><setSpec>fsu_caribbeanbooks</setSpec></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Census of the Virgin Islands of the United States, November 1, 1917</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSUCaribBooks_00001</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">United States Bureau of the Census.</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">dcu: Govt. Print. Off.</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1918</dc:date>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and
+        research use only. For information about the copyright and reproduction rights for this item,
+        please contact Special Collections and Archives, Florida State University Libraries,
+        Tallahassee, Florida.</dc:rights>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">174 p. : ill., maps, forms, plates ; 24 cm.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">print</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">prepared under the supervision of Eugene F. Hartley.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">United States Virgin Islands--Census</dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">United States Virgin Islands</dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Virgin Islands--Census</dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Virgin Islands</dc:coverage>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(lccn) 18026687</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:48038</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FSUCaribBooks_00001</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_54761</identifier><datestamp>2014-02-08T01:02:29Z</datestamp><setSpec>fsu_caribbeanbooks</setSpec></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Report of the Virgin Islands Agricultural Experiment Station 1920</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSUCaribBooks_00002</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Virgin Islands Agricultural Experiment Station (U.S.)</dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">United States Dept. of the Interior. (consultant)</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">dcu: G.P.O.</dc:publisher>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/">Frequency: Annual</dc:description>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1919-1932</dc:date>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and
+        research use only. For information about the copyright and reproduction rights for this item,
+        please contact Special Collections and Archives, Florida State University Libraries,
+        Tallahassee, Florida.</dc:rights>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">14 v. : ill. ; 23 cm.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">print</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Report year ends June 30. FU FTaSU</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Continues: Christiansted (Danish West Indies). Agricultural Experiment Station. Report.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">&quot;On July 1, 1932, the station was transferred to the U.S. Dept. of the Interior.&quot; Cf. 1932 report, p. 1.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Agriculture--United States Virgin Islands--Periodicals</dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">United States Virgin Islands</dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">S183.V5 V5</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">630.72 V817r</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">A 10.26/1:</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">A 10.26/1:</dc:subject>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Report of the Virgin Islands Agricultural Experiment Station--(OCoLC)647559542</dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Report</dc:relation>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(lccn) sn 86035163</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:54761</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FSUCaribBooks_00002</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_54813</identifier><datestamp>2014-02-08T13:35:16Z</datestamp><setSpec>fsu_caribbeanbooks</setSpec></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Report of the Virgin Islands Agricultural Experiment Station 1928</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSUCaribBooks_00003</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Virgin Islands Agricultural Experiment Station (U.S.)</dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">United States Dept. of the Interior. (consultant)</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">dcu: G.P.O.</dc:publisher>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/">Frequency: Annual</dc:description>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1919-1932</dc:date>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and
+        research use only. For information about the copyright and reproduction rights for this item,
+        please contact Special Collections and Archives, Florida State University Libraries,
+        Tallahassee, Florida.</dc:rights>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">14 v. : ill. ; 23 cm.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">print</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Report year ends June 30. FU FTaSU</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Continues: Christiansted (Danish West Indies). Agricultural Experiment Station. Report.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">&quot;On July 1, 1932, the station was transferred to the U.S. Dept. of the Interior.&quot; Cf. 1932 report, p. 1.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Agriculture--United States Virgin Islands--Periodicals</dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">United States Virgin Islands</dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">S183.V5 V5</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">630.72 V817r</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">A 10.26/1:</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">A 10.26/1:</dc:subject>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Report of the Virgin Islands Agricultural Experiment Station--(OCoLC)647559542</dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Report</dc:relation>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(lccn) sn 86035163</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:54813</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FSUCaribBooks_00003</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_54838</identifier><datestamp>2014-02-08T13:45:48Z</datestamp><setSpec>fsu_caribbeanbooks</setSpec></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Report of the Virgin Islands Agricultural Experiment Station 1932</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSUCaribBooks_00005</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Virgin Islands Agricultural Experiment Station (U.S.)</dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">United States Dept. of the Interior. (consultant)</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">dcu: G.P.O.</dc:publisher>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/">Frequency: Annual</dc:description>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1919-1932</dc:date>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and
+        research use only. For information about the copyright and reproduction rights for this item,
+        please contact Special Collections and Archives, Florida State University Libraries,
+        Tallahassee, Florida.</dc:rights>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">14 v. : ill. ; 23 cm.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">print</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Report year ends June 30. FU FTaSU</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Continues: Christiansted (Danish West Indies). Agricultural Experiment Station. Report.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">&quot;On July 1, 1932, the station was transferred to the U.S. Dept. of the Interior.&quot; Cf. 1932 report, p. 1.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Agriculture--United States Virgin Islands--Periodicals</dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">United States Virgin Islands</dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">S183.V5 V5</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">630.72 V817r</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">A 10.26/1:</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">A 10.26/1:</dc:subject>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Report of the Virgin Islands Agricultural Experiment Station--(OCoLC)647559542</dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Report</dc:relation>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(lccn) sn 86035163</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:54838</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FSUCaribBooks_00005</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_54867</identifier><datestamp>2014-02-08T13:58:31Z</datestamp><setSpec>fsu_caribbeanbooks</setSpec></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Report of the educational survey of the Virgin Islands</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSUCaribBooks_00006</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Commission of Survey Regarding Education in the Virgin Islands of the United States</dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Hampton Institute (consultant)</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Tuskegee Institute (consultant)</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">vau: Press of the Hampton Normal and Agricultural Institute</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1929</dc:date>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and
+        research use only. For information about the copyright and reproduction rights for this item,
+        please contact Special Collections and Archives, Florida State University Libraries,
+        Tallahassee, Florida.</dc:rights>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">69 p. ; 24 cm.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">print</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">The survey was authorized by the Secretary of the Navy and conducted under the auspices of Hampton and Tuskegee Institutes.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Education--United States Virgin Islands</dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">United States Virgin Islands</dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Educational surveys</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(lccn) e 29000256 //r</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:54867</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FSUCaribBooks_00006</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_54957</identifier><datestamp>2014-02-08T14:23:12Z</datestamp><setSpec>fsu_caribbeanbooks</setSpec></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Report on the Leeward Islands</dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Colonial reports Leeward Islands</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSUCaribBooks_00007</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Great Britain Colonial Office.</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">enk: H.M. Stationery Office</dc:publisher>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/">Frequency: Biennial, 1949-50--</dc:description>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1946-1967</dc:date>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and
+        research use only. For information about the copyright and reproduction rights for this item,
+        please contact Special Collections and Archives, Florida State University Libraries,
+        Tallahassee, Florida.</dc:rights>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">v. : ill.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">print</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Title varies slightly.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Issued 1946-54 as Colonial reports (1946-48: called Colonial annual reports.)</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Previously issued in the numbered series of &quot;Colonial reports-annual&quot; which was suspended in 1940.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Continued in part by: Antigua; British Virgin Islands; Dominica; Montserrat; Report on St. Kitts-Nevis-Anguilla.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Leeward Islands (West Indies)</dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Leeward Islands (West Indies)</dc:coverage>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Colonial reports</dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Colonial annual reports</dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Colonial reports- annual</dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Antigua--(OCoLC)01606874</dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">British Virgin Islands--(OCoLC)05304831</dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Dominica--(OCoLC)01605700</dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Montserrat--(OCoLC)04896182</dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Report on St. Kitts-Nevis-Anguilla--(OCoLC)01716664</dc:relation>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(lccn) 49006848</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:54957</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FSUCaribBooks_00007</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_56829</identifier><datestamp>2014-02-09T14:01:14Z</datestamp><setSpec>fsu_caribbeanbooks</setSpec></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Report of the Virgin Islands Agricultural Experiment Station 1931</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSUCaribBooks_00004</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Virgin Islands Agricultural Experiment Station (U.S.)</dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">United States Dept. of the Interior. (consultant)</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">dcu: G.P.O.</dc:publisher>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/">Frequency: Annual</dc:description>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1919-1932</dc:date>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and
+        research use only. For information about the copyright and reproduction rights for this item,
+        please contact Special Collections and Archives, Florida State University Libraries,
+        Tallahassee, Florida.</dc:rights>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">14 v. : ill. ; 23 cm.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">print</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Report year ends June 30. FU FTaSU</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Continues: Christiansted (Danish West Indies). Agricultural Experiment Station. Report.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">&quot;On July 1, 1932, the station was transferred to the U.S. Dept. of the Interior.&quot; Cf. 1932 report, p. 1.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Agriculture--United States Virgin Islands--Periodicals</dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">United States Virgin Islands</dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">S183.V5 V5</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">630.72 V817r</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">A 10.26/1:</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">A 10.26/1:</dc:subject>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Report of the Virgin Islands Agricultural Experiment Station--(OCoLC)647559542</dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Report</dc:relation>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(lccn) sn 86035163</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:56829</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FSUCaribBooks_00004</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_62708</identifier><datestamp>2014-02-19T04:07:38Z</datestamp><setSpec>fsu_caribbeanbooks</setSpec></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Crónica de la guerra de Cuba (1895), v. 1</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSUCaribBooks_00016</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Guerrero, Rafael.</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">sp: M. Maucci</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1895-1897</dc:date>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and
+        research use only. For information about the copyright and reproduction rights for this item,
+        please contact Special Collections and Archives, Florida State University Libraries,
+        Tallahassee, Florida.</dc:rights>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">spa</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">5 v. illus. (incl. ports.) fold. map. 25 cm.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">print</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">escrita por Rafael Guerrero con los datos suministrados por los corresponsales de Habana y New York y documentos adquiridos al efecto.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Cuba--History--Revolution, 1895-1898</dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Cuba</dc:coverage>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Revolution, 1895-1898</dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Philippines--History</dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Philippines</dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">F1786 .G92</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(lccn) 03025496</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:62708</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FSUCaribBooks_00016</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_63352</identifier><datestamp>2014-02-19T09:56:24Z</datestamp><setSpec>fsu_caribbeanbooks</setSpec></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Crónica de la guerra de Cuba (1895), v. 2</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSUCaribBooks_00017</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Guerrero, Rafael.</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">sp: M. Maucci</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1895-1897</dc:date>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and
+        research use only. For information about the copyright and reproduction rights for this item,
+        please contact Special Collections and Archives, Florida State University Libraries,
+        Tallahassee, Florida.</dc:rights>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">spa</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">5 v. : ill., fold. map, ports. ; 25 cm.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">print</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">escrita por Rafael Guerrero con los datos suministrados por los corresponsales de Habana y New York y documentos adquiridos al efecto.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Cuba--History--Revolution, 1895-1898</dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Cuba</dc:coverage>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Revolution, 1895-1898</dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Philippines--History</dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Philippines</dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">F1786 .G92</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(lccn) 03025496</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:63352</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FSUCaribBooks_00017</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_64642</identifier><datestamp>2014-03-04T21:31:25Z</datestamp><setSpec>fsu_caribbeanbooks</setSpec></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">España y Cuba</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">fsu:64642</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Spain. Ministerio de Ultramar.</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">sp: Impr. de los hijos de J. A. Garcia</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1896</dc:date>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and    research use only. For information about the copyright and reproduction rights for this item,    please contact Special Collections and Archives, Florida State University Libraries,    Tallahassee, Florida.</dc:rights>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">spa</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">204 p. ; 19 cm.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">print</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Estado político y administrativo de la Grande Antilla bajo la dominación española.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Law--Cuba</dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Cuba</dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Cuba--Politics and government</dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Cuba</dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Spain--Colonies--America</dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Spain--America</dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Spain--Colonies--Cuba</dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Spain--Cuba</dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">JL1000 .A3 1896</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(lccn) 15025227</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:64642</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FSUCaribBooks_00013</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_51663</identifier><datestamp>2014-02-04T20:30:22Z</datestamp><setSpec>fsu_caribbeanbooks</setSpec></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Los  inmorales: (novela)</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSUCaribBooks_00010</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Loveira, Carlos , 1882-1928</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">cu: Sociedad Editorial Cuba Contemporánae</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1919</dc:date>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and
+        research use only. For information about the copyright and reproduction rights for this item,
+        please contact Special Collections and Archives, Florida State University Libraries,
+        Tallahassee, Florida.</dc:rights>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">spa</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">290 p. ; 21 cm.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">print</dc:format>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">PQ7389.L74 I6</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(lccn) 29004525</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:51663</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FSUCaribBooks_00010</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_51964</identifier><datestamp>2014-02-04T22:17:36Z</datestamp><setSpec>fsu_caribbeanbooks</setSpec></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">The  West Indies hurricane disaster, September, 1928: official report of relief work in Porto Rico, the Virgin Islands and
+            Florida</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSUCaribBooks_00011</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">American National Red Cross</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">dcu: The American national Red cross</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">[1929]</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">92 p. ill. maps 23 cm.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">print</dc:format>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and
+        research use only. For information about the copyright and reproduction rights for this item,
+        please contact Special Collections and Archives, Florida State University Libraries,
+        Tallahassee, Florida.</dc:rights>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Hurricanes--Florida</dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Florida</dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Hurricanes--United States Virgin Islands</dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">United States Virgin Islands</dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Hurricanes--Puerto Rico</dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Puerto Rico</dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">United States Virgin Islands--History</dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">United States Virgin Islands</dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida--History--1865-</dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Florida</dc:coverage>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">1865-</dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Puerto Rico--History--1898-1952</dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Puerto Rico</dc:coverage>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">1898-1952</dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Puerto Rico--Hurricane, 1928</dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Puerto Rico</dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Virgin Islands--Hurricane, 1928</dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Virgin Islands</dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Florida--Hurricane, 1928</dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Florida</dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">HV579.W4 A5 1928</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">361.5</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(lccn) 30013869</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:51964</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FSUCaribBooks_00011</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_55416</identifier><datestamp>2014-02-08T16:43:17Z</datestamp><setSpec>fsu_caribbeanbooks</setSpec></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Hampa afro-cubana: Los negros brujos (apuntes para un estudio de etnología criminal.)</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSUCaribBooks_00009</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ortiz, Fernando , 1881-1969</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">sp: Editorial-América</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">[1917?]</dc:date>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and
+        research use only. For information about the copyright and reproduction rights for this item,
+        please contact Special Collections and Archives, Florida State University Libraries,
+        Tallahassee, Florida.
+    </dc:rights>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">spa</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">406 p. : ill. ; 20 cm.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">print</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">[Por] Fernando Ortiz. Con una carta prólogo de Lombroso.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Blacks--Cuba</dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Cuba</dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Vodou</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Criminal anthropology</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">BL2490 .O8</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(lccn) 18010345 //r33</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:55416</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FSUCaribBooks_00009</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_62305</identifier><datestamp>2014-02-19T02:15:46Z</datestamp><setSpec>fsu_caribbeanbooks</setSpec></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Parnaso antillano: compilación completa de los mejores poetas de Cuba, Puerto Rico y Santo
+            Domingo</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSUCaribBooks_00015</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Bazil, Osvaldo , b. 1884</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">sp: Maucci</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1918</dc:date>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and
+        research use only. For information about the copyright and reproduction rights for this item,
+        please contact Special Collections and Archives, Florida State University Libraries,
+        Tallahassee, Florida.</dc:rights>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">spa</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">384 p. ; 19 cm.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">print</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Osvaldo Bazil.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Cuban poetry</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Puerto Rican poetry</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Dominican poetry</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">PQ7361 .B3</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(lccn) 18021077</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:62305</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FSUCaribBooks_00015</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_62116</identifier><datestamp>2014-02-19T01:05:56Z</datestamp><setSpec>fsu_caribbeanbooks</setSpec></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">A  history of the harbor defenses of San Juan, P.R., under Spain, 1509-1898: including a brief history of artillery and a guide to the ancient
+            fortifications</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSUCaribBooks_00014</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">United States Army. Puerto Rico Coast Artillery Command.</dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Hoyt, Edward Albert , 1913- (editor)</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">pr: Antilles Coast Artillery Command</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1943-1944</dc:date>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and
+        research use only. For information about the copyright and reproduction rights for this item,
+        please contact Special Collections and Archives, Florida State University Libraries,
+        Tallahassee, Florida.</dc:rights>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">eng</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">168 p. : ill. ; 24 cm.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">print</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">prepared at the Puerto Rico Coast Artillery Command [by Edward A. Hoyt]</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Includes bibliographic references and index.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Fortification--Puerto Rico--San Juan</dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Puerto Rico--San Juan</dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Puerto Rico--Coast defenses</dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Puerto Rico</dc:coverage>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(lccn) 48033877</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:62116</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FSUCaribBooks_00014</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_55032</identifier><datestamp>2014-02-08T14:45:31Z</datestamp><setSpec>fsu_caribbeanbooks</setSpec></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Cómo acabó la dominación de Espanã en América</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSUCaribBooks_00008</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Piñeyro, Enrique , 1839-1911</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">biography</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">fr: Garnier Hermanos</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">[1908]</dc:date>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and
+        research use only. For information about the copyright and reproduction rights for this item,
+        please contact Special Collections and Archives, Florida State University Libraries,
+        Tallahassee, Florida.</dc:rights>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">spa</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">viii, 340 p. ; 18 cm.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">print</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">&quot;José María Heredia&quot;: p. [295]-333.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Heredia, José María de , 1803-1839</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Cuba--History</dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Cuba</dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Cuba--History--Revolution, 1895-1898</dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Cuba</dc:coverage>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Revolution, 1895-1898</dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">F1783 .P65 1908</dc:subject>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(lccn) 13001643 //r</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:55032</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FSUCaribBooks_00008</dc:identifier>
+</oai_dc:dc>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_56858</identifier><datestamp>2014-02-09T16:12:57Z</datestamp><setSpec>fsu_caribbeanbooks</setSpec></header><metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">En  propia defensa: contestación al general Polavieja</dc:title>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSUCaribBooks_00012</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Galarza, Vincente</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">sp: Imp. de Henrich</dc:publisher>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1898</dc:date>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Use of this item is provided for non-commercial, personal, educational, and
+        research use only. For information about the copyright and reproduction rights for this item,
+        please contact Special Collections and Archives, Florida State University Libraries,
+        Tallahassee, Florida.</dc:rights>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">spa</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">264 p. ; 23 cm.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">print</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">por el conde de Galarza.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Polavieja, Camilo García de Polavieja y del Castillo , 1838-1914</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Cuba--Politics and government--1878-1895</dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Cuba</dc:coverage>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">1878-1895</dc:coverage>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(fedora) fsu:56858</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">(URL) http://purl.flvc.org/fsu/fd/FSUCaribBooks_00012</dc:identifier>
+</oai_dc:dc>
+</metadata></record>
+</repository>
