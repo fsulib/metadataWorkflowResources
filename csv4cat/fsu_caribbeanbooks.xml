@@ -16,8 +16,7 @@
         xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
         <dc:title 
           xmlns:dc="http://purl.org/dc/elements/1.1/" 
-          xmlns:srw_dc="info:srw/schema/1/dc-schema">
-          Census of the Virgin Islands of the United States, November 1, 1917</dc:title>
+          xmlns:srw_dc="info:srw/schema/1/dc-schema">Census of the Virgin Islands of the United States, November 1, 1917</dc:title>
         <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">(IID) FSUCaribBooks_00001</dc:identifier>
         <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">United States Bureau of the Census.</dc:creator>
         <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>

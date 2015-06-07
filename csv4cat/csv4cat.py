@@ -14,16 +14,16 @@ def writeCSV(fileName):
     for record in root.iterfind('.//{%s}dc' % NS['oai_dc'] ):
       data = []
       for identifier in record.iterfind('.//{%s}identifier' % NS['dc']):
-        data.append(identifier.text)
+        data.append('%s' % identifier.text)
       data.append(';')
       for title in record.iterfind('.//{%s}title' % NS['dc']):
-        data.append(title.text)
+        data.append('%s' % title.text)
       data.append(';')        
       for creator in record.iterfind('.//{%s}creator' % NS['dc']):
-        data.append(creator.text)
+        data.append('%s' % creator.text)
       data.append(';')      
       for date in record.iterfind('.//{%s}date' % NS['dc']):
-        data.append(date.text)
+        data.append('%s' % date.text)
       data.append(';')        
       writer.writerow(data)
 
