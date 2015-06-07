@@ -3,25 +3,24 @@ import csv
 import sys
 import os
 
-def getData(element, nameSpace):
-  for tag in root.iterfind('.//{%s}%s' % nameSpace, element):
-    data.append(tag.text)
-    return data
-
 def writeCSV(fileName):
   header = ['Identifiers', 'Title', 'Date', 'Creator']
-  NS = {'oai_dc': 'http://www.openarchives.org/OAI/2.0/oai_dc/', 'dc': 'http://purl.org/dc/elements/1.1'}
+  NS = {'oai_dc': 'http://www.openarchives.org/OAI/2.0/oai_dc/', 'dc': 'http://purl.org/dc/elements/1.1/'}
   with open(fileName + '.csv', 'w') as f:
     writer = csv.writer(f)
     writer.writerow(header)
     tree = ET.parse(fileName + '.xml')
     root = tree.getroot()
-    for record in root.iterfind('.//{%s}record' % NS['oai_dc'] ):
+    for record in root.iterfind('.//{%s}dc' % NS['oai_dc'] ):
       data = []
-      data.append(getData(identifier, NS['dc']))
-      data.append(getData(title, NS['dc']))
-      data.append(getData(date, NS['dc']))
-      data.append(getData(creator, NS['dc']))
+      for identifier in record.iterfind('.//{%s}identifier' % NS['dc']):
+        data.append(identifier.text)
+      for title in record.iterfind('.//{%s}title' % NS['dc']):
+        data.append(title.text)
+      for creator in record.iterfind('.//{%s}creator' % NS['dc']):
+        data.append(creator.text)
+      for date in record.iterfind('.//{%s}date' % NS['dc']):
+        data.append(date.text)        
       writer.writerow(data)
 
 name = os.path.splitext(sys.argv[1])[0]
