@@ -5,15 +5,15 @@
 	xmlns:flvc="info:flvc/manifest/v1"
 	xmlns:mods="http://www.loc.gov/mods/v3"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
-    exclude-result-prefixes="xsl"
+    exclude-result-prefixes="xsl mods"
     version="2.0">
     
     <xsl:output byte-order-mark="no" indent="yes" method="xml" name="xml"/>
     
     <xsl:template match="/">
         
-        <xsl:for-each select="//mods">
-            <xsl:variable name="filename" select="concat('MODS/',identifier[@type='IID'],'.xml')" />
+        <xsl:for-each select="//mods:mods">
+            <xsl:variable name="filename" select="concat('MODS/',mods:identifier[@type='IID'],'.xml')" />
             <xsl:value-of select="$filename" />
             <xsl:result-document href="{$filename}" format="xml">
                 <xsl:copy-of copy-namespaces="yes" select="." />
