@@ -7,7 +7,7 @@ def writeCSV(fileName):
   header = ['Identifiers;', 'Title;', 'Creator;', 'Date;']
   NS = {'oai_dc': 'http://www.openarchives.org/OAI/2.0/oai_dc/', 'dc': 'http://purl.org/dc/elements/1.1/'}
   with open(fileName + '.csv', 'w') as f:
-    writer = csv.writer(f)
+    writer = csv.writer(f, delimiter=' ')
     writer.writerow(header)
     tree = ET.parse(fileName + '.xml')
     root = tree.getroot()
