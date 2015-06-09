@@ -10,6 +10,8 @@ Plow and plowReport make use of two tools developed by Mark Phillips:
 
 Both are available at his [Github account](https://guthub.com/vphill).
 
+The utility xmlstarlet is also required.
+
 #### Sysnum
 Sysnum is a basic shell script that generates an Aleph-friendly string of system numbers for easy record export from the catalog.
 
