@@ -7,7 +7,7 @@ import re
 def writeCSV(fileName):
   purl = re.compile('((https?):((//)|(\\\\))+([\w\d:#@%/;$()~_?\+-=\\\.&](#!)?)*)')
   pid = re.compile('fsu:[0-9]*')
-  header = ['PURL;', 'PID;' 'Title;', 'Creator;', 'Date;', 'Notes;']
+  header = ['PURL;', 'PID;' 'Title;', 'Creator;', 'Date;', 'Notes;', 'Comments/Shares;']
   NS = {'oai_dc': 'http://www.openarchives.org/OAI/2.0/oai_dc/', 'dc': 'http://purl.org/dc/elements/1.1/'}
   with open(fileName + '.csv', 'w') as f:
     writer = csv.writer(f, delimiter=' ')
@@ -37,6 +37,7 @@ def writeCSV(fileName):
       data.append(';')
       for description in record.iterfind('.//{%s}description' % NS['dc']):
         data.append('%s' % description.text)
+      data.append(';')
       data.append(';')
       writer.writerow(data)
 
