@@ -3,11 +3,20 @@ import csv
 import sys
 import os
 
+def buildMODS(record):
+  root = etree.Element('mods')
+  for path, text in record.items():
+    print(path, text)
+  
+
 def readCSV(fileIn):
   with open(fileIn) as csvfile:
     source = csv.DictReader(csvfile, delimiter=';', quotechar='"')
     for row in source:
-      print('%s' % row['IID'])
+#      print('%s' % row['IID'])
+#      for key, value in row.items():
+      buildMODS(row)  
+
 
 name = sys.argv[1]
 readCSV(name)
