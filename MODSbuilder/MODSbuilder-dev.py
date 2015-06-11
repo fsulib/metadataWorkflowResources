@@ -12,9 +12,13 @@ def readCSV(fileIn):
 name = sys.argv[1]
 readCSV(name)
 
+#DICTIONARY METHODS
+#Dictionary.keys() --> gets list of keys
+#for key, value in Dictionary.items():
+#  print(key, value)   
+#----------------------> iterate over dict contents
 
-
-
+#BUILDING XML
 #root = etree.Element('root')
 #etree.SubElement(root, 'element').text = 'test text'
 #xmlString = etree.tostring(root, pretty_print=True)
