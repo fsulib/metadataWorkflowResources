@@ -3,6 +3,8 @@ import csv
 import sys
 import os
 
+NS = {'mods':'http://www.loc.gov/mods/v3', 'flvc':'info:flvc/manifest/v1'}
+
 def buildMODS(record):
   root = etree.Element('mods')
   for path, text in record.items():
