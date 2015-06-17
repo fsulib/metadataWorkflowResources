@@ -6,7 +6,7 @@ import os
 NS = {'mods':'http://www.loc.gov/mods/v3', 'flvc':'info:flvc/manifest/v1'}
 
 def buildMODS(record):
-  root = etree.Element('mods')
+  root = etree.Element('{%s}mods' % NS['mods'])
   for path, text in record.items():
 #    print(path, text)
     child = etree.SubElement(root, 'child')

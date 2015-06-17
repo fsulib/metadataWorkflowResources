@@ -1,38 +1,38 @@
-<mods>
-  <child>Creator</child>
-  <child>FSU</child>
-  <child>http://id.loc.gov/vocabulary/graphicMaterials/tgm002590||http://id.loc.gov/vocabulary/graphicMaterials/tgm005051</child>
-  <child>A handwritten letter from Dr. Raymond Bellamy sharing Christmas time news.</child>
-  <child>FSU_MSS2015013_007</child>
-  <child>http://id.loc.gov/authorities/names/no2010065520</child>
-  <child></child>
-  <child>Correspondence||Holidays</child>
-  <child>http://id.loc.gov/vocabulary/graphicMaterials/tgm012286</child>
-  <child>7013938</child>
-  <child></child>
-  <child>marcrelator</child>
-  <child>Raymond F. (Raymond Flavius)</child>
-  <child>text</child>
-  <child>eng</child>
-  <child>Heritage Protocol &amp; University Archives, Florida State University Libraries, Tallahassee, Florida.</child>
-  <child>gmgpc</child>
-  <child></child>
-  <child></child>
-  <child>FSU</child>
-  <child>English</child>
-  <child>1 page</child>
-  <child>reformatted digital</child>
-  <child>2015-05-07</child>
-  <child>cre</child>
-  <child>dateCreated</child>
-  <child>1932-01-02</child>
-  <child></child>
+<ns0:mods xmlns:ns0="http://www.loc.gov/mods/v3">
   <child>naf</child>
-  <child>Handwritten letter from Dr. Bellamy</child>
-  <child>personal</child>
-  <child>Bellamy</child>
-  <child>dacs</child>
-  <child></child>
-  <child>Manuscripts</child>
+  <child>http://id.loc.gov/vocabulary/graphicMaterials/tgm012286</child>
   <child>Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Heritage Protocol &amp; University Archives, Florida State University Libraries, Tallahassee, Florida.</child>
-</mods>
+  <child>eng</child>
+  <child>7013938</child>
+  <child>dateCreated</child>
+  <child>http://id.loc.gov/vocabulary/graphicMaterials/tgm002590||http://id.loc.gov/vocabulary/graphicMaterials/tgm005051</child>
+  <child>Correspondence||Holidays</child>
+  <child>reformatted digital</child>
+  <child></child>
+  <child>dacs</child>
+  <child>A handwritten letter from Dr. Raymond Bellamy sharing Christmas time news.</child>
+  <child>Handwritten letter from Dr. Bellamy</child>
+  <child></child>
+  <child>http://id.loc.gov/authorities/names/no2010065520</child>
+  <child>personal</child>
+  <child>Heritage Protocol &amp; University Archives, Florida State University Libraries, Tallahassee, Florida.</child>
+  <child>text</child>
+  <child>cre</child>
+  <child>Raymond F. (Raymond Flavius)</child>
+  <child>marcrelator</child>
+  <child>1 page</child>
+  <child>English</child>
+  <child>gmgpc</child>
+  <child>Creator</child>
+  <child>2015-05-07</child>
+  <child>Bellamy</child>
+  <child>FSU</child>
+  <child>Manuscripts</child>
+  <child></child>
+  <child>FSU</child>
+  <child>FSU_MSS2015013_007</child>
+  <child></child>
+  <child></child>
+  <child></child>
+  <child>1932-01-02</child>
+</ns0:mods>

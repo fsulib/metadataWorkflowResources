@@ -1,38 +1,38 @@
-<mods>
-  <child>Addressee||Creator</child>
-  <child>FSU</child>
-  <child>http://id.loc.gov/vocabulary/graphicMaterials/tgm002590||http://id.loc.gov/vocabulary/graphicMaterials/tgm011227||http://id.loc.gov/vocabulary/graphicMaterials/tgm008759</child>
-  <child>A letter from Dr. Raymond Bellamy to Margaret Ansley Cavanaugh discussing Florida State College for Women and Tallahassee social life.</child>
-  <child>FSU_MSS2015013_002</child>
-  <child>null||http://id.loc.gov/authorities/names/no2010065520</child>
-  <child>http://id.loc.gov/authorities/names/no92001851</child>
-  <child>Correspondence||Universities &amp; colleges||Relations between the sexes</child>
-  <child>http://id.loc.gov/vocabulary/graphicMaterials/tgm012242</child>
-  <child>7013938</child>
-  <child></child>
-  <child>marcrelator||marcrelator</child>
-  <child>Margaret Ansley||Raymond F. (Raymond Flavius)</child>
-  <child>text</child>
-  <child>eng</child>
-  <child>Heritage Protocol &amp; University Archives, Florida State University Libraries, Tallahassee, Florida.</child>
-  <child>gmgpc</child>
-  <child></child>
-  <child></child>
-  <child>FSU</child>
-  <child>English</child>
-  <child>2 pages</child>
-  <child>reformatted digital</child>
-  <child>2015-05-06</child>
-  <child>rcp||cre</child>
-  <child>dateCreated</child>
-  <child>1928-07-22</child>
-  <child>Florida State College for Women</child>
+<ns0:mods xmlns:ns0="http://www.loc.gov/mods/v3">
   <child>null||naf</child>
-  <child>Letter to Margaret Ansley Cavanaugh</child>
-  <child>personal||personal</child>
-  <child>Cavanaugh||Bellamy</child>
-  <child>dacs</child>
-  <child></child>
-  <child>Typescripts</child>
+  <child>http://id.loc.gov/vocabulary/graphicMaterials/tgm012242</child>
   <child>Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Heritage Protocol &amp; University Archives, Florida State University Libraries, Tallahassee, Florida.</child>
-</mods>
+  <child>eng</child>
+  <child>7013938</child>
+  <child>dateCreated</child>
+  <child>http://id.loc.gov/vocabulary/graphicMaterials/tgm002590||http://id.loc.gov/vocabulary/graphicMaterials/tgm011227||http://id.loc.gov/vocabulary/graphicMaterials/tgm008759</child>
+  <child>Correspondence||Universities &amp; colleges||Relations between the sexes</child>
+  <child>reformatted digital</child>
+  <child>Florida State College for Women</child>
+  <child>dacs</child>
+  <child>A letter from Dr. Raymond Bellamy to Margaret Ansley Cavanaugh discussing Florida State College for Women and Tallahassee social life.</child>
+  <child>Letter to Margaret Ansley Cavanaugh</child>
+  <child></child>
+  <child>null||http://id.loc.gov/authorities/names/no2010065520</child>
+  <child>personal||personal</child>
+  <child>Heritage Protocol &amp; University Archives, Florida State University Libraries, Tallahassee, Florida.</child>
+  <child>text</child>
+  <child>rcp||cre</child>
+  <child>Margaret Ansley||Raymond F. (Raymond Flavius)</child>
+  <child>marcrelator||marcrelator</child>
+  <child>2 pages</child>
+  <child>English</child>
+  <child>gmgpc</child>
+  <child>Addressee||Creator</child>
+  <child>2015-05-06</child>
+  <child>Cavanaugh||Bellamy</child>
+  <child>FSU</child>
+  <child>Typescripts</child>
+  <child></child>
+  <child>FSU</child>
+  <child>FSU_MSS2015013_002</child>
+  <child></child>
+  <child></child>
+  <child>http://id.loc.gov/authorities/names/no92001851</child>
+  <child>1928-07-22</child>
+</ns0:mods>

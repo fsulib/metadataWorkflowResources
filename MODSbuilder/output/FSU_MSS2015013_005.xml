@@ -1,38 +1,38 @@
-<mods>
-  <child>Addressee||Creator</child>
-  <child>FSU</child>
-  <child>http://id.loc.gov/vocabulary/graphicMaterials/tgm002590||http://id.loc.gov/vocabulary/graphicMaterials/tgm005469||http://id.loc.gov/vocabulary/graphicMaterials/tgm003458||http://id.loc.gov/vocabulary/graphicMaterials/tgm003004||http://id.loc.gov/vocabulary/graphicMaterials/tgm001472</child>
-  <child>A letter to Dr. Raymond Bellamy discussing Russia, world politics, the lumber industry, and the Great Depression.</child>
-  <child>FSU_MSS2015013_005</child>
-  <child>http://id.loc.gov/authorities/names/no2010065520||null</child>
-  <child></child>
-  <child>Correspondence||International organization||Economic &amp; political systems||Depressions||Business enterprises</child>
-  <child>http://id.loc.gov/vocabulary/graphicMaterials/tgm012242</child>
-  <child>7013938</child>
-  <child>1931-07-02</child>
-  <child>marcrelator||marcrelator</child>
-  <child>Raymond F. (Raymond Flavius)||Bradford Dunham</child>
-  <child>text</child>
-  <child>eng</child>
-  <child>Heritage Protocol &amp; University Archives, Florida State University Libraries, Tallahassee, Florida.</child>
-  <child>gmgpc</child>
-  <child>1931-09-25</child>
-  <child></child>
-  <child>FSU</child>
-  <child>English</child>
-  <child>7 pages</child>
-  <child>reformatted digital</child>
-  <child>2015-05-07</child>
-  <child>rcp||cre</child>
-  <child>dateIssued</child>
-  <child></child>
-  <child></child>
+<ns0:mods xmlns:ns0="http://www.loc.gov/mods/v3">
   <child>naf||null</child>
-  <child>Letter to Dr. Bellamy</child>
-  <child>personal||personal</child>
-  <child>Bellamy||Ansley</child>
-  <child>dacs</child>
-  <child></child>
-  <child>Typescripts</child>
+  <child>http://id.loc.gov/vocabulary/graphicMaterials/tgm012242</child>
   <child>Use of this item is provided for non-commercial, personal, educational, and research use only. For information about the copyright and reproduction rights for this item, please contact Heritage Protocol &amp; University Archives, Florida State University Libraries, Tallahassee, Florida.</child>
-</mods>
+  <child>eng</child>
+  <child>7013938</child>
+  <child>dateIssued</child>
+  <child>http://id.loc.gov/vocabulary/graphicMaterials/tgm002590||http://id.loc.gov/vocabulary/graphicMaterials/tgm005469||http://id.loc.gov/vocabulary/graphicMaterials/tgm003458||http://id.loc.gov/vocabulary/graphicMaterials/tgm003004||http://id.loc.gov/vocabulary/graphicMaterials/tgm001472</child>
+  <child>Correspondence||International organization||Economic &amp; political systems||Depressions||Business enterprises</child>
+  <child>reformatted digital</child>
+  <child></child>
+  <child>dacs</child>
+  <child>A letter to Dr. Raymond Bellamy discussing Russia, world politics, the lumber industry, and the Great Depression.</child>
+  <child>Letter to Dr. Bellamy</child>
+  <child></child>
+  <child>http://id.loc.gov/authorities/names/no2010065520||null</child>
+  <child>personal||personal</child>
+  <child>Heritage Protocol &amp; University Archives, Florida State University Libraries, Tallahassee, Florida.</child>
+  <child>text</child>
+  <child>rcp||cre</child>
+  <child>Raymond F. (Raymond Flavius)||Bradford Dunham</child>
+  <child>marcrelator||marcrelator</child>
+  <child>7 pages</child>
+  <child>English</child>
+  <child>gmgpc</child>
+  <child>Addressee||Creator</child>
+  <child>2015-05-07</child>
+  <child>Bellamy||Ansley</child>
+  <child>FSU</child>
+  <child>Typescripts</child>
+  <child></child>
+  <child>FSU</child>
+  <child>FSU_MSS2015013_005</child>
+  <child>1931-09-25</child>
+  <child>1931-07-02</child>
+  <child></child>
+  <child></child>
+</ns0:mods>
