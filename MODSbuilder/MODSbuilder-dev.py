@@ -8,8 +8,13 @@ NS = {'mods':'http://www.loc.gov/mods/v3', 'flvc':'info:flvc/manifest/v1'}
 def buildMODS(record):
   root = etree.Element('mods')
   for path, text in record.items():
-    print(path, text)
-  
+#    print(path, text)
+    child = etree.SubElement(root, 'child')
+    child.text = text
+  xmlString = etree.tostring(root, pretty_print=True)
+  f = open('output/%s.xml' % record['IID'], 'w')
+  f.write(xmlString.decode('utf-8'))
+  f.close()
 
 def readCSV(fileIn):
   with open(fileIn) as csvfile:

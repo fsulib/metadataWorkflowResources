@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:flvc="info:flvc/manifest/v1"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+      <extension>
+         <flvc:flvc>
+            <flvc:owningInstitution>FSU</flvc:owningInstitution>
+            <flvc:submittingInstitution>FSU</flvc:submittingInstitution>
+         </flvc:flvc>
+      </extension>
+      <accessCondition type="useAndReproduction">Use of this item is provided for non-commercial, personal, educational, and
+                research use only. For information about the copyright and reproduction rights for this
+                item, please contact Special Collections and Archives, Florida State University
+                Libraries, Tallahassee, Florida.</accessCondition>
+      <titleInfo>
+         <nonSort>A </nonSort>
+         <title>tribute to Lewis Carroll in his sesqui-centennial year</title>
+         <subTitle>being an inventory of an exhibit in the Florida State University Library and of the Lewis-Carroll holdings in the John Mackay Shaw Poetry Collection</subTitle>
+      </titleInfo>
+      <titleInfo type="alternative">
+         <title>The John Mckay Shaw Poetry Collection</title>
+      </titleInfo>
+      <name type="corporate">
+         <namePart>Robert Manning Strozier Library</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Korn, Frederick</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Shaw, John MacKay</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>Florida State University</namePart>
+         <namePart>Library</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>John MacKay Shaw Collection (Florida State University)</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>Robert Manning Strozier Library</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">bibliography</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">flu</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Tallahassee, Fla.</placeTerm>
+         </place>
+         <publisher>The Library</publisher>
+         <dateIssued encoding="marc">1982</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <digitalOrigin>reformatted digital</digitalOrigin>
+         <form authority="marcform">print</form>
+         <extent>v, 24 leaves ; 28 cm.</extent>
+      </physicalDescription>
+      <note type="statement of responsibility">The Florida State University, Robert Manning Strozier Library.</note>
+      <note>Cover title.</note>
+      <note>Introduction by John Mackay Shaw; preface by Frederick Korn.</note>
+      <note>Exhibition prepared by the Curator of the Collection, Dr. Frederick Korn.</note>
+      <note>Cover title; facsim. of C.L. Dodgson autograph on cover.</note>
+      <subject authority="lcsh">
+         <name type="personal">
+            <namePart>Carroll, Lewis</namePart>
+            <namePart type="date">1832-1898</namePart>
+         </name>
+         <topic>Anniversaries, etc</topic>
+      </subject>
+      <subject authority="lcsh">
+         <name type="personal">
+            <namePart>Carroll, Lewis</namePart>
+            <namePart type="date">1832-1898</namePart>
+         </name>
+         <topic>Exhibitions</topic>
+         <topic>Catalogs</topic>
+      </subject>
+      <subject authority="lcsh">
+         <name type="personal">
+            <namePart>Carroll, Lewis</namePart>
+            <namePart type="date">1832-1898</namePart>
+         </name>
+         <topic>Bibliography</topic>
+      </subject>
+      <subject authority="lcsh">
+         <name type="personal">
+            <namePart>Carroll, Lewis</namePart>
+            <namePart type="date">1832-1898</namePart>
+         </name>
+         <genre>Bibliography</genre>
+         <genre>Catalogs</genre>
+      </subject>
+      <identifier type="oclc">08812502</identifier>
+      <identifier type="IID">fsu_PR4612R6</identifier>
+      <recordInfo>
+         <descriptionStandard>aacr</descriptionStandard>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using
+                    xslAlephtoMODS.xsl by FSU University Libraries</recordOrigin>
+      </recordInfo>
+   </mods>
