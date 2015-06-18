@@ -1,0 +1,46 @@
+mods[@xmlns='' and @xsi:schemaLocation='']
+mods/abstract[@displayLabel='']
+mods/accessCondition[@type='']
+mods/extension
+mods/extension/flvc:flvc
+mods/extension/flvc:flvc/flvc:owningInstitution
+mods/extension/flvc:flvc/flvc:submittingInstitution
+mods/genre[@valueURI='' and @authority='' and @authorityURI='']
+mods/identifier[@type='']
+mods/language
+mods/language/languageTerm[@type='' and @authority='']
+mods/location
+mods/location/physicalLocation
+mods/name[@type='' and @authority='' and @valueURI='' and @authorityURI='']
+mods/name/namePart[@type='']
+mods/name/role
+mods/name/role/roleTerm[@type='' and @authority='' and @authorityURI='']
+mods/note[@type='']
+mods/originInfo
+mods/originInfo/dateCreated
+mods/originInfo/dateIssued[@encoding='' and @point='']
+mods/originInfo/issuance
+mods/originInfo/place
+mods/originInfo/place/placeTerm[@type='' and @authority='']
+mods/originInfo/publisher
+mods/physicalDescription
+mods/physicalDescription/digitalOrigin
+mods/physicalDescription/extent
+mods/physicalDescription/form[@authority='']
+mods/recordInfo
+mods/recordInfo/descriptionStandard
+mods/recordInfo/recordCreationDate
+mods/recordInfo/recordOrigin
+mods/subject[@authority='' and @authorityURI='']
+mods/subject/genre
+mods/subject/geographicCode
+mods/subject/name[@type='']
+mods/subject/name/namePart[@type='']
+mods/subject/name[@valueURI='http://id.loc.gov/authorities/names/no92001851']
+mods/subject/topic[@valueURI='']
+mods/titleInfo[@type='']
+mods/titleInfo/nonSort
+mods/titleInfo/subTitle
+mods/titleInfo/title
+mods/titleInfo[@type='alternative']
+mods/typeOfResource
