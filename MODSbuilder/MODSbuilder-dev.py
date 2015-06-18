@@ -3,13 +3,17 @@ import csv
 import sys
 import os
 
-NS = {'mods':'http://www.loc.gov/mods/v3', 'flvc':'info:flvc/manifest/v1'}
+NS = {None:'http://www.loc.gov/mods/v3', 'flvc':'info:flvc/manifest/v1'}
 
-def buildMODS(record):
-  root = etree.Element('{%s}mods' % NS['mods'])
-  for path, text in record.items():
+#def makeMODS(tag, text):
+  
+
+def buildRecord(record):
+  root = etree.Element('mods', nsmap=None, xsi:SchemaLocation='http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd', version='3.4' )
+  for tag, text in record.items():
+#    tag = 
 #    print(path, text)
-    child = etree.SubElement(root, 'child')
+    child = etree.SubElement(root, tag)
     child.text = text
   xmlString = etree.tostring(root, pretty_print=True)
   f = open('output/%s.xml' % record['IID'], 'w')
@@ -22,7 +26,7 @@ def readCSV(fileIn):
     for row in source:
 #      print('%s' % row['IID'])
 #      for key, value in row.items():
-      buildMODS(row)  
+      buildRecord(row)  
 
 
 name = sys.argv[1]

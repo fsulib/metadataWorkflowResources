@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3"
+<!-- <mods xmlns="http://www.loc.gov/mods/v3"
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns:mods="http://www.loc.gov/mods/v3"
       xmlns:flvc="info:flvc/manifest/v1"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
-      <extension>
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"> -->
+<mods>      
+      <!-- <extension>
          <flvc:flvc>
             <flvc:owningInstitution>FSU</flvc:owningInstitution>
             <flvc:submittingInstitution>FSU</flvc:submittingInstitution>
          </flvc:flvc>
-      </extension>
+      </extension> -->
       <accessCondition type="useAndReproduction">Use of this item is provided for non-commercial, personal, educational, and
                 research use only. For information about the copyright and reproduction rights for this
                 item, please contact Special Collections and Archives, Florida State University
