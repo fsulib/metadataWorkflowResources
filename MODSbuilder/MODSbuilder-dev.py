@@ -9,6 +9,12 @@ flvcNS = 'info:flvc/manifest/v1'
 NSmap = {None: modsNS, 'flvc': flvcNS}
 
 def makeMODS(tag, mods, text = None):
+#  if parents[tag] is None:
+#    makeMODS(parents[tag], mods)
+#  elem = etree.SubElement(parents[tag], tag)
+#  if text:
+#    elem.text = text
+    
   elem = etree.Element(tag)
   if text:
     elem.text = text
@@ -16,7 +22,7 @@ def makeMODS(tag, mods, text = None):
     host = makeMODS(parents[elem.tag], mods)
     host.append(elem)
   else:
-    mods.append(elem)  
+    mods.append(elem)
     
 def buildRecord(record):
   mods = etree.Element('mods', nsmap = NSmap)
