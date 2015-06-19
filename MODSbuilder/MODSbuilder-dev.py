@@ -9,20 +9,30 @@ flvcNS = 'info:flvc/manifest/v1'
 NSmap = {None: modsNS, 'flvc': flvcNS}
 
 def makeMODS(tag, mods, text = None):
+
+
+# brute force record construction
+#    if tag == 'identifier':
+#      identifier = etree.Element(tag)
+#      identifier.text = text
+#      mods.append(identifier)
+#
+# recursive construction as subelements    
 #  if parents[tag] is None:
 #    makeMODS(parents[tag], mods)
 #  elem = etree.SubElement(parents[tag], tag)
 #  if text:
 #    elem.text = text
-    
-  elem = etree.Element(tag)
-  if text:
-    elem.text = text
-  if parents[elem.tag] is None:
-    host = makeMODS(parents[elem.tag], mods)
-    host.append(elem)
-  else:
-    mods.append(elem)
+#
+# recursive construction as appended elements
+#  elem = etree.Element(tag)
+#  host = parents[elem.tag]
+#  if text:
+#    elem.text = text
+#  if etree.iselement(host) is True:
+#    
+#  else:
+#    mods.append(elem)
     
 def buildRecord(record):
   mods = etree.Element('mods', nsmap = NSmap)
