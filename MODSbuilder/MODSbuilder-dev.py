@@ -8,12 +8,12 @@ modsNS = 'http://www.loc.gov/mods/v3'
 flvcNS = 'info:flvc/manifest/v1'
 NSmap = {None: modsNS, 'flvc': flvcNS}
 
-def makeMODS(tag, text = None, mods = None):
+def makeMODS(tag, mods, text = None):
   elem = etree.Element(tag)
   if text:
     elem.text = text
   if parents[elem.tag] is None:
-    host = makeMODS(parents[elem.tag])
+    host = makeMODS(parents[elem.tag], mods)
     host.append(elem)
   else:
     mods.append(elem)  
@@ -21,7 +21,7 @@ def makeMODS(tag, text = None, mods = None):
 def buildRecord(record):
   mods = etree.Element('mods', nsmap = NSmap)
   for tag, text in record.items():
-    makeMODS(tag, text, mods)
+    makeMODS(tag, mods, text)
   xmlString = etree.tostring(mods, pretty_print=True)
   f = open('output/%s.xml' % record['identifier'], 'w')
   f.write(xmlString.decode('utf-8'))
