@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>    
+<?xml version="1.0" encoding="UTF-8"?> r   
 <xsl:stylesheet xmlns="http://www.loc.gov/mods/v3" 
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
@@ -302,7 +302,7 @@
             <accessCondition type='useAndReproduction'>Use of this item is provided for non-commercial, personal, educational, and
                 research use only. For information about the copyright and reproduction rights for this
                 item, please contact Special Collections and Archives, Florida State University
-                Libraries, Tallahassee, Florida.</accessCondition>
+                Libraries, Tallahassee, Florida: https://www.lib.fsu.edu/department/special-collections-archives.</accessCondition>
             <!--
             <xsl:if test="/marc:record">
                 <xsl:namespace name="">http://www.loc.gov/mods/v3</xsl:namespace>
