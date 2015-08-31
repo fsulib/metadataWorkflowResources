@@ -37,6 +37,7 @@
      <!-- Adding default access condition -->
      <!-- Commented out some recordInfo elements -->
 	  <!-- Commented out call to digitalOrigin template. Replaced with standard digitalOrigin/digitized other analog  mrm 2015-02-03 -->
+    <!-- Record Creation date pulls current date from XPath2.0 -->
 
     <!-- 
 		Maintenance note: For each revision, change the content of <recordInfo><recordOrigin> to reflect the new revision number.
@@ -446,9 +447,9 @@
                 select="marc:datafield[@tag='600'] | marc:datafield[@tag='880'][starts-with(marc:subfield[@code='6'],'600')]      | marc:datafield[@tag='610'] | marc:datafield[@tag='880'][starts-with(marc:subfield[@code='6'],'610')]      | marc:datafield[@tag='611'] | marc:datafield[@tag='880'][starts-with(marc:subfield[@code='6'],'611')]     | marc:datafield[@tag='630'] | marc:datafield[@tag='880'][starts-with(marc:subfield[@code='6'],'630')]     | marc:datafield[@tag='648'] | marc:datafield[@tag='880'][starts-with(marc:subfield[@code='6'],'648')]     | marc:datafield[@tag='650'] | marc:datafield[@tag='880'][starts-with(marc:subfield[@code='6'],'650')]     | marc:datafield[@tag='651'] | marc:datafield[@tag='880'][starts-with(marc:subfield[@code='6'],'651')]     | marc:datafield[@tag='653'] | marc:datafield[@tag='880'][starts-with(marc:subfield[@code='6'],'653')]     | marc:datafield[@tag='656'] | marc:datafield[@tag='880'][starts-with(marc:subfield[@code='6'],'656')]     | marc:datafield[@tag='662'] | marc:datafield[@tag='880'][starts-with(marc:subfield[@code='6'],'662')]     | marc:datafield[@tag='752'] | marc:datafield[@tag='880'][starts-with(marc:subfield[@code='6'],'752')]"
                 mode="subject"/>
             <!-- Call classification templates 0XX-->
-            <!-- <xsl:apply-templates
+            <xsl:apply-templates
                 select="marc:datafield[@tag='050'] | marc:datafield[@tag='880'][starts-with(marc:subfield[@code='6'],'050')]"
-                mode="classification"/> -->
+                mode="classification"/>
             <xsl:apply-templates
                 select="marc:datafield[@tag='060'] | marc:datafield[@tag='880'][starts-with(marc:subfield[@code='6'],'060')]"
                 mode="classification"/>
@@ -537,6 +538,9 @@
                         <xsl:value-of select="marc:subfield[@code='a']"/>
                     </recordContentSource>      -->
                 </xsl:for-each>
+              <recordCreationDate>
+                <xsl:value-of select="current-date()"/>
+              </recordCreationDate>
            <!-- <xsl:for-each select="marc:controlfield[@tag='008']">
                     <recordCreationDate encoding="marc">
                         <xsl:value-of select="substring(.,1,6)"/>
