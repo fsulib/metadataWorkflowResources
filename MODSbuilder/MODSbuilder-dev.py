@@ -9,8 +9,32 @@ flvcNS = 'info:flvc/manifest/v1'
 NSmap = {None: modsNS, 'flvc': flvcNS}
 
 def makeMODS(tag, mods, text = None):
-
-
+  tag = tag.split('/')
+  if tag[0] == 'identifier' & etree.iselement(identifier) is False:
+    identifier = etree.SubElement(mods, tag[0])
+    identifier.text = text
+  elif tag[1] == 'descriptionStandard' & etree.iselement(recordInfo) is False:
+    recordInfo = etree.SubElement(mods, 'recordInfo')
+    descriptionStandard = etree.SubElement(recordInfo, 'descriptionStandard')
+    descriptionStandard.text = text
+  elif tag[1] == 'descriptionStandard' & etree.iselement(recordInfo) is True:
+    descriptionStandard = etree.SubElement(recordInfo, 'descriptionStandard')
+    descriptionStandard.text = text
+  elif tag[1] == 'recordCreationDate' & etree.iselement(recordInfo) is False:
+    recordInfo = etree.SubElement(mods, 'recordInfo')
+    recordCreationDate = etree.SubElement(mods, 'recordCreationDate')
+    recordCreationDate.text = text
+  elif tag[1] == 'recordCreationDare' & etree.iselement(recordInfo) is True:
+    recordCreationDate = etree.SubElement(mods, 'recordCreationDate')
+    recordCreationDate.text = text
+#  if tag == 'identifier':
+#    identifier.text = text
+#  elif tag == 'descriptionStandard':
+#    descriptionStandard = etree.SubElement(recordInfo, 'descriptionStandard')
+#    descriptionStandard.text = text
+#  elif tag == 'recordCreationDate':
+#    recordCreationDate = etree.SubElement(recordInfo, 'recordCreationDate')
+#    recordCreationDate.text = text
 # brute force record construction
 #    if tag == 'identifier':
 #      identifier = etree.Element(tag)
