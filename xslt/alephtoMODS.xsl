@@ -300,7 +300,7 @@
                     <flvc:submittingInstitution>FSU</flvc:submittingInstitution>
                 </flvc:flvc>
             </extension>
-            <accessCondition type='useAndReproduction'>Use of this item is provided for non-commercial, personal, educational, and
+            <accessCondition type='use and reproduction'>Use of this item is provided for non-commercial, personal, educational, and
                 research use only. For information about the copyright and reproduction rights for this
                 item, please contact Special Collections and Archives, Florida State University
                 Libraries, Tallahassee, Florida: https://www.lib.fsu.edu/department/special-collections-archives.</accessCondition>
