@@ -562,7 +562,7 @@
                     </recordIdentifier>
                 </xsl:for-each> -->
                 <recordOrigin>Converted from MARCXML to MODS version 3.4 using
-                    xslAlephtoMODS.xsl by FSU University Libraries</recordOrigin>
+                    alephtoMODS.xsl by FSU University Libraries</recordOrigin>
                 <xsl:for-each select="marc:datafield[@tag='040']/marc:subfield[@code='b']">
                     <languageOfCataloging>
                         <languageTerm authority="iso639-2b" type="code">
