@@ -7,35 +7,72 @@ import re
 def aleph(fileName):
   purl = re.compile('((https?):((//)|(\\\\))+([\w\d:#@%/;$()~_?\+-=\\\.&](#!)?)*)')
   pid = re.compile('fsu:[0-9]*')
-  header = ['PURL;', 'PID;' 'Title;', 'Creator;', 'Date;', 'Notes;', 'Comments/Shares;']
-  NS = {'oai_dc': 'http://www.openarchives.org/OAI/2.0/oai_dc/', 'dc': 'http://purl.org/dc/elements/1.1/'}
+  header = ['PURL', 'PID' 'Title', 'Creator', 'Date', 'Notes', 'Comments/Shares']
+  NS = {'oai_dc': 'http://www.openarchives.org/OAI/2.0/oai_dc/', 'dc': 'http://purl.org/dc/elements/1.1/', 'mods': 'http://www.loc.gov/mods/v3', 'dcterms': 'http://purl.org/dc/terms'}
+  with open(fileName + '.csv', 'w') as f:
+    writer = csv.writer(f, delimiter=',')
+    writer.writerow(header)
+    tree = ET.parse(fileName + '.xml')
+    root = tree.getroot()
+    for record in root.iterfind('.//{%s}mods' % NS['mods'] ):
+      data = []
+      for url in record.iterfind('.//{%s}url' % NS['mods']):
+        m = purl.search(identifier.text)
+        if m:
+          data.append(m.group())
+#          data.append(';')
+      for identifier in record.iterfind('.//{%s}identifier' % NS['mods']):
+        m = pid.search(identifier.text)
+        if m:
+          data.append(m.group())
+#          data.append(';')
+      for title in record.iterfind('.//{%s}titleInfo' % NS['mods']):
+        data.append('%s' % title.text)
+#       data.append(';')        
+      for creator in record.iterfind('.//{%s}name' % NS['mods']):
+        data.append('%s' % creator.text)
+#      data.append(';')      
+      for date in record.iterfind('.//{%s}date' % NS['mods']):
+        data.append('%s' % date.text)
+#      data.append(';')
+      for description in record.iterfind('.//{%s}abstract' % NS['mods']):
+        data.append('%s' % description.text)
+#      data.append(';')
+#      data.append(';')
+      writer.writerow(data)
+
+def archon(filename):      
+  purl = re.compile('((https?):((//)|(\\\\))+([\w\d:#@%/;$()~_?\+-=\\\.&](#!)?)*)')
+  pid = re.compile('fsu:[0-9]*')
+  header = ['collID;', 'series;' 'subseries;', 'box;', 'folder;', 'title;', 'date;', 'description;', 'PURL;']
+  NS = {'oai_dc': 'http://www.openarchives.org/OAI/2.0/oai_dc/', 'dc': 'http://purl.org/dc/elements/1.1/', 'mods': 'http://www.loc.gov/mods/v3', 'dcterms': 'http://purl.org/dc/terms'}
   with open(fileName + '.csv', 'w') as f:
     writer = csv.writer(f, delimiter=' ')
     writer.writerow(header)
     tree = ET.parse(fileName + '.xml')
     root = tree.getroot()
-    for record in root.iterfind('.//{%s}dc' % NS['oai_dc'] ):
+    for record in root.iterfind('.//{%s}mods' % NS['mods'] ):
       data = []
-      for identifier in record.iterfind('.//{%s}identifier' % NS['dc']):
+      for identifier in record.iterfind('.//{%s}identifier' % NS['mods']):
         m = purl.search(identifier.text)
         if m:
           data.append(m.group())
           data.append(';')
-      for identifier in record.iterfind('.//{%s}identifier' % NS['dc']):
+      for identifier in record.iterfind('.//{%s}identifier' % NS['mods']):
         m = pid.search(identifier.text)
         if m:
           data.append(m.group())
           data.append(';')
-      for title in record.iterfind('.//{%s}title' % NS['dc']):
+      for title in record.iterfind('.//{%s}titleInfo' % NS['mods']):
         data.append('%s' % title.text)
       data.append(';')        
-      for creator in record.iterfind('.//{%s}creator' % NS['dc']):
+      for creator in record.iterfind('.//{%s}name' % NS['mods']):
         data.append('%s' % creator.text)
       data.append(';')      
-      for date in record.iterfind('.//{%s}date' % NS['dc']):
+      for date in record.iterfind('.//{%s}date' % NS['mods']):
         data.append('%s' % date.text)
       data.append(';')
-      for description in record.iterfind('.//{%s}description' % NS['dc']):
+      for description in record.iterfind('.//{%s}abstract' % NS['mods']):
         data.append('%s' % description.text)
       data.append(';')
       data.append(';')
