@@ -4,7 +4,7 @@ import sys
 import os
 import re
 
-def writeCSV(fileName):
+def aleph(fileName):
   purl = re.compile('((https?):((//)|(\\\\))+([\w\d:#@%/;$()~_?\+-=\\\.&](#!)?)*)')
   pid = re.compile('fsu:[0-9]*')
   header = ['PURL;', 'PID;' 'Title;', 'Creator;', 'Date;', 'Notes;', 'Comments/Shares;']
@@ -41,6 +41,6 @@ def writeCSV(fileName):
       data.append(';')
       writer.writerow(data)
 
-name = os.path.splitext(sys.argv[1])[0]
-writeCSV(name)
-print('Spreadsheet created.')
+#name = os.path.splitext(sys.argv[1])[0]
+#writeCSV(name)
+#print('Spreadsheet created.')
