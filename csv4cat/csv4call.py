@@ -16,18 +16,26 @@ def aleph(fileName):
     root = tree.getroot()
     for record in root.iterfind('.//{%s}mods' % NS['mods'] ):
       data = []
-      for url in record.iterfind('.//{%s}url' % NS['mods']):
+      for url in record.iterfind('./{%s}location/{%s}url' % NS['mods']):
         m = purl.search(identifier.text)
         if m:
           data.append(m.group())
+        else:
+          data.append('null')
 #          data.append(';')
       for identifier in record.iterfind('.//{%s}identifier' % NS['mods']):
         m = pid.search(identifier.text)
         if m:
           data.append(m.group())
+#        else:
+#          data.append('null')
 #          data.append(';')
       for title in record.iterfind('.//{%s}titleInfo' % NS['mods']):
-        data.append('%s' % title.text)
+        if title.find('./{%s}nonSort' % NS['mods']):
+          title-full = title.find('./{%s}nonSort' % NS['mods']).text + ' ' + title.find('./{%s}title' % NS['mods']).text
+          if title.find('./{%s}subTitle' % NS['mods']):
+            title-full = title-full + ': ' + title.find('./{%s}subTitle' % NS['mods']).text
+        data.append('%s' % title-full)
 #       data.append(';')        
       for creator in record.iterfind('.//{%s}name' % NS['mods']):
         data.append('%s' % creator.text)
