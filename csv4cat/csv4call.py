@@ -49,25 +49,27 @@ def aleph(fileName):
 #      data.append(';')
       writer.writerow(data)
 
-def archon(filename):      
+def archon(filename):
+  series = input("Enter a number for the digital series: ")
+  collNum = input("Enter a collection ID number: ")
   purl = re.compile('((https?):((//)|(\\\\))+([\w\d:#@%/;$()~_?\+-=\\\.&](#!)?)*)')
-  pid = re.compile('fsu:[0-9]*')
-  header = ['collID;', 'series;' 'subseries;', 'box;', 'folder;', 'title;', 'date;', 'description;', 'PURL;']
   NS = {'oai_dc': 'http://www.openarchives.org/OAI/2.0/oai_dc/', 'dc': 'http://purl.org/dc/elements/1.1/', 'mods': 'http://www.loc.gov/mods/v3', 'dcterms': 'http://purl.org/dc/terms'}
   with open(fileName + '.csv', 'w') as f:
     writer = csv.writer(f, delimiter=',')
-    writer.writerow(header)
+    data = [collNum, str(series), "", "", "", "", 'Items available online', "", "Copy the link into your browser. Items hosted in Digital Collections at DigiNole."]
+    writer.writerow(data)
     tree = ET.parse(fileName + '.xml')
     root = tree.getroot()
 # fields to pull: collection ID, Series #, Subseries #, Box #, Folder #, Item #, Title, Date, Description (i.e. PURL)
 # first row should be new digital series
     for record in root.iterfind('.//{%s}mods' % NS['mods'] ):
-      data = []
+      n = 1
+      data = [collNum, str(series), "", "", "", str(n)]
       for identifier in record.iterfind('.//{%s}identifier' % NS['mods']):
         m = purl.search(identifier.text)
         if m:
           data.append(m.group())
-      for identifier in record.iterfind('.//{%s}identifier' % NS['mods']):
+      for title in record.iterfind('.//{%s}title' % NS['mods']):
         m = pid.search(identifier.text)
         if m:
           data.append(m.group())
@@ -80,6 +82,7 @@ def archon(filename):
       for description in record.iterfind('.//{%s}abstract' % NS['mods']):
         data.append('%s' % description.text)
       writer.writerow(data)
+      n++
 
 #name = os.path.splitext(sys.argv[1])[0]
 #writeCSV(name)
