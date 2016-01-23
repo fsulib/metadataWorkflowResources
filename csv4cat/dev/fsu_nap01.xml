@@ -3,6 +3,8 @@
 <mods:mods version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:flvc="info:flvc/manifest/v1" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
   <mods:titleInfo>
     <mods:title>Letter from the Army of the French Republic regarding General Macdonald</mods:title>
+    <mods:subTitle>Pining for the Fyords</mods:subTitle>
+    <mods:nonSort>A</mods:nonSort>
   </mods:titleInfo>
   <mods:identifier type="IID">MSS 20110329_b1_s3_i26</mods:identifier>
   <mods:identifier type="digitool">3180289</mods:identifier>
