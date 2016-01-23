@@ -57,7 +57,7 @@ def archon(fileName):
   NS = {'oai_dc': 'http://www.openarchives.org/OAI/2.0/oai_dc/', 'dc': 'http://purl.org/dc/elements/1.1/', 'mods': 'http://www.loc.gov/mods/v3', 'dcterms': 'http://purl.org/dc/terms'}
   with open(fileName + '.csv', 'w') as f:
     writer = csv.writer(f, delimiter=',')
-    data = [collNum, str(series), "", "", "", "", 'Items available online', "", "Copy the link into your browser. Items hosted in Digital Collections at DigiNole."]
+    data = [collNum, str(series), "", "", "", "", 'Items available online', "", "Items hosted in Digital Collections at DigiNole. Please copy the link into your browser to access."]
     writer.writerow(data)
     tree = etree.parse(fileName + '.xml')
     root = tree.getroot()
