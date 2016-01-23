@@ -9,12 +9,31 @@ tree = etree.parse('fsu_nap01.xml')
 root = tree.getroot()
 purl = re.compile('((https?):((//)|(\\\\))+([\w\d:#@%/;$()~_?\+-=\\\.&](#!)?)*)')
 for record in root.iterfind('.//{%s}mods' % NS['mods']):
-  print('record')
-  for url in record.find('./{%s}location/{%s}url' % (NS['mods'], NS['mods'])):
-    print('url')
-    m = purl.search(url.text)
-    if m:
-      print(m.group())
+  for name in record.iterfind('.//{%s}name' % NS['mods']):
+    for namePart in name.iterfind('./{%s}namePart'):
+      if namePart.attrib['type']:
+        if namePart.attrib['type'] == 'family':
+          nameFamily = namePart.text
+        elif namePart.attrib['type'] == 'given':
+          nameGiven = namePart.text
+        elif namePart.attrib['type'] == 'date':
+          nameDate = namePart.text
+        fullName = nameFamily + ', ' + nameGiven + ' ' + nameDate
+      else:
+    
+    if name.attrib['type'] == 'corporate':
+      names.append('corporate')
+  for item in names:
+    items = items + item
+  print(items)
+    
+
+
+
+#  for url in record.iterfind('./{%s}location/{%s}url' % (NS['mods'], NS['mods'])):
+#    m = purl.search(url.text)
+#    if m:
+#      print(m.group())
 
 
 #  if 'keyDate' in record.xpath('./{%s}originInfo/{%s}*' % (NS['mods'], NS['mods'])).attrib:
