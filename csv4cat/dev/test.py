@@ -4,6 +4,7 @@ import sys
 import os
 import re
 
+'''
 def nameGenerator(name, NS, fullName):
   names = {}
   for namePart in name.iterfind('./{%s}namePart' % NS['mods']):
@@ -15,6 +16,9 @@ def nameGenerator(name, NS, fullName):
 #        print(value, namePart.text)
         names[value] = namePart.text
         print(fullName, namePart.text, value)
+'''
+
+
 '''
   if 'family' and 'given' and 'termsOfAddress' and 'date' in names.keys():
     fullName = fullName + names['family'] + ', ' + names['given'] + ', ' + names['termsOfAddress'] + ' ' + names['date']
@@ -41,7 +45,8 @@ for record in root.iterfind('.//{%s}mods' % NS['mods']):
   for name in record.iterfind('./{%s}name' % NS['mods']):
     fullName = ""
     if len(name.findall('./{%s}namePart' % NS['mods'])) > 1:
-      nameGenerator(name, NS, fullName)
+        if name.find('./{%s}namePart[type="family"]' % NS['mods']):
+            fullName = fullName + name.find('./{%s}namePart[type="family"]' % NS['mods']).text
     else:
       fullName = fullName + name.find('./{%s}namePart' % NS['mods']).text
     allNames = allNames + fullName + ' || '
