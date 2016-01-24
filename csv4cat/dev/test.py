@@ -4,6 +4,34 @@ import sys
 import os
 import re
 
+def nameGenerator(name, NS, fullName):
+  names = {}
+  for namePart in name.iterfind('./{%s}namePart' % NS['mods']):
+    if len(namePart.attrib) == 0:
+#      print(namePart.text)
+      fullName = fullName + namePart.text
+    else:
+      for key, value in namePart.attrib.items():
+#        print(value, namePart.text)
+        names[value] = namePart.text
+        print(fullName, namePart.text, value)
+'''
+  if 'family' and 'given' and 'termsOfAddress' and 'date' in names.keys():
+    fullName = fullName + names['family'] + ', ' + names['given'] + ', ' + names['termsOfAddress'] + ' ' + names['date']
+  elif 'family' and 'given' and not 'termsOfAddress' and 'date' in names.keys():
+    fullName = fullName + names['family'] + ', ' + names['given'] + ' ' + names['date']
+  elif 'family' and 'given' and not 'termsOfAddress' and not 'date' in names.keys():
+    fullname = fullName + names['family'] + ', ' + names['given']
+  elif not 'family' and 'given' and not 'termsOfAddress' and 'date' in names.keys():
+    fullname = fullName + ' ' + names['given'] + ' ' + names['date']
+  elif not 'family' and not 'given' and 'termsOfAddress' and not 'date' in names.keys():
+    fullName = fullName + ' ' + names['termsOfAddress']
+  elif not 'family' and not 'given' and 'termsOfAddress' and 'date' in names.keys():
+    fullName = fullName + ' ' + names['termsOfAddress'] + ', ' + names['date']
+  elif 'family' and not 'given' and 'termsOfAddress' and not 'date' in names.keys():
+    fullName = fullName + names['family'] + ', ' + names['termsOfAddress']
+  return fullName
+'''
 NS = {'oai_dc': 'http://www.openarchives.org/OAI/2.0/oai_dc/', 'dc': 'http://purl.org/dc/elements/1.1/', 'mods': 'http://www.loc.gov/mods/v3', 'dcterms': 'http://purl.org/dc/terms'}
 tree = etree.parse('fsu_cookbooksandherbals.xml')
 root = tree.getroot()
@@ -13,21 +41,9 @@ for record in root.iterfind('.//{%s}mods' % NS['mods']):
   for name in record.iterfind('./{%s}name' % NS['mods']):
     fullName = ""
     if len(name.findall('./{%s}namePart' % NS['mods'])) > 1:
-      names = {}
-      for namePart in name.iterfind('./{%s}namePart' % NS['mods']):
-        for key, value in namePart.attrib.items():
-#          print(value, namePart.text)
-          names[value] = namePart.text
-      if 'family' and 'given' and 'termsOfAddress' and 'date' in names.keys():
-        fullName = names['family'] + ', ' + names['given'] + ', ' + names['termsOfAddress'] + ' ' + names['date']
-      elif 'family' and 'given' and not 'termsOfAddress' and 'date' in names.keys():
-        fullName = names['family'] + ', ' + names['given'] + ' ' + names['date']
-      elif 'family' and 'given' and not 'termsOfAddress' and not 'date' in names.keys():
-        fullname = names['family'] + ', ' + names['given']
-      elif not 'family' and 'given' and not 'termsOfAddress' and 'date' in names.keys():
-        fullname = names['given'] + ' ' + names['date']    
+      nameGenerator(name, NS, fullName)
     else:
-      fullName = name.find('./{%s}namePart' % NS['mods']).text
+      fullName = fullName + name.find('./{%s}namePart' % NS['mods']).text
     allNames = allNames + fullName + ' || '
     print(allNames)
     
