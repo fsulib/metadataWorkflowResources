@@ -5,7 +5,7 @@ import re
 def aleph(fileName):
   purl = re.compile('((https?):((//)|(\\\\))+([\w\d:#@%/;$()~_?\+-=\\\.&](#!)?)*)')
   pid = re.compile('fsu:[0-9]*')
-  header = ['PURL', 'PID' 'Title', 'Creators', 'Date', 'Notes', 'Comments/Shares']
+  header = ['PURL', 'PID', 'Title', 'Creators', 'Date', 'Extent', 'Abstract', 'Notes', 'Comments/Shares']
   NS = {'oai_dc': 'http://www.openarchives.org/OAI/2.0/oai_dc/', 'dc': 'http://purl.org/dc/elements/1.1/', 'mods': 'http://www.loc.gov/mods/v3', 'dcterms': 'http://purl.org/dc/terms'}
   with open(fileName + '.csv', 'w') as f:
     writer = csv.writer(f, delimiter=',')
@@ -16,8 +16,8 @@ def aleph(fileName):
       data = []
       
       #PURL
-      for url in record.iterfind('./{%s}location/{%s}url' % NS['mods']):
-        m = purl.search(identifier.text)
+      for url in record.iterfind('./{%s}location/{%s}url' % (NS['mods'], NS['mods'])):
+        m = purl.search(url.text)
         if m:
           data.append(m.group())
       
@@ -38,19 +38,51 @@ def aleph(fileName):
         data.append(titleFull)
       
       #names
-#      for creator in record.iterfind('.//{%s}name' % NS['mods']):
-#        if name.find(./
-        
-        
-        data.append('%s' % creator.text) 
+      allNames = ""
+      for name in record.iterfind('.//{%s}name' % NS['mods']):
+        fullName = ""
+        if len(name.findall('./{%s}namePart' % NS['mods'])) > 1:
+          names = {}
+          for namePart in name.iterfind('./{%s}namePart' % NS['mods']):
+            for key, value in namePart.attrib.items():
+              names[value] = namePart.text
+          if 'family' and 'given' and 'date' in names.keys():
+            fullName = names['family'] + ', ' + names['given'] + ' ' + names['date']
+          elif 'family' and 'given' and not 'date' in names.keys():
+            fullname = names['family'] + ', ' + names['given']
+          elif not 'family' and 'given' and 'date' in names.keys():
+            fullname = names['given'] + ' ' + names['date']    
+        else:
+          fullName = name.find('./{%s}namePart' % NS['mods']).text
+        allNames = allNames + fullName + ' || '
+      data.append(allNames)
       
       #date
-      for date in record.iterfind('.//{%s}date' % NS['mods']):
-        data.append('%s' % date.text)
+      if record.find('./{%s}originInfo/{%s}copyrightDate' % (NS['mods'], NS['mods'])) is not None:
+        date = record.find('./{%s}originInfo/{%s}copyrightDate' % (NS['mods'], NS['mods'])).text
+      elif record.find('./{%s}originInfo/{%s}dateCreated' % (NS['mods'], NS['mods'])) is not None:
+        date = record.find('./{%s}originInfo/{%s}dateCreated' % (NS['mods'], NS['mods'])).text
+      elif record.find('./{%s}originInfo/{%s}dateIssued' % (NS['mods'], NS['mods'])) is not None:
+        date = record.find('./{%s}originInfo/{%s}dateIssued' % (NS['mods'], NS['mods'])).text
+      elif record.find('./{%s}originInfo/{%s}dateOther' % (NS['mods'], NS['mods'])) is not None:
+        date = record.find('./{%s}originInfo/{%s}dateOther' % (NS['mods'], NS['mods'])).text
+      else:
+        date = ""
+      data.append(date)
       
+      #extent
+      extent = ""
+      data.append(extent)
+
       #abstract
       for description in record.iterfind('.//{%s}abstract' % NS['mods']):
-        data.append('%s' % description.text)
+        data.append('%s' % description.text)      
+
+      #notes
+      allNotes = ""
+      for note in record.iterfind('./{%s}note' % NS['mods']):
+        allNotes = allNotes + note.text + ' || '
+      data.append(allNotes)
       
       #write CSV
       writer.writerow(data)
