@@ -118,7 +118,9 @@
   <mods:identifier type="IID">MSS 20110329_b1_s4_ss2</mods:identifier>
   <mods:identifier type="digitool">3180291</mods:identifier>
   <mods:name type="personal">
-    <mods:namePart>Lally-Tolendal, Trophime-Gerard, marquis de, 1751-1830</mods:namePart>
+    <mods:namePart type='family'>Lally-Tolendal</mods:namePart>
+    <mods:namePart type='given'>Trophime-Gerard, marquis de,</mods:namePart>
+    <mods:namePart type='date'>FARTS</mods:namePart>
     <mods:role>
       <mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
     </mods:role>
@@ -175,6 +177,11 @@
     <mods:role>
       <mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
     </mods:role>
+  </mods:name>
+  <mods:name type='personal'>
+    <mods:namePart type='family'>Miguez</mods:namePart>
+    <mods:namePart type='given'>Matthew Roland</mods:namePart>
+    <mods:namePart type='date'>1984-</mods:namePart>
   </mods:name>
   <mods:originInfo>
     <mods:dateIssued keyDate="yes">1774-03-05</mods:dateIssued>

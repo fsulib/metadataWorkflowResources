@@ -10,8 +10,25 @@ root = tree.getroot()
 purl = re.compile('((https?):((//)|(\\\\))+([\w\d:#@%/;$()~_?\+-=\\\.&](#!)?)*)')
 for record in root.iterfind('.//{%s}mods' % NS['mods']):
   for name in record.iterfind('.//{%s}name' % NS['mods']):
-    for namePart in name.iterfind('./{%s}namePart'):
-      if namePart.attrib['type']:
+    if len(name.findall('./{%s}namePart' % NS['mods'])) > 1:
+      names = {}
+      for namePart in name.iter('./{%s}namePart' % NS['mods']):
+        for key, value in namePart.attrib:
+          print(key, value)
+          names['value'] = namePart.text
+      for key, value in names.items():
+        print(key, value)
+    #else:
+      #fullName = name.find('./{%s}namePart' % NS['mods']).text
+    #print(fullName)
+    
+    
+    
+    
+    '''
+    #XPath example: child::para[attribute::type="warning"]
+      if 'type' in name.find('./{%s}namePart' % NS['mods']).attrib:
+        print('Parted name...')        
         if namePart.attrib['type'] == 'family':
           nameFamily = namePart.text
         elif namePart.attrib['type'] == 'given':
@@ -19,13 +36,26 @@ for record in root.iterfind('.//{%s}mods' % NS['mods']):
         elif namePart.attrib['type'] == 'date':
           nameDate = namePart.text
         fullName = nameFamily + ', ' + nameGiven + ' ' + nameDate
+      elif name.find('./{%s}namePart' % NS['mods']):
+        fullName = name.find('./{%s}namePart' % NS['mods']).text
       else:
-    
-    if name.attrib['type'] == 'corporate':
-      names.append('corporate')
-  for item in names:
-    items = items + item
-  print(items)
+        fullName = ""
+      print(fullName)
+      
+      
+      
+            if name.find('./{%s}namePart[type="family"]' % NS['mods']) and name.find('./{%s}namePart[type="given"]' % NS['mods']) and name.find('./{%s}namePart[type="date"]' % NS['mods']) is not None:
+        fullName = name.find('./{%s}namePart[type="family"]' % NS['mods']).text + ', ' + name.find('./{%s}namePart[type="given"]' % NS['mods']).text + ' ' + name.find('./{%s}namePart[type="date"]' % NS['mods']).text
+      if name.find('./{%s}namePart[type="given"]' % NS['mods']) is not None:
+        fullName = fullName + name.find('./{%s}namePart[type="given"]' % NS['mods']).text
+      if name.find('./{%s}namePart[type="date"]' % NS['mods']) is not None:
+        fullName = fullName + ' ' + name.find('./{%s}namePart[type="date"]' % NS['mods']).text
+ '''   
+#    if name.attrib['type'] == 'corporate':
+#      names.append('corporate')
+#  for item in names:
+#    items = items + item
+#  print(items)
     
 
 
