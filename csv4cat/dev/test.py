@@ -5,22 +5,31 @@ import os
 import re
 
 NS = {'oai_dc': 'http://www.openarchives.org/OAI/2.0/oai_dc/', 'dc': 'http://purl.org/dc/elements/1.1/', 'mods': 'http://www.loc.gov/mods/v3', 'dcterms': 'http://purl.org/dc/terms'}
-tree = etree.parse('fsu_nap01.xml')
+tree = etree.parse('fsu_cookbooksandherbals.xml')
 root = tree.getroot()
 purl = re.compile('((https?):((//)|(\\\\))+([\w\d:#@%/;$()~_?\+-=\\\.&](#!)?)*)')
 for record in root.iterfind('.//{%s}mods' % NS['mods']):
-  for name in record.iterfind('.//{%s}name' % NS['mods']):
+  allNames = ""
+  for name in record.iterfind('./{%s}name' % NS['mods']):
+    fullName = ""
     if len(name.findall('./{%s}namePart' % NS['mods'])) > 1:
       names = {}
-      for namePart in name.iter('./{%s}namePart' % NS['mods']):
-        for key, value in namePart.attrib:
-          print(key, value)
-          names['value'] = namePart.text
-      for key, value in names.items():
-        print(key, value)
-    #else:
-      #fullName = name.find('./{%s}namePart' % NS['mods']).text
-    #print(fullName)
+      for namePart in name.iterfind('./{%s}namePart' % NS['mods']):
+        for key, value in namePart.attrib.items():
+#          print(value, namePart.text)
+          names[value] = namePart.text
+      if 'family' and 'given' and 'termsOfAddress' and 'date' in names.keys():
+        fullName = names['family'] + ', ' + names['given'] + ', ' + names['termsOfAddress'] + ' ' + names['date']
+      elif 'family' and 'given' and not 'termsOfAddress' and 'date' in names.keys():
+        fullName = names['family'] + ', ' + names['given'] + ' ' + names['date']
+      elif 'family' and 'given' and not 'termsOfAddress' and not 'date' in names.keys():
+        fullname = names['family'] + ', ' + names['given']
+      elif not 'family' and 'given' and not 'termsOfAddress' and 'date' in names.keys():
+        fullname = names['given'] + ' ' + names['date']    
+    else:
+      fullName = name.find('./{%s}namePart' % NS['mods']).text
+    allNames = allNames + fullName + ' || '
+    print(allNames)
     
     
     
