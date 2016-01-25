@@ -45,9 +45,22 @@ for record in root.iterfind('.//{%s}mods' % NS['mods']):
   for name in record.iterfind('./{%s}name' % NS['mods']):
     fullName = ""
     if len(name.findall('./{%s}namePart' % NS['mods'])) > 1:
-        if name.find('./{%s}namePart[type="family"]' % NS['mods']):
-            fullName = fullName + name.find('./{%s}namePart[type="family"]' % NS['mods']).text
+      print('trace01')
+      if name.xpath('./child::namePart[attribute::type="family"]'):
+        print('family name')
+#        fullName = fullName + name.find('./{%s}namePart[type="family"]' % NS['mods']).text
+        if name.find('./{%s}namePart[type="given"]' % NS['mods']):
+          fullName = fullName + ', ' + name.find('./{%s}namePart[type="given"]' % NS['mods']).text
+      else:
+        print('trace03')
+        if len(name.find('./{%s}namePart' % NS['mods']).attrib.items()) == 0:
+          fullName = fullName + name.find('./{%s}namePart' % NS['mods']).text
+      if name.xpath('./child::namePart[attribute::type="termsOfAddress"]'):
+        fullName = fullName + ', ' + name.xpath('./child::namePart[attribute::type="termsOfAddress"]').text
+      if name.xpath('./child::namePart[attribute::type="date"]'):
+        fullName = fullName + ', ' + name.xpath('./child::namePart[attribute::type="date"]').text
     else:
+      print('trace02')
       fullName = fullName + name.find('./{%s}namePart' % NS['mods']).text
     allNames = allNames + fullName + ' || '
     print(allNames)
