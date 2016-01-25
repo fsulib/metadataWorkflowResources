@@ -12,10 +12,10 @@ def writeCSV(name, arg):
   if arg == 'archon':
     collNum = input("Enter a collection ID number: ")
     series = input("Enter a number for the digital series: ")
-    os.system('../pyoaiharvester/pyoaiharvest.py -l http://fsu.digital.flvc.org/oai2 -m mods -s {0} -o {1}'.format(name, name + '.xml'))
+    os.system('~/bin/metadataWorkflowResources/pyoaiharvester/pyoaiharvest.py -l http://fsu.digital.flvc.org/oai2 -m mods -s {0} -o {1}'.format(name, name + '.xml'))
     archon(name, collNum, series)
   elif arg == 'aleph':    
-    os.system('../pyoaiharvester/pyoaiharvest.py -l http://fsu.digital.flvc.org/oai2 -m mods -s {0} -o {1}'.format(name, name + '.xml'))
+    os.system('~/bin/metadataWorkflowResources/pyoaiharvester/pyoaiharvest.py -l http://fsu.digital.flvc.org/oai2 -m mods -s {0} -o {1}'.format(name, name + '.xml'))
     aleph(name)
   else:
     print('Unrecognized system argument.')    
