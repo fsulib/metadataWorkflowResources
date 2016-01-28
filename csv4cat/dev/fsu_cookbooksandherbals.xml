@@ -31,6 +31,14 @@
     </mods:role>
   </mods:name>
   <mods:name type="personal">
+    <mods:namePart type='family'>Miguez</mods:namePart>
+	 <mods:namePart type='given'>Matthew</mods:namePart>
+	 <mods:namePart type='date'>1984-</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">printer</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name type="personal">
     <mods:namePart>Rawlins, William</mods:namePart>
     <mods:role>
       <mods:roleTerm type="text">printer</mods:roleTerm>
