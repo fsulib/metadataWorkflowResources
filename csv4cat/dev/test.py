@@ -55,7 +55,7 @@ for record in root.iterfind('.//{%s}mods' % NS['mods']):
         elif 'type' in namePart.keys():
           names[namePart.attrib['type']] = namePart.text
       #print(names)
-      nameGen(names, fullName)
+      fullName = nameGen(names, fullName)
     else:
       #print('Single part name')
       fullName = fullName + name.find('./{%s}namePart' % NS['mods']).text
