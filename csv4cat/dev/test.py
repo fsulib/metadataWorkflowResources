@@ -9,28 +9,28 @@ def nameGen(names, fullName):
   keys = []
   for key in names.keys():
     keys.append(key)
-#  print(keys)  
-  if 'family' 'given' 'termsOfAddress' 'date' in keys:
+  print(keys)  
+  if all(x in ['family', 'given', 'termsOfAddress', 'date'] for x in keys):
     fullName = fullName + names['family'] + ', ' + names['given'] + ', ' + names['termsOfAddress'] + ' ' + names['date']
-  elif 'family' 'given' and 'date' in keys:
+  elif all(x in ['family', 'given', 'date'] for x in keys):
     fullName = fullName + names['family'] + ', ' + names['given'] + ' ' + names['date']
-  elif 'family' 'given' 'termsOfAddress' in keys:
+  elif all(x in ['family', 'given', 'termsOfAddress'] for x in keys):
     fullName = fullName + names['family'] + ', ' + names['given'] + ', ' + names['termsOfAddress']
-  elif 'family' 'termsOfAddress' 'date' in keys:
+  elif all(x in ['family', 'termsOfAddress', 'date'] for x in keys):
     fullName = fullName + names['family'] + ', ' + names['termsOfAddress'] + ' ' + names['date']
-  elif 'given' 'termsOfAddress' 'date' in keys:
+  elif all(x in ['given', 'termsOfAddress', 'date'] for x in keys):
     fullName = fullName + names['given'] + ', ' + names['termsOfAddress'] + ' ' + names['date']
-  elif 'family' 'given' in keys:
+  elif all(x in ['family', 'given'] for x in keys):
     fullName = fullName + names['family'] + ', ' + names['given']
-  elif 'family' 'date' in keys:
+  elif all(x in ['family', 'date'] for x in keys):
     fullName = fullName + names['family'] + ', ' + names['date']
-  elif 'family' 'termsOfAddress' in keys:
+  elif all(x in ['family', 'termsOfAddress'] for x in keys):
     fullName = fullName + names['family'] + ', ' + names['termsOfAddress']
-  elif 'given' 'date' in keys:
+  elif all(x in ['given', 'date'] for x in keys):
     fullName = fullName + names['given'] + ', ' + names['date']
-  elif 'given' 'termsOfAddress' in keys:
+  elif all(x in ['given', 'termsOfAddress'] for x in keys):
     fullName = fullName + names['given'] + ', ' + names['termsOfAddress']
-  elif 'termsOfAddress' 'date' in keys:
+  elif all(x in ['termsOfAddress', 'date'] for x in keys):
     fullName = fullName + ', ' + names['termsOfAddress'] + ' ' + names['date']
   elif 'date' in keys:
     fullName = fullName + ', ' + names['date']
