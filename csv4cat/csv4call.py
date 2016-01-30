@@ -23,15 +23,20 @@ def aleph(fileName):
       #date
       data.append(mods_date_generator(record, NS))
       #extent
-      extent = ""
-      data.append(extent)
+      extentNotes = []
+      for physDesc in record.iterfind('./{%s}physicalDescription' % NS['mods']):
+        for extent in physDesc.iterfind('./{%s}extent' % NS['mods']):
+          extentNotes.append(extent.text)      
+      data.append(extentNotes)
       #abstract
+      abstracts = []
       for description in record.iterfind('.//{%s}abstract' % NS['mods']):
-        data.append('%s' % description.text)
+        abtracts.append(desctription.text)
+      data.append(abstracts)
       #notes
-      allNotes = ""
+      allNotes = []
       for note in record.iterfind('./{%s}note' % NS['mods']):
-        allNotes = allNotes + note.text + ' || '
+        allNotes.append(note.text)
       data.append(allNotes)
       #write CSV
       writer.writerow(data)
