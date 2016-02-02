@@ -90,3 +90,11 @@ def fsudl_pid_search(mods_record, nameSpace_dict):
     match = pid.search(identifier.text)
     if match:
       return match.group()
+
+def mods_subject_generator(mods_record, nameSpace_dict):
+  allSubjects = []
+  for subject in mods_record.iterfind('.//{%s}subject' % nameSpace_dict['mods']):
+    fullSubject = []
+    for subjectTerm in subject.iterfind('{%s}subject::child' % nameSpace_dict['mods']):
+      fullSubject.append(subjectTerm.text)
+  allSubjects.append(fullSubject)
