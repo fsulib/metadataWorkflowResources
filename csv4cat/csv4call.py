@@ -31,7 +31,7 @@ def aleph(fileName):
       #abstract
       abstracts = []
       for description in record.iterfind('.//{%s}abstract' % NS['mods']):
-        abtracts.append(desctription.text)
+        abstracts.append(description.text)
       data.append(abstracts)
       #notes
       allNotes = []
