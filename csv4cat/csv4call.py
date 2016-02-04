@@ -58,7 +58,7 @@ def archon(fileName, collNum, series):
             #date
             data.append(mods_date_generator(record, NS))
             #PURL
-            data.append(fsudl_purl_search(record, NS))
+            data.append('[url]%s[/url]' % fsudl_purl_search(record, NS))
             #write to CSV & increase item# index
             writer.writerow(data)
             itemNumber = itemNumber + 1
