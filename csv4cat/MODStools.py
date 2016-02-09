@@ -50,7 +50,7 @@ def mods_name_generator(mods_record, nameSpace_dict):
             #Single part name
             fullName = fullName + name.find('./{%s}namePart' % nameSpace_dict['mods']).text
         allNames.append(fullName)
-        return allNames
+        return ' || '.join(allNames)
     
 def mods_title_generator(mods_record, nameSpace_dict):
     allTitles = []
@@ -62,7 +62,7 @@ def mods_title_generator(mods_record, nameSpace_dict):
         else:
             titleFull = title.find('./{%s}title' % nameSpace_dict['mods']).text
         allTitles.append(titleFull)
-        return allTitles
+        return ' || '.join(allTitles)
     
 def mods_date_generator(mods_record, nameSpace_dict):
     if mods_record.find('./{%s}originInfo/{%s}copyrightDate' % (nameSpace_dict['mods'], nameSpace_dict['mods'])) is not None:

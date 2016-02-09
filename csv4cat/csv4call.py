@@ -27,19 +27,19 @@ def aleph(fileName):
             for physDesc in record.iterfind('./{%s}physicalDescription' % NS['mods']):
                 for extent in physDesc.iterfind('./{%s}extent' % NS['mods']):
                     extentNotes.append(extent.text)      
-            data.append(extentNotes)
+            data.append(' || '.join(extentNotes))
             #abstract
             abstracts = []
             for description in record.iterfind('.//{%s}abstract' % NS['mods']):
                 abstracts.append(description.text)
-            data.append(abstracts)
+            data.append(' || '.join(abstracts))
             #notes
             allNotes = []
             for note in record.iterfind('./{%s}note' % NS['mods']):
                 allNotes.append(note.text)
-            data.append(allNotes)
-        #write CSV
-        writer.writerow(data)
+            data.append(' || '.join(allNotes))
+            #write CSV
+            writer.writerow(data)
 
 def archon(fileName, collNum, series):
     NS = {'oai_dc': 'http://www.openarchives.org/OAI/2.0/oai_dc/', 'dc': 'http://purl.org/dc/elements/1.1/', 'mods': 'http://www.loc.gov/mods/v3', 'dcterms': 'http://purl.org/dc/terms'}
