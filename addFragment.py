@@ -10,9 +10,7 @@ def addFragment(mods, fragment):
     modsRoot = modsTree.getroot()
     fragmentTree = etree.parse(fragment)
     fragmentRoot = fragmentTree.getroot()
-    for node in fragmentRoot.xpath('self::*'):
-        subject = etree.Element('{%s}subject' %NS['mods'])
-        #subject.append(node)
+    for node in fragmentRoot.xpath('child::*'):
         modsRoot.append(node)
     modsTree.write(mods +'out', pretty_print=True, xml_declaration=True)
 
