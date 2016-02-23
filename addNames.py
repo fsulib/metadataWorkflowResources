@@ -14,6 +14,6 @@ def addNames(mods, personography):
         subject = etree.Element('{%s}subject' %NS['mods'])
         subject.append(name)
         modsRoot.append(subject)
-    modsTree.write(mods +'out', pretty_print=True, xml_declaration=True)
+    modsTree.write(mods +'out', pretty_print=True, xml_declaration=True, encoding='UTF-8')
 
 addNames(sys.argv[1], sys.argv[2])
