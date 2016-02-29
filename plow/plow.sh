@@ -45,7 +45,7 @@ for i in ${setList[@]}; do
 	# Set up the harvest
 	python /home/mmiguez/bin/pyoaiharvester/pyoaiharvest.py -l http://fsu.digital.flvc.org/oai2 -s $i -o /home/mmiguez/bin/plow/harvest/$i$iso.xml
 done
-python /home/mmiguez/bin/pyoaiharvester/pyoaiharvest.py -l http://fsu.digital.flvc.org/oai2 -m mods -o/home/mmiguez/bin/plow/harvest/modsRoot$iso.xml
+python /home/mmiguez/bin/pyoaiharvester/pyoaiharvest.py -l http://fsu.digital.flvc.org/oai2 -m mods -o /home/mmiguez/bin/plow/harvest/modsRoot$iso.xml
 printf "\n\nHarvest complete.\n\n"
 
 # Start report
