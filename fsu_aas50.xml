@@ -1,0 +1,219 @@
+<repository xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"      xmlns:dc="http://purl.org/dc/elements/1.1/"      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instanc">
+<record><header><identifier>oai:fsu.digital.flvc.org:fsu_514</identifier><datestamp>2016-03-07T14:13:30Z</datestamp><setSpec>fsu_aas50</setSpec><setSpec>fsu_hpuaschooloftheatre</setSpec></header><metadata>
+<mods version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:flvc="info:flvc/manifest/v1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"><titleInfo><title>The Detroit Symphony program (February 13, 1958)</title></titleInfo><identifier type="digitool">2708258
+</identifier><name><namePart>Florida State University</namePart><role><roleTerm authority="marcrelator" type="text">creator</roleTerm></role></name><originInfo><dateIssued encoding="w3cdtf" keyDate="yes">1958</dateIssued></originInfo><physicalDescription><note>PDF</note></physicalDescription><note>Florida State University Artist Series</note><location displayLabel="purl"><url>http://purl.flvc.org/fcla/dt/2708258</url></location><accessCondition>Florida State University asserts copyright for this object. All requests for permission to publish, broadcast or otherwise reproduce from this item must be submitted in writing to the copyright owner unless otherwise stated.</accessCondition><typeOfResource>text</typeOfResource><identifier type="IID">FSDT2708258</identifier>
+<identifier type="fedora">fsu:514</identifier>
+<extension>
+  <flvc:flvc>
+     <flvc:owningInstitution>FSU</flvc:owningInstitution>
+     <flvc:submittingInstitution>FSU</flvc:submittingInstitution>
+     <flvc:objectHistory source="digitool">admin_unit=&quot;FSU01&quot;, ingest_id=&quot;ing7429&quot;, creator=&quot;creator:PSMITH&quot;, creation_date=&quot;2010-08-31 16:25:54&quot;, modified_by=&quot;super:TWEATHER&quot;, modification_date=&quot;2010-09-02 15:39:02&quot;</flvc:objectHistory>
+  </flvc:flvc>
+</extension>
+</mods>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_517</identifier><datestamp>2016-03-07T14:13:30Z</datestamp><setSpec>fsu_aas50</setSpec><setSpec>fsu_hpuaschooloftheatre</setSpec></header><metadata>
+<mods version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:flvc="info:flvc/manifest/v1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"><titleInfo><title>Ticket order form for National Ballet of Canada (March 5-6, 1957)</title></titleInfo><identifier type="digitool">2708261
+</identifier><name><namePart>Florida State University</namePart><role><roleTerm authority="marcrelator" type="text">creator</roleTerm></role></name><originInfo><dateIssued encoding="w3cdtf" keyDate="yes">1957</dateIssued></originInfo><physicalDescription><note>PDF</note></physicalDescription><note>&quot;Presented by the Florida State University Artist Series&quot;</note><location displayLabel="purl"><url>http://purl.flvc.org/fcla/dt/2708261</url></location><accessCondition>Florida State University asserts copyright for this object. All requests for permission to publish, broadcast or otherwise reproduce from this item must be submitted in writing to the copyright owner unless otherwise stated.</accessCondition><typeOfResource>text</typeOfResource><identifier type="IID">FSDT2708261</identifier>
+<identifier type="fedora">fsu:517</identifier>
+<extension>
+  <flvc:flvc>
+     <flvc:owningInstitution>FSU</flvc:owningInstitution>
+     <flvc:submittingInstitution>FSU</flvc:submittingInstitution>
+     <flvc:objectHistory source="digitool">admin_unit=&quot;FSU01&quot;, ingest_id=&quot;ing7429&quot;, creator=&quot;creator:PSMITH&quot;, creation_date=&quot;2010-08-31 16:25:54&quot;, modified_by=&quot;super:TWEATHER&quot;, modification_date=&quot;2010-09-02 15:47:54&quot;</flvc:objectHistory>
+  </flvc:flvc>
+</extension>
+</mods>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_521</identifier><datestamp>2016-03-07T14:13:30Z</datestamp><setSpec>fsu_aas50</setSpec><setSpec>fsu_hpuaschooloftheatre</setSpec></header><metadata>
+<mods version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:flvc="info:flvc/manifest/v1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"><titleInfo><title>Schedule for 1959 Artist Series</title></titleInfo><identifier type="digitool">2708265
+</identifier><name><namePart>Florida State University</namePart><role><roleTerm authority="marcrelator" type="text">creator</roleTerm></role></name><originInfo><dateIssued encoding="w3cdtf" keyDate="yes">1959</dateIssued></originInfo><physicalDescription><note>PDF</note></physicalDescription><note>Florida State University Artist Series</note><location displayLabel="purl"><url>http://purl.flvc.org/fcla/dt/2708265</url></location><accessCondition>Florida State University asserts copyright for this object. All requests for permission to publish, broadcast or otherwise reproduce from this item must be submitted in writing to the copyright owner unless otherwise stated.</accessCondition><typeOfResource>text</typeOfResource><identifier type="IID">FSDT2708265</identifier>
+<identifier type="fedora">fsu:521</identifier>
+<extension>
+  <flvc:flvc>
+     <flvc:owningInstitution>FSU</flvc:owningInstitution>
+     <flvc:submittingInstitution>FSU</flvc:submittingInstitution>
+     <flvc:objectHistory source="digitool">admin_unit=&quot;FSU01&quot;, ingest_id=&quot;ing7429&quot;, creator=&quot;creator:PSMITH&quot;, creation_date=&quot;2010-08-31 16:25:54&quot;, modified_by=&quot;super:TWEATHER&quot;, modification_date=&quot;2010-09-03 08:33:38&quot;</flvc:objectHistory>
+  </flvc:flvc>
+</extension>
+</mods>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_523</identifier><datestamp>2016-03-07T14:13:30Z</datestamp><setSpec>fsu_aas50</setSpec><setSpec>fsu_hpuaschooloftheatre</setSpec></header><metadata>
+<mods version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:flvc="info:flvc/manifest/v1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"><titleInfo><title>The Cincinnati Symphony (March 2, 1959)</title></titleInfo><identifier type="digitool">2708267
+</identifier><name><namePart>Florida State University</namePart><role><roleTerm authority="marcrelator" type="text">creator</roleTerm></role></name><originInfo><dateIssued encoding="w3cdtf" keyDate="yes">1959</dateIssued></originInfo><physicalDescription><note>PDF</note></physicalDescription><note>Florida State University Artist Series</note><location displayLabel="purl"><url>http://purl.flvc.org/fcla/dt/2708267</url></location><accessCondition>Florida State University asserts copyright for this object. All requests for permission to publish, broadcast or otherwise reproduce from this item must be submitted in writing to the copyright owner unless otherwise stated.</accessCondition><typeOfResource>text</typeOfResource><identifier type="IID">FSDT2708267</identifier>
+<identifier type="fedora">fsu:523</identifier>
+<extension>
+  <flvc:flvc>
+     <flvc:owningInstitution>FSU</flvc:owningInstitution>
+     <flvc:submittingInstitution>FSU</flvc:submittingInstitution>
+     <flvc:objectHistory source="digitool">admin_unit=&quot;FSU01&quot;, ingest_id=&quot;ing7429&quot;, creator=&quot;creator:PSMITH&quot;, creation_date=&quot;2010-08-31 16:25:55&quot;, modified_by=&quot;super:TWEATHER&quot;, modification_date=&quot;2010-09-03 08:39:20&quot;</flvc:objectHistory>
+  </flvc:flvc>
+</extension>
+</mods>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_522</identifier><datestamp>2016-03-07T14:13:28Z</datestamp><setSpec>fsu_aas50</setSpec><setSpec>fsu_hpuaschooloftheatre</setSpec></header><metadata>
+<mods version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:flvc="info:flvc/manifest/v1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"><titleInfo><title>&quot;Back to Methuselah&quot; (January 16, 1958)</title></titleInfo><identifier type="digitool">2708266
+</identifier><name><namePart>Florida State University</namePart><role><roleTerm authority="marcrelator" type="text">creator</roleTerm></role></name><originInfo><dateIssued encoding="w3cdtf" keyDate="yes">1958</dateIssued></originInfo><physicalDescription><note>PDF</note></physicalDescription><note>Florida State University Artist Series</note><note>Starring Tyrone Power, Faye Emerson and Arthur Treacher </note><note>Presented by The Theatre Guild and Arnold Moss</note><location displayLabel="purl"><url>http://purl.flvc.org/fcla/dt/2708266</url></location><accessCondition>Florida State University asserts copyright for this object. All requests for permission to publish, broadcast or otherwise reproduce from this item must be submitted in writing to the copyright owner unless otherwise stated.</accessCondition><typeOfResource>text</typeOfResource><identifier type="IID">FSDT2708266</identifier>
+<identifier type="fedora">fsu:522</identifier>
+<extension>
+  <flvc:flvc>
+     <flvc:owningInstitution>FSU</flvc:owningInstitution>
+     <flvc:submittingInstitution>FSU</flvc:submittingInstitution>
+     <flvc:objectHistory source="digitool">admin_unit=&quot;FSU01&quot;, ingest_id=&quot;ing7429&quot;, creator=&quot;creator:PSMITH&quot;, creation_date=&quot;2010-08-31 16:25:55&quot;, modified_by=&quot;super:TWEATHER&quot;, modification_date=&quot;2010-09-03 08:37:45&quot;</flvc:objectHistory>
+  </flvc:flvc>
+</extension>
+</mods>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_511</identifier><datestamp>2016-03-07T14:13:28Z</datestamp><setSpec>fsu_aas50</setSpec><setSpec>fsu_hpuaschooloftheatre</setSpec></header><metadata>
+<mods version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:flvc="info:flvc/manifest/v1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"><titleInfo><title>&quot;No Time for Sergeants&quot; program (February 14, 1958)</title></titleInfo><identifier type="digitool">2708255
+</identifier><name><namePart>Florida State University</namePart><role><roleTerm authority="marcrelator" type="text">creator</roleTerm></role></name><originInfo><dateIssued encoding="w3cdtf" keyDate="yes">1958</dateIssued></originInfo><physicalDescription><note>PDF</note></physicalDescription><note>&quot;Florida State University Artist Series&quot;</note><location displayLabel="purl"><url>http://purl.flvc.org/fcla/dt/2708255</url></location><accessCondition>Florida State University asserts copyright for this object. All requests for permission to publish, broadcast or otherwise reproduce from this item must be submitted in writing to the copyright owner unless otherwise stated.</accessCondition><typeOfResource>text</typeOfResource><identifier type="IID">FSDT2708255</identifier>
+<identifier type="fedora">fsu:511</identifier>
+<extension>
+  <flvc:flvc>
+     <flvc:owningInstitution>FSU</flvc:owningInstitution>
+     <flvc:submittingInstitution>FSU</flvc:submittingInstitution>
+     <flvc:objectHistory source="digitool">admin_unit=&quot;FSU01&quot;, ingest_id=&quot;ing7429&quot;, creator=&quot;creator:PSMITH&quot;, creation_date=&quot;2010-08-31 16:25:54&quot;, modified_by=&quot;super:TWEATHER&quot;, modification_date=&quot;2010-09-02 15:33:58&quot;</flvc:objectHistory>
+  </flvc:flvc>
+</extension>
+</mods>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_519</identifier><datestamp>2016-03-07T14:13:29Z</datestamp><setSpec>fsu_aas50</setSpec><setSpec>fsu_hpuaschooloftheatre</setSpec></header><metadata>
+<mods version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:flvc="info:flvc/manifest/v1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"><titleInfo><title>&quot;The Messiah&quot; and &quot;Amahl and the Night Visitors&quot; (December 4, 1957)</title></titleInfo><identifier type="digitool">2708263
+</identifier><name><namePart>Florida State University</namePart><role><roleTerm authority="marcrelator" type="text">creator</roleTerm></role></name><originInfo><dateIssued encoding="w3cdtf" keyDate="yes">1957</dateIssued></originInfo><physicalDescription><note>PDF</note></physicalDescription><note>The performance of &quot;Amahl and the Night Visitors&quot; includes members of the cast of the NBC TV world premiere, Christmas Eve 1951</note><location displayLabel="purl"><url>http://purl.flvc.org/fcla/dt/2708263</url></location><accessCondition>Florida State University asserts copyright for this object. All requests for permission to publish, broadcast or otherwise reproduce from this item must be submitted in writing to the copyright owner unless otherwise stated.</accessCondition><typeOfResource>text</typeOfResource><identifier type="IID">FSDT2708263</identifier>
+<identifier type="fedora">fsu:519</identifier>
+<extension>
+  <flvc:flvc>
+     <flvc:owningInstitution>FSU</flvc:owningInstitution>
+     <flvc:submittingInstitution>FSU</flvc:submittingInstitution>
+     <flvc:objectHistory source="digitool">admin_unit=&quot;FSU01&quot;, ingest_id=&quot;ing7429&quot;, creator=&quot;creator:PSMITH&quot;, creation_date=&quot;2010-08-31 16:25:54&quot;, modified_by=&quot;super:TWEATHER&quot;, modification_date=&quot;2010-09-02 15:52:58&quot;</flvc:objectHistory>
+  </flvc:flvc>
+</extension>
+</mods>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_510</identifier><datestamp>2016-03-07T14:13:29Z</datestamp><setSpec>fsu_aas50</setSpec><setSpec>fsu_hpuaschooloftheatre</setSpec></header><metadata>
+<mods version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:flvc="info:flvc/manifest/v1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"><titleInfo><title>Artist Series schedule, 1957-58</title></titleInfo><identifier type="digitool">2708254
+</identifier><name><namePart>Florida State University</namePart><role><roleTerm authority="marcrelator" type="text">creator</roleTerm></role></name><originInfo><dateIssued encoding="w3cdtf" keyDate="yes">1957</dateIssued></originInfo><physicalDescription><note>PDF</note></physicalDescription><location displayLabel="purl"><url>http://purl.flvc.org/fcla/dt/2708254</url></location><accessCondition>Florida State University asserts copyright for this object. All requests for permission to publish, broadcast or otherwise reproduce from this item must be submitted in writing to the copyright owner unless otherwise stated.</accessCondition><typeOfResource>text</typeOfResource><identifier type="IID">FSDT2708254</identifier>
+<identifier type="fedora">fsu:510</identifier>
+<extension>
+  <flvc:flvc>
+     <flvc:owningInstitution>FSU</flvc:owningInstitution>
+     <flvc:submittingInstitution>FSU</flvc:submittingInstitution>
+     <flvc:objectHistory source="digitool">admin_unit=&quot;FSU01&quot;, ingest_id=&quot;ing7429&quot;, creator=&quot;creator:PSMITH&quot;, creation_date=&quot;2010-08-31 16:25:54&quot;, modified_by=&quot;super:TWEATHER&quot;, modification_date=&quot;2010-09-02 15:31:07&quot;</flvc:objectHistory>
+  </flvc:flvc>
+</extension>
+</mods>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_524</identifier><datestamp>2016-03-07T14:13:29Z</datestamp><setSpec>fsu_aas50</setSpec><setSpec>fsu_hpuaschooloftheatre</setSpec></header><metadata>
+<mods version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:flvc="info:flvc/manifest/v1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"><titleInfo><title>George London, Baritone of the Metropolitan Opera Association (April 9, 1959)</title></titleInfo><identifier type="digitool">2708268
+</identifier><name><namePart>Florida State University</namePart><role><roleTerm authority="marcrelator" type="text">creator</roleTerm></role></name><originInfo><dateIssued encoding="w3cdtf" keyDate="yes">1959</dateIssued></originInfo><physicalDescription><note>PDF</note></physicalDescription><location displayLabel="purl"><url>http://purl.flvc.org/fcla/dt/2708268</url></location><accessCondition>Florida State University asserts copyright for this object. All requests for permission to publish, broadcast or otherwise reproduce from this item must be submitted in writing to the copyright owner unless otherwise stated.</accessCondition><typeOfResource>text</typeOfResource><identifier type="IID">FSDT2708268</identifier>
+<identifier type="fedora">fsu:524</identifier>
+<extension>
+  <flvc:flvc>
+     <flvc:owningInstitution>FSU</flvc:owningInstitution>
+     <flvc:submittingInstitution>FSU</flvc:submittingInstitution>
+     <flvc:objectHistory source="digitool">admin_unit=&quot;FSU01&quot;, ingest_id=&quot;ing7429&quot;, creator=&quot;creator:PSMITH&quot;, creation_date=&quot;2010-08-31 16:25:55&quot;, modified_by=&quot;super:TWEATHER&quot;, modification_date=&quot;2010-09-03 08:41:33&quot;</flvc:objectHistory>
+  </flvc:flvc>
+</extension>
+</mods>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_520</identifier><datestamp>2016-03-07T14:13:29Z</datestamp><setSpec>fsu_aas50</setSpec><setSpec>fsu_hpuaschooloftheatre</setSpec></header><metadata>
+<mods version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:flvc="info:flvc/manifest/v1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"><titleInfo><title>Jennie Tourel, Mezzo-Soprano (April 17, 1958)</title></titleInfo><identifier type="digitool">2708264
+</identifier><name><namePart>Florida State University</namePart><role><roleTerm authority="marcrelator" type="text">creator</roleTerm></role></name><originInfo><dateIssued encoding="w3cdtf" keyDate="yes">1958</dateIssued></originInfo><physicalDescription><note>PDF</note></physicalDescription><note>&quot;Presented by Florida State University Artist Series&quot;</note><location displayLabel="purl"><url>http://purl.flvc.org/fcla/dt/2708264</url></location><accessCondition>Florida State University asserts copyright for this object. All requests for permission to publish, broadcast or otherwise reproduce from this item must be submitted in writing to the copyright owner unless otherwise stated.</accessCondition><typeOfResource>text</typeOfResource><identifier type="IID">FSDT2708264</identifier>
+<identifier type="fedora">fsu:520</identifier>
+<extension>
+  <flvc:flvc>
+     <flvc:owningInstitution>FSU</flvc:owningInstitution>
+     <flvc:submittingInstitution>FSU</flvc:submittingInstitution>
+     <flvc:objectHistory source="digitool">admin_unit=&quot;FSU01&quot;, ingest_id=&quot;ing7429&quot;, creator=&quot;creator:PSMITH&quot;, creation_date=&quot;2010-08-31 16:25:54&quot;, modified_by=&quot;super:TWEATHER&quot;, modification_date=&quot;2010-09-03 08:31:44&quot;</flvc:objectHistory>
+  </flvc:flvc>
+</extension>
+</mods>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_512</identifier><datestamp>2016-03-07T14:13:30Z</datestamp><setSpec>fsu_aas50</setSpec><setSpec>fsu_hpuaschooloftheatre</setSpec></header><metadata>
+<mods version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:flvc="info:flvc/manifest/v1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"><titleInfo><title>Roger Wagner Chorale program (February 13, 1957)</title></titleInfo><identifier type="digitool">2708256
+</identifier><name><namePart>Florida State University</namePart><role><roleTerm authority="marcrelator" type="text">creator</roleTerm></role></name><originInfo><dateIssued encoding="w3cdtf" keyDate="yes">1957</dateIssued></originInfo><physicalDescription><note>PDF</note></physicalDescription><note>&quot;Florida State University Artist Series&quot;</note><location displayLabel="purl"><url>http://purl.flvc.org/fcla/dt/2708256</url></location><accessCondition>Florida State University asserts copyright for this object. All requests for permission to publish, broadcast or otherwise reproduce from this item must be submitted in writing to the copyright owner unless otherwise stated.</accessCondition><typeOfResource>text</typeOfResource><identifier type="IID">FSDT2708256</identifier>
+<identifier type="fedora">fsu:512</identifier>
+<extension>
+  <flvc:flvc>
+     <flvc:owningInstitution>FSU</flvc:owningInstitution>
+     <flvc:submittingInstitution>FSU</flvc:submittingInstitution>
+     <flvc:objectHistory source="digitool">admin_unit=&quot;FSU01&quot;, ingest_id=&quot;ing7429&quot;, creator=&quot;creator:PSMITH&quot;, creation_date=&quot;2010-08-31 16:25:54&quot;, modified_by=&quot;super:TWEATHER&quot;, modification_date=&quot;2010-09-02 15:35:52&quot;</flvc:objectHistory>
+  </flvc:flvc>
+</extension>
+</mods>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_525</identifier><datestamp>2016-03-07T14:13:30Z</datestamp><setSpec>fsu_aas50</setSpec><setSpec>fsu_hpuaschooloftheatre</setSpec></header><metadata>
+<mods version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:flvc="info:flvc/manifest/v1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"><titleInfo><title>Schedule for 1958-1959 Artist Series</title></titleInfo><identifier type="digitool">2708269
+</identifier><name><namePart>Florida State University</namePart><role><roleTerm authority="marcrelator" type="text">creator</roleTerm></role></name><originInfo><dateIssued encoding="w3cdtf" keyDate="yes">1958</dateIssued></originInfo><physicalDescription><note>PDF</note></physicalDescription><note>Florida State University Artist Series</note><location displayLabel="purl"><url>http://purl.flvc.org/fcla/dt/2708269</url></location><accessCondition>Florida State University asserts copyright for this object. All requests for permission to publish, broadcast or otherwise reproduce from this item must be submitted in writing to the copyright owner unless otherwise stated.</accessCondition><typeOfResource>text</typeOfResource><identifier type="IID">FSDT2708269</identifier>
+<identifier type="fedora">fsu:525</identifier>
+<extension>
+  <flvc:flvc>
+     <flvc:owningInstitution>FSU</flvc:owningInstitution>
+     <flvc:submittingInstitution>FSU</flvc:submittingInstitution>
+     <flvc:objectHistory source="digitool">admin_unit=&quot;FSU01&quot;, ingest_id=&quot;ing7429&quot;, creator=&quot;creator:PSMITH&quot;, creation_date=&quot;2010-08-31 16:25:55&quot;, modified_by=&quot;super:TWEATHER&quot;, modification_date=&quot;2010-09-03 08:43:46&quot;</flvc:objectHistory>
+  </flvc:flvc>
+</extension>
+</mods>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_518</identifier><datestamp>2016-03-07T14:13:28Z</datestamp><setSpec>fsu_aas50</setSpec><setSpec>fsu_hpuaschooloftheatre</setSpec></header><metadata>
+<mods version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:flvc="info:flvc/manifest/v1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"><titleInfo><title>&quot;Solisti di Zagreb&quot; (October 26, 1956)</title></titleInfo><identifier type="digitool">2708262
+</identifier><name><namePart>Florida State University</namePart><role><roleTerm authority="marcrelator" type="text">creator</roleTerm></role></name><originInfo><dateIssued encoding="w3cdtf" keyDate="yes">1956</dateIssued></originInfo><physicalDescription><note>PDF</note></physicalDescription><note>Florida State University Artist Series</note><location displayLabel="purl"><url>http://purl.flvc.org/fcla/dt/2708262</url></location><accessCondition>Florida State University asserts copyright for this object. All requests for permission to publish, broadcast or otherwise reproduce from this item must be submitted in writing to the copyright owner unless otherwise stated.</accessCondition><typeOfResource>text</typeOfResource><identifier type="IID">FSDT2708262</identifier>
+<identifier type="fedora">fsu:518</identifier>
+<extension>
+  <flvc:flvc>
+     <flvc:owningInstitution>FSU</flvc:owningInstitution>
+     <flvc:submittingInstitution>FSU</flvc:submittingInstitution>
+     <flvc:objectHistory source="digitool">admin_unit=&quot;FSU01&quot;, ingest_id=&quot;ing7429&quot;, creator=&quot;creator:PSMITH&quot;, creation_date=&quot;2010-08-31 16:25:54&quot;, modified_by=&quot;super:TWEATHER&quot;, modification_date=&quot;2010-09-02 15:50:07&quot;</flvc:objectHistory>
+  </flvc:flvc>
+</extension>
+</mods>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_515</identifier><datestamp>2016-03-07T14:13:29Z</datestamp><setSpec>fsu_aas50</setSpec><setSpec>fsu_hpuaschooloftheatre</setSpec></header><metadata>
+<mods version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:flvc="info:flvc/manifest/v1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"><titleInfo><title>&quot;The Fledermaus&quot;, by the National Grass Roots Opera Company (November 11, 1957)</title></titleInfo><identifier type="digitool">2708259
+</identifier><name><namePart>Florida State University</namePart><role><roleTerm authority="marcrelator" type="text">creator</roleTerm></role></name><originInfo><dateIssued encoding="w3cdtf" keyDate="yes">1957</dateIssued></originInfo><physicalDescription><note>PDF</note></physicalDescription><note>&quot;The Florida State University Artist Series&quot;</note><location displayLabel="purl"><url>http://purl.flvc.org/fcla/dt/2708259</url></location><accessCondition>Florida State University asserts copyright for this object. All requests for permission to publish, broadcast or otherwise reproduce from this item must be submitted in writing to the copyright owner unless otherwise stated.</accessCondition><typeOfResource>text</typeOfResource><identifier type="IID">FSDT2708259</identifier>
+<identifier type="fedora">fsu:515</identifier>
+<extension>
+  <flvc:flvc>
+     <flvc:owningInstitution>FSU</flvc:owningInstitution>
+     <flvc:submittingInstitution>FSU</flvc:submittingInstitution>
+     <flvc:objectHistory source="digitool">admin_unit=&quot;FSU01&quot;, ingest_id=&quot;ing7429&quot;, creator=&quot;creator:PSMITH&quot;, creation_date=&quot;2010-08-31 16:25:54&quot;, modified_by=&quot;super:TWEATHER&quot;, modification_date=&quot;2010-09-02 15:41:15&quot;</flvc:objectHistory>
+  </flvc:flvc>
+</extension>
+</mods>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_513</identifier><datestamp>2016-03-07T14:13:29Z</datestamp><setSpec>fsu_aas50</setSpec><setSpec>fsu_hpuaschooloftheatre</setSpec></header><metadata>
+<mods version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:flvc="info:flvc/manifest/v1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"><titleInfo><title>Memo to faculty and staff regarding Artist Series tickets</title></titleInfo><identifier type="digitool">2708257
+</identifier><name><namePart>Artist Series Committee</namePart><role><roleTerm authority="marcrelator" type="text">creator</roleTerm></role></name><originInfo><dateIssued encoding="w3cdtf" keyDate="yes">1954</dateIssued></originInfo><physicalDescription><note>PDF</note></physicalDescription><location displayLabel="purl"><url>http://purl.flvc.org/fcla/dt/2708257</url></location><accessCondition>Florida State University asserts copyright for this object. All requests for permission to publish, broadcast or otherwise reproduce from this item must be submitted in writing to the copyright owner unless otherwise stated.</accessCondition><typeOfResource>text</typeOfResource><identifier type="IID">FSDT2708257</identifier>
+<identifier type="fedora">fsu:513</identifier>
+<extension>
+  <flvc:flvc>
+     <flvc:owningInstitution>FSU</flvc:owningInstitution>
+     <flvc:submittingInstitution>FSU</flvc:submittingInstitution>
+     <flvc:objectHistory source="digitool">admin_unit=&quot;FSU01&quot;, ingest_id=&quot;ing7429&quot;, creator=&quot;creator:PSMITH&quot;, creation_date=&quot;2010-08-31 16:25:54&quot;, modified_by=&quot;super:TWEATHER&quot;, modification_date=&quot;2010-09-02 15:37:08&quot;</flvc:objectHistory>
+  </flvc:flvc>
+</extension>
+</mods>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_509</identifier><datestamp>2016-03-07T14:13:29Z</datestamp><setSpec>fsu_aas50</setSpec><setSpec>fsu_hpuaschooloftheatre</setSpec></header><metadata>
+<mods version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:flvc="info:flvc/manifest/v1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"><titleInfo><title>Minneapolis Symphony Orchestra program (February 29, 1956)</title></titleInfo><identifier type="digitool">2708253
+</identifier><name><namePart>Florida State University</namePart><role><roleTerm authority="marcrelator" type="text">creator</roleTerm></role></name><originInfo><dateIssued encoding="w3cdtf" keyDate="yes">1956</dateIssued></originInfo><physicalDescription><note>PDF</note></physicalDescription><note>&quot;Florida State University Artist Series&quot;</note><location displayLabel="purl"><url>http://purl.flvc.org/fcla/dt/2708253</url></location><accessCondition>Florida State University asserts copyright for this object. All requests for permission to publish, broadcast or otherwise reproduce from this item must be submitted in writing to the copyright owner unless otherwise stated.</accessCondition><typeOfResource>text</typeOfResource><identifier type="IID">FSDT2708253</identifier>
+<identifier type="fedora">fsu:509</identifier>
+<extension>
+  <flvc:flvc>
+     <flvc:owningInstitution>FSU</flvc:owningInstitution>
+     <flvc:submittingInstitution>FSU</flvc:submittingInstitution>
+     <flvc:objectHistory source="digitool">admin_unit=&quot;FSU01&quot;, ingest_id=&quot;ing7429&quot;, creator=&quot;creator:PSMITH&quot;, creation_date=&quot;2010-08-31 16:25:54&quot;, modified_by=&quot;super:TWEATHER&quot;, modification_date=&quot;2010-09-02 15:29:51&quot;</flvc:objectHistory>
+  </flvc:flvc>
+</extension>
+</mods>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_508</identifier><datestamp>2016-03-07T14:13:30Z</datestamp><setSpec>fsu_aas50</setSpec><setSpec>fsu_hpuaschooloftheatre</setSpec></header><metadata>
+<mods version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:flvc="info:flvc/manifest/v1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"><titleInfo><title>National Ballet of Canada program (March 5, 1957)</title></titleInfo><identifier type="digitool">2708252
+</identifier><name><namePart>Florida State University</namePart><role><roleTerm authority="marcrelator" type="text">creator</roleTerm></role></name><originInfo><dateIssued encoding="w3cdtf" keyDate="yes">1957</dateIssued></originInfo><physicalDescription><note>PDF</note></physicalDescription><note>&quot;FSU Artist Series&quot;</note><location displayLabel="purl"><url>http://purl.flvc.org/fcla/dt/2708252</url></location><accessCondition>Florida State University asserts copyright for this object. All requests for permission to publish, broadcast or otherwise reproduce from this item must be submitted in writing to the copyright owner unless otherwise stated.</accessCondition><typeOfResource>text</typeOfResource><identifier type="IID">FSDT2708252</identifier>
+<identifier type="fedora">fsu:508</identifier>
+<extension>
+  <flvc:flvc>
+     <flvc:owningInstitution>FSU</flvc:owningInstitution>
+     <flvc:submittingInstitution>FSU</flvc:submittingInstitution>
+     <flvc:objectHistory source="digitool">admin_unit=&quot;FSU01&quot;, ingest_id=&quot;ing7429&quot;, creator=&quot;creator:PSMITH&quot;, creation_date=&quot;2010-08-31 16:25:54&quot;, modified_by=&quot;super:TWEATHER&quot;, modification_date=&quot;2010-09-02 15:28:16&quot;</flvc:objectHistory>
+  </flvc:flvc>
+</extension>
+</mods>
+</metadata></record><record><header><identifier>oai:fsu.digital.flvc.org:fsu_516</identifier><datestamp>2016-03-07T14:13:30Z</datestamp><setSpec>fsu_aas50</setSpec><setSpec>fsu_hpuaschooloftheatre</setSpec></header><metadata>
+<mods version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:flvc="info:flvc/manifest/v1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"><titleInfo><title>Nell Rankin, Mezzo-Soprano (July 9, 1958)</title></titleInfo><identifier type="digitool">2708260
+</identifier><name><namePart>Florida State University</namePart><role><roleTerm authority="marcrelator" type="text">creator</roleTerm></role></name><originInfo><dateIssued encoding="w3cdtf" keyDate="yes">1958</dateIssued></originInfo><physicalDescription><note>PDF</note></physicalDescription><note>Florida State University Summer Artist Series</note><location displayLabel="purl"><url>http://purl.flvc.org/fcla/dt/2708260</url></location><accessCondition>Florida State University asserts copyright for this object. All requests for permission to publish, broadcast or otherwise reproduce from this item must be submitted in writing to the copyright owner unless otherwise stated.</accessCondition><typeOfResource>text</typeOfResource><identifier type="IID">FSDT2708260</identifier>
+<identifier type="fedora">fsu:516</identifier>
+<extension>
+  <flvc:flvc>
+     <flvc:owningInstitution>FSU</flvc:owningInstitution>
+     <flvc:submittingInstitution>FSU</flvc:submittingInstitution>
+     <flvc:objectHistory source="digitool">admin_unit=&quot;FSU01&quot;, ingest_id=&quot;ing7429&quot;, creator=&quot;creator:PSMITH&quot;, creation_date=&quot;2010-08-31 16:25:54&quot;, modified_by=&quot;super:TWEATHER&quot;, modification_date=&quot;2010-09-02 15:44:44&quot;</flvc:objectHistory>
+  </flvc:flvc>
+</extension>
+</mods>
+</metadata></record>
+</repository>
