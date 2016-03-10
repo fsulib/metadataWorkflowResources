@@ -26,4 +26,4 @@ def analyse_for_locations(fileName):
         else:
             print(fsudl_pid_search(record, NS))
             
-harvest(sys.argv[1])    
+harvest(sys.argv[1].replace(':', '_'))    
