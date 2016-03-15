@@ -23,7 +23,7 @@ def pullDC(filename):
 
 parser = argparse.ArgumentParser()
 parser.add_argument("-f", "--file", help="input file")
-parser.add_argument("-m", "--metadataPrefix", help="select metadata encoding of source file (oai_dc, dc, or mods)")
+parser.add_argument("-m", "--metadataPrefix", help="select metadata encoding of source file", choices=["mods", "dc", "oai_dc"])
 args = parser.parse_args()
 fileName = args.file.split(".")[0]
 if args.metadataPrefix == "mods":
@@ -32,5 +32,3 @@ elif args.metadataPrefix == "oai_dc":
     pullOAI(fileName)
 elif args.metadataPrefix == "dc":
     pullDC(fileName)
-else:
-    print("Invalid metadata prefix selected.")
