@@ -11,4 +11,4 @@ for xml in os.listdir('MODS/'):
         if element.get('type') is not None:
             if element.get('type') == 'fedora':
                 ID = element.text
-                tree.write('MODS/'+ ID +'.xml', xml_declaration=True, pretty_print=True)
+                tree.write('MODS/'+ ID.replace(':', '_') +'.xml', pretty_print=True, xml_declaration=True, encoding='UTF-8')
