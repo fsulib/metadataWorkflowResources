@@ -5,6 +5,7 @@ import os
 import sys
 import hashlib
 import datetime
+import argparse
 
 def buildMETS(directory):
     NS = { 'mets' : 'http://www.loc.gov/METS/', 'mods': 'http://www.loc.gov/mods/v3' }
@@ -27,4 +28,10 @@ def get_files(directory):
     for image in os.listdir(directory):
         print(image)
         
+agent_dict = { 'ORGANIZATION' : 'FSU,Florida State University', 'OTHER' : 'METScreate.py by FSU Libraries' }
+parser = argparse.ArgumentParser()
+parser.add_argument('-a', '--agent', help='FSUID of individual running this program')
+parser.add_argument('directory', help='directory containing files to be used in creating the METS document') 
+args = parser.parse_args()
+agent_dict['INDIVIDUAL'] = args.agent
 buildMETS(sys.argv[1])
