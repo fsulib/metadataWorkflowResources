@@ -53,9 +53,10 @@ def buildMETS(directory, agent_dict):
                                     MIMETYPE="text/xml",
                                     LABEL="MODS metadata")
         xmlData = etree.SubElement(mdWrap, "{%s}xmlData" % NS['mets'])                                        
-        modsTree = etree.parse('MODS/' + directory + '.xml')
-        modsRoot = modsTree.getroot()
-        xmlData.append(modsRoot)
+        with open('MODS/' + directory + '.xml') as modsFile:
+            modsTree = etree.parse(modsFile)
+            modsRoot = modsTree.getroot()
+            xmlData.append(modsRoot)
         #build fileSec & structMap parents for iterative children 
         fileSec = etree.SubElement(root, "{%s}fileSec" % NS['mets'])
         fileGrp = etree.SubElement(fileSec, "{%s}fileGrp" % NS['mets'], 
