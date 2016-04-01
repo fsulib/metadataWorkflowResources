@@ -10,9 +10,24 @@ import shutil
 from lxml import etree
 from functools import partial
 
-def buildManifest(directory, agent_dict):
-    print('Manifest turned on!')
-
+#build manifest file
+def buildManifest(directory, agent_dict, target_collection):
+    print('Building manifest for ' + directory + '.\n')
+    NS = { None : "info:flvc/manifest" }
+    with open(directory + '.manifest.xml', 'w') as manifestOut:
+        root = etree.Element('manifest', nsmap=NS)
+        contentModel = etree.SubElement( root, 'contentModel')
+        collection = etree.SubElement( root, 'collection')
+        owningUser = etree.SubElement( root, 'owningUser')
+        owningInstitution = etree.SubElement( root, 'owningInstitution')
+        contentModel.text = 'islandora:newspaperIssueCModel'
+        collection.text = target_collection
+        owningUser.text = agent_dict['INDIVIDUAL']
+        owningInstitution.text = 'FSU'
+        manifestOut.write(etree.tostring(root, pretty_print=True, 
+                                    xml_declaration=True,
+                                    encoding="UTF-8").decode('utf-8'))
+        
 #hashes image with MD5 hash
 def md5sum(filename):
     print('Hashing ' + filename)
@@ -109,10 +124,13 @@ def buildMETS(directory, agent_dict):
         
         
 agent_dict = { 'ORGANIZATION' : 'FSU, Florida State University', 'OTHER' : 'METScreate.py by FSU Libraries' }
-
+#argument inputs
 parser = argparse.ArgumentParser(description="build newspaper ingest packages for FSUDL")
-parser.add_argument('agent', help='FSUID of the individual running this program')
 parser.add_argument('directory', help='directory containing files to be used in creating the METS document') 
+parser.add_argument('-a', '--agent',
+                    required=True, help='FSUID of the individual running this program')
+parser.add_argument('-c', '--collection',
+                    required=True, help='digital collection target for package')                    
 parser.add_argument('-m', '--manifest', choices=['y', 'n'],
                     default='y', help='build package manifest')
 parser.add_argument('-z', '--zip', choices=['y' , 'n'],
@@ -121,11 +139,15 @@ args = parser.parse_args()
 
 if args.directory[-1] == '/':
     args.directory = args.directory[:-1]
+if args.collection[0:4] != 'fsu:':
+    args.collection = 'fsu:' + args.collection
 agent_dict['INDIVIDUAL'] = "FSU/" + args.agent
 #buildMETS(args.directory, agent_dict)
 if args.manifest == 'y':
-    buildManifest(args.directory, agent_dict)
-
+    buildManifest(args.directory, agent_dict, args.collection)
 #shutil.move(args.directory + '.mets.xml', args.directory + '/mets.xml')
 #shutil.move('MODS/' + args.directory + '.xml', args.directory + '/' + args.directory + '.xml')
+#shutil.move(args.directory + '.manifest.xml', args.directory + '/manifest.xml')
+if args.zip == 'y':
+    print('We need to zip')
 print(args.directory + ' fully packaged.\n')
