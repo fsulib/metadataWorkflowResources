@@ -145,9 +145,9 @@ agent_dict['INDIVIDUAL'] = "FSU/" + args.agent
 buildMETS(args.directory, agent_dict)
 if args.manifest == 'y':
     buildManifest(args.directory, agent_dict, args.collection)
-#shutil.move(args.directory + '.mets.xml', args.directory + '/mets.xml')
-#shutil.move('MODS/' + args.directory + '.xml', args.directory + '/' + args.directory + '.xml')
-#shutil.move(args.directory + '.manifest.xml', args.directory + '/manifest.xml')
+shutil.move(args.directory + '.mets.xml', args.directory + '/mets.xml')
+shutil.move('MODS/' + args.directory + '.xml', args.directory + '/' + args.directory + '.xml')
+shutil.move(args.directory + '.manifest.xml', args.directory + '/manifest.xml')
 if args.zip == 'y':
-    print('We need to zip')
+    shutil.make_archive(args.directory, 'zip', args.directory)
 print(args.directory + ' fully packaged.\n')
