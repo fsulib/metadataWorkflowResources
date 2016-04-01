@@ -10,8 +10,12 @@ import shutil
 from lxml import etree
 from functools import partial
 
+def buildManifest(directory, agent_dict):
+    print('Manifest turned on!')
+
 #hashes image with MD5 hash
 def md5sum(filename):
+    print('Hashing ' + filename)
     with open(filename, mode='rb') as f:
         d = hashlib.md5()
         for buf in iter(partial(f.read, 128), b''):
@@ -26,11 +30,14 @@ def get_file_size(filename):
 #main function - builds & serializes the METS tree
 def buildMETS(directory, agent_dict):
     print('Building METS for ' + directory + '.\n')
-    NS = { 'mets' : 'http://www.loc.gov/METS/', 'mods': 'http://www.loc.gov/mods/v3',
+    NS = { None : 'http://www.loc.gov/METS/', 'mets' : 'http://www.loc.gov/METS/', 
+            'mods': 'http://www.loc.gov/mods/v3',
             'xlink' : 'http://www.w3.org/1999/xlink',
             'xsi' : 'http://www.w3.org/2001/XMLSchema-instance' }
-    with open(directory + '.' + 'mets.xml', 'w') as METSout:
-        root = etree.Element("{%s}mets" % NS['mets'], OBJID=directory)
+    with open(directory + '.mets.xml', 'w') as METSout:
+        root = etree.Element("{%s}mets" % NS['mets'], 
+                                    OBJID=directory, nsmap=NS)
+        root.attrib['{%s}schemaLocation' % NS['xsi']] = "http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd"                            
         metsHdr = etree.SubElement(root, "{%s}metsHdr" % NS['mets'], 
                                     ID=directory,
                                     RECORDSTATUS="COMPLETE", 
@@ -47,13 +54,14 @@ def buildMETS(directory, agent_dict):
             name.text = individual
             agent.append(name)
         #copy in MODS descriptive metadata
-        dmdSec = etree.SubElement(root, "{%s}dmdSec" % NS['mets'])
+        dmdSec = etree.SubElement(root, "{%s}dmdSec" % NS['mets'], 
+                                    ID="DMD1")
         mdWrap = etree.SubElement(dmdSec, "{%s}mdWrap" % NS['mets'],
                                     MDTYPE="MODS",
                                     MIMETYPE="text/xml",
                                     LABEL="MODS metadata")
         xmlData = etree.SubElement(mdWrap, "{%s}xmlData" % NS['mets'])                                        
-        with open('MODS/' + directory + '.xml') as modsFile:
+        with open('MODS/' + directory + '.xml', 'r') as modsFile:
             modsTree = etree.parse(modsFile)
             modsRoot = modsTree.getroot()
             xmlData.append(modsRoot)
@@ -80,33 +88,44 @@ def buildMETS(directory, agent_dict):
                                         GROUPID="G" + fileIndex,
                                         ID="TIF" + fileIndex,
                                         MIMETYPE=mimetypes.guess_type(image)[0],
-                                        CHECKSUM=md5sum(directory + "/" + image),
+                                        #CHECKSUM=md5sum(directory + "/" + image),
                                         CHECKSUMTYPE="MD5",
                                         SIZE=str(get_file_size(directory + "/" + image)))
             FLocat = etree.SubElement(file, "{%s}FLocat" % NS['mets'],
                                         LOCTYPE="OTHER",
-                                        OTHYERLOCTYPE="SYSTEM")
+                                        OTHERLOCTYPE="SYSTEM")
             div3 = etree.SubElement(div2, "{%s}div" % NS['mets'],
                                         ID="PAGE" + fileIndex,
                                         ORDER=fileIndex,
                                         TYPE="Page")
-            fptr = etree.SubElement(div3, "{%s}div" % NS['mets'],
+            fptr = etree.SubElement(div3, "{%s}fptr" % NS['mets'],
                                         FILEID="TIF" + fileIndex)
             FLocat.set('{%s}href' % NS['xlink'], image)                            
 
-        METSout.write(etree.tostring(root, pretty_print=True, xml_declaration=True).decode('utf-8'))
+        METSout.write(etree.tostring(root, pretty_print=True, 
+                                    xml_declaration=True,
+                                    encoding="UTF-8",
+                                    standalone=False).decode('utf-8'))
         
         
 agent_dict = { 'ORGANIZATION' : 'FSU, Florida State University', 'OTHER' : 'METScreate.py by FSU Libraries' }
 
-parser = argparse.ArgumentParser()
+parser = argparse.ArgumentParser(description="build newspaper ingest packages for FSUDL")
+parser.add_argument('agent', help='FSUID of the individual running this program')
 parser.add_argument('directory', help='directory containing files to be used in creating the METS document') 
-parser.add_argument('-a', '--agent', help='FSUID of the individual running this program')
+parser.add_argument('-m', '--manifest', choices=['y', 'n'],
+                    default='y', help='build package manifest')
+parser.add_argument('-z', '--zip', choices=['y' , 'n'],
+                    default='y', help='zip completed package')
 args = parser.parse_args()
+
+if args.directory[-1] == '/':
+    args.directory = args.directory[:-1]
 agent_dict['INDIVIDUAL'] = "FSU/" + args.agent
+#buildMETS(args.directory, agent_dict)
+if args.manifest == 'y':
+    buildManifest(args.directory, agent_dict)
 
-buildMETS(args.directory, agent_dict)
-
-shutil.move(args.directory + '.mets.xml', args.directory + '/mets.xml')
-shutil.copy('MODS/' + args.directory + '.xml', args.directory + '/' + args.directory + '.xml')
+#shutil.move(args.directory + '.mets.xml', args.directory + '/mets.xml')
+#shutil.move('MODS/' + args.directory + '.xml', args.directory + '/' + args.directory + '.xml')
 print(args.directory + ' fully packaged.\n')
