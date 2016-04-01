@@ -11,10 +11,9 @@ from lxml import etree
 from functools import partial
 
 #build manifest file
-def buildManifest(directory, agent_dict, target_collection):
+def buildManifest(directory, user, target_collection):
     print('Building manifest for ' + directory + '.\n')
     NS = { None : "info:flvc/manifest" }
-    islandora_users = { 'mmiguez' : 'Matthew Miguez', 'kmthomas' : 'Krystal Thomas' }
     with open(directory + '.manifest.xml', 'w') as manifestOut:
         root = etree.Element('manifest', nsmap=NS)
         contentModel = etree.SubElement( root, 'contentModel')
@@ -23,7 +22,7 @@ def buildManifest(directory, agent_dict, target_collection):
         owningInstitution = etree.SubElement( root, 'owningInstitution')
         contentModel.text = 'islandora:newspaperIssueCModel'
         collection.text = target_collection
-        owningUser.text = islandora_users[agent_dict['INDIVIDUAL']]
+        owningUser.text = user
         owningInstitution.text = 'FSU'
         manifestOut.write(etree.tostring(root, pretty_print=True, 
                                     xml_declaration=True,
@@ -129,7 +128,9 @@ agent_dict = { 'ORGANIZATION' : 'FSU, Florida State University', 'OTHER' : 'METS
 parser = argparse.ArgumentParser(description="build newspaper ingest packages for FSUDL")
 parser.add_argument('directory', help='directory containing files to be used in creating the METS document') 
 parser.add_argument('-c', '--collection',
-                    required=True, help='digital collection target for package')                    
+                    required=True, help='digital collection target for package')
+parser.add_argument('-f', '--FSUDL_login',
+                    required=True, help='your FSUDL login name')
 parser.add_argument('-m', '--manifest', choices=['y', 'n'],
                     default='y', help='build package manifest')
 parser.add_argument('-z', '--zip', choices=['y' , 'n'],
@@ -143,10 +144,10 @@ if args.collection[0:4] != 'fsu:':
 agent_dict['INDIVIDUAL'] = "FSU/" + os.getlogin()
 buildMETS(args.directory, agent_dict)
 if args.manifest == 'y':
-    buildManifest(args.directory, agent_dict, args.collection)
+    buildManifest(args.directory, args.FSUDL_login, args.collection)
+    shutil.move(args.directory + '.manifest.xml', args.directory + '/manifest.xml')
 shutil.move(args.directory + '.mets.xml', args.directory + '/mets.xml')
 shutil.move('MODS/' + args.directory + '.xml', args.directory + '/' + args.directory + '.xml')
-shutil.move(args.directory + '.manifest.xml', args.directory + '/manifest.xml')
 if args.zip == 'y':
     shutil.make_archive(args.directory, 'zip', args.directory)
 print(args.directory + ' fully packaged.\n')
