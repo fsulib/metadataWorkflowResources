@@ -23,7 +23,7 @@ def buildManifest(directory, agent_dict, target_collection):
         owningInstitution = etree.SubElement( root, 'owningInstitution')
         contentModel.text = 'islandora:newspaperIssueCModel'
         collection.text = target_collection
-        owningUser.text = agent_dict['INDIVIDUAL']
+        owningUser.text = islandora_users[agent_dict['INDIVIDUAL']]
         owningInstitution.text = 'FSU'
         manifestOut.write(etree.tostring(root, pretty_print=True, 
                                     xml_declaration=True,
