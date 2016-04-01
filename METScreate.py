@@ -103,7 +103,7 @@ def buildMETS(directory, agent_dict):
                                         GROUPID="G" + fileIndex,
                                         ID="TIF" + fileIndex,
                                         MIMETYPE=mimetypes.guess_type(image)[0],
-                                        #CHECKSUM=md5sum(directory + "/" + image),
+                                        CHECKSUM=md5sum(directory + "/" + image),
                                         CHECKSUMTYPE="MD5",
                                         SIZE=str(get_file_size(directory + "/" + image)))
             FLocat = etree.SubElement(file, "{%s}FLocat" % NS['mets'],
@@ -142,7 +142,7 @@ if args.directory[-1] == '/':
 if args.collection[0:4] != 'fsu:':
     args.collection = 'fsu:' + args.collection
 agent_dict['INDIVIDUAL'] = "FSU/" + args.agent
-#buildMETS(args.directory, agent_dict)
+buildMETS(args.directory, agent_dict)
 if args.manifest == 'y':
     buildManifest(args.directory, agent_dict, args.collection)
 #shutil.move(args.directory + '.mets.xml', args.directory + '/mets.xml')
