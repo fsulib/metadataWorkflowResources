@@ -14,6 +14,7 @@ from functools import partial
 def buildManifest(directory, agent_dict, target_collection):
     print('Building manifest for ' + directory + '.\n')
     NS = { None : "info:flvc/manifest" }
+    islandora_users = { 'mmiguez' : 'Matthew Miguez', 'kmthomas' : 'Krystal Thomas' }
     with open(directory + '.manifest.xml', 'w') as manifestOut:
         root = etree.Element('manifest', nsmap=NS)
         contentModel = etree.SubElement( root, 'contentModel')
@@ -127,8 +128,6 @@ agent_dict = { 'ORGANIZATION' : 'FSU, Florida State University', 'OTHER' : 'METS
 #argument inputs
 parser = argparse.ArgumentParser(description="build newspaper ingest packages for FSUDL")
 parser.add_argument('directory', help='directory containing files to be used in creating the METS document') 
-parser.add_argument('-a', '--agent',
-                    required=True, help='FSUID of the individual running this program')
 parser.add_argument('-c', '--collection',
                     required=True, help='digital collection target for package')                    
 parser.add_argument('-m', '--manifest', choices=['y', 'n'],
@@ -141,7 +140,7 @@ if args.directory[-1] == '/':
     args.directory = args.directory[:-1]
 if args.collection[0:4] != 'fsu:':
     args.collection = 'fsu:' + args.collection
-agent_dict['INDIVIDUAL'] = "FSU/" + args.agent
+agent_dict['INDIVIDUAL'] = "FSU/" + os.getlogin()
 buildMETS(args.directory, agent_dict)
 if args.manifest == 'y':
     buildManifest(args.directory, agent_dict, args.collection)
