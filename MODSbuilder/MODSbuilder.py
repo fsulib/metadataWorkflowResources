@@ -1,8 +1,10 @@
 #!/usr/bin/env python3
 
+import os
 import csv
 import sys
 import argparse
+import datetime
 from lxml import etree
 
 def buildMODS(record):
@@ -18,7 +20,14 @@ def buildMODS(record):
     owningInstitution.text = 'FSU'
     submittingInstitution = etree.SubElement(flvc, '{%s}submittingInstitution' %NS['flvc'])
     submittingInstitution.text = 'FSU'
-    print(etree.tostring(root).decode("UTF-8"))
+    recordInfo = etree.SubElement(root, 'recordInfo')
+    recordCreationDate = etree.SubElement(recordInfo, 'recordCreationDate')
+    recordCreationDate.text = record['Record creation date']
+    descriptionStandard = etree.SubElement(recordInfo, 'descriptionStandard')
+    descriptionStandard.text = record['Description Standard']
+    recordOrigin = etree.SubElement(recordInfo, 'recordOrigin')
+    recordOrigin.text = 'Exported from CSV by MODSbuilder.py from FSU Libraries by ' + os.getlogin() + ' on ' + datetime.datetime.isoformat(datetime.datetime.now())
+    print(etree.tostring(root, pretty_print=True, xml_declaration=True, encoding="UTF-8").decode("UTF-8"))
 #    for path, text in record.items():
 #        print(path, text)
     
