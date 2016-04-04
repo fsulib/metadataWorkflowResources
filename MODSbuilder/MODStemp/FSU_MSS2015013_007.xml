@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:flvc="info:flvc/manifest" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/mods/v3">
+  <extension>
+    <flvc:flvc>
+      <flvc:owningInstitution>FSU</flvc:owningInstitution>
+      <flvc:submittingInstitution>FSU</flvc:submittingInstitution>
+    </flvc:flvc>
+  </extension>
+  <recordInfo>
+    <recordCreationDate>2015-05-07</recordCreationDate>
+    <descriptionStandard>dacs</descriptionStandard>
+    <recordOrigin>Exported from CSV by MODSbuilder.py from FSU Libraries by mmiguez on 2016-04-04T08:50:17.352557</recordOrigin>
+  </recordInfo>
+</mods>
