@@ -29,6 +29,15 @@ def buildMODS(record):
         recordOrigin = etree.SubElement(recordInfo, 'recordOrigin')
         recordOrigin.text = 'Exported from CSV by MODSbuilder.py from FSU Libraries by ' + os.getlogin() + ' on ' + datetime.datetime.isoformat(datetime.datetime.now())
         modsOut.write(etree.tostring(root, pretty_print=True, xml_declaration=True, encoding="UTF-8").decode("UTF-8"))
+        '''
+        What will be difficult
+
+        Various titles @alt, @uniform
+
+        subject loops
+            split by || append text nodes & attributes
+
+        '''
     #    for path, text in record.items():
     #        print(path, text)
     
