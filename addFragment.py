@@ -14,4 +14,4 @@ def addFragment(mods, fragment):
         modsRoot.append(node)
     modsTree.write(mods +'out', pretty_print=True, xml_declaration=True, encoding='UTF-8')
 
-addFragment(sys.argv[1], sys.argv[2])
+addFragment(sys.argv[1].replace('*',''), sys.argv[2])

@@ -81,14 +81,14 @@ def fsudl_purl_search(mods_record, nameSpace_dict):
     purl = re.compile('((https?):((//)|(\\\\))+([\w\d:#@%/;$()~_?\+-=\\\.&](#!)?)*)')
     for url in mods_record.iterfind('./{%s}location/{%s}url' % (nameSpace_dict['mods'], nameSpace_dict['mods'])):
         match = purl.search(url.text)
-        if match:
+        if match is not None:
             return match.group()
       
 def fsudl_pid_search(mods_record, nameSpace_dict):
     pid = re.compile('fsu:[0-9]*')
     for identifier in mods_record.iterfind('.//{%s}identifier' % nameSpace_dict['mods']):
         match = pid.search(identifier.text)
-        if match:
+        if match is not None:
             return match.group()
 
 def mods_subject_generator(mods_record, nameSpace_dict):

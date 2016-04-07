@@ -9,7 +9,7 @@ def fsudl_pid_search(mods_record, nameSpace_dict):
     pid = re.compile('fsu:[0-9]*')
     for identifier in mods_record.iterfind('.//{%s}identifier' % nameSpace_dict['mods']):
         match = pid.search(identifier.text)
-        if match:
+        if match is not None:
             return match.group()
             
 def harvest(name):
@@ -21,9 +21,10 @@ def analyse_for_locations(fileName):
     tree = etree.parse(fileName + '.xml')
     root = tree.getroot()
     for record in root.iterfind('.//{%s}mods' % NS['mods'] ):
-        if record.find('.//{%s}physicalLocation' %NS['mods'] ):
+        if record.find('.//{%s}physicalLocation' %NS['mods'] ) is not None:
             return
         else:
             print(fsudl_pid_search(record, NS))
             
-harvest(sys.argv[1].replace(':', '_'))    
+harvest(sys.argv[1].replace(':', '_'))
+print('\nDone')
