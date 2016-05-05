@@ -134,7 +134,7 @@ parser.add_argument('-f', '--FSUDL_login',
 parser.add_argument('-m', '--manifest', choices=['y', 'n'],
                     default='y', help='build package manifest')
 parser.add_argument('-z', '--zip', choices=['y' , 'n'],
-                    default='y', help='zip completed package')
+                    default='n', help='zip completed package')
 args = parser.parse_args()
 
 if args.directory[-1] == '/':
