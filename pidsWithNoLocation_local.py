@@ -29,6 +29,7 @@ def analyse_for_locations(fileName, dir):
               + ' -- NO LOCATION'
               )
             
+#arg1 = directory location containing MODS files
 for fileIn in os.listdir(sys.argv[1]):
     if os.path.isfile(os.curdir + '/' + sys.argv[1] + fileIn):
         analyse_for_locations(fileIn, sys.argv[1])

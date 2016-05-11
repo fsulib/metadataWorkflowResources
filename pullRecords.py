@@ -11,4 +11,5 @@ def getRecords(pidFile):
         outFile.write(r.text)
         outFile.close()
 
+#arg1 = filename of plaintext file containing PIDs separated by new lines '\n'
 getRecords(sys.argv[1])

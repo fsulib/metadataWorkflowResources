@@ -26,5 +26,6 @@ def analyse_for_locations(fileName):
         else:
             print(fsudl_pid_search(record, NS))
             
+#arg1 = OAI setSpec or Islandora collection PID
 harvest(sys.argv[1].replace(':', '_'))
 print('\nDone')
