@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.loc.gov/mods/v3"
-  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:flvc="info:flvc/manifest/v1"
-  xmlns:mods="http://www.loc.gov/mods/v3" xmlns:dcterms="http://purl.org/dc/terms/"
-  xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" exclude-result-prefixes="xs" version="1.0"> 
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" 
+    xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+    xmlns="http://www.loc.gov/mods/v3"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xmlns:xlink="http://www.w3.org/1999/xlink" 
+    xmlns:flvc="info:flvc/manifest/v1"
+    xmlns:mods="http://www.loc.gov/mods/v3" 
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" exclude-result-prefixes="xs" version="1.0"> 
   
   <xsl:output encoding="UTF-8" method="xml"/>
   
@@ -28,8 +33,8 @@
   </xsl:template>
   
   <xsl:template match="mods:location[@displayLabel='purl']">
-    <mods:location displayLabel="purl">
+    <location displayLabel="purl">
       <xsl:copy-of select="mods:url"/>  
-    </mods:location>
+    </location>
   </xsl:template>
 </xsl:stylesheet>
