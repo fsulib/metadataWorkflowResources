@@ -114,7 +114,7 @@ def buildMETS(directory, agent_dict):
                                         OTHERLOCTYPE="SYSTEM")
             div3 = etree.SubElement(div2, "{%s}div" % NS['mets'],
                                         ID="PAGE" + fileIndex,
-                                        Label="Page " + fileIndex,
+                                        LABEL="Page " + fileIndex,
                                         ORDER=fileIndex,
                                         TYPE="Page")
             fptr = etree.SubElement(div3, "{%s}fptr" % NS['mets'],
