@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 
-from lxml import etree
 import re
 import os
 import sys
+import argparse
+from lxml import etree
 
 def fsudl_pid_search(mods_record, nameSpace_dict):
     pid = re.compile('fsu:[0-9]*')
@@ -27,5 +28,8 @@ def analyse_for_locations(fileName):
             print(fsudl_pid_search(record, NS))
             
 #arg1 = OAI setSpec or Islandora collection PID
-harvest(sys.argv[1].replace(':', '_'))
+parser = argparse.ArgumentParser(description="Can't think...")
+parser.add_argument('collection', help='collection oai_setspec or Islandora PID')
+args = parser.parse_args()
+harvest(args.collection.replace(':', '_'))
 print('\nDone')

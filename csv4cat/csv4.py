@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 
-from lxml import etree
-from csv4call import archon, aleph
 import csv
 import os
 import sys
+import argparse
+from lxml import etree
+from csv4call import archon, aleph
 
 NS = {'mods':'http://www.loc.gov/mods/v3'}
 
@@ -20,6 +21,11 @@ def writeCSV(name, arg):
     else:
         print('Unrecognized system argument.')    
 
-name = os.path.splitext(sys.argv[1])[0]
-writeCSV(name, sys.argv[2])
+parser = argparse.ArgumentParser(description='Exports data from FSUDL & structures it into CSV files either for inclusion in Archon as a collection content import, or for transimission to cataloging for digital edition MARC records.')
+parser.add_argument('-c', '--collection', required=True, 
+                    help='oai setspec or collection PID to harvest')
+parser.add_argument('-s', '--system', required=True, choices=['archon', 'aleph'],
+                    help='target system')
+args = parser.parse_args()
+writeCSV(args.collection.replace(':','_'), args.system)
 print('Spreadsheet created.')

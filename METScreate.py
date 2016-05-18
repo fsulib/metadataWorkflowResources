@@ -129,7 +129,7 @@ def buildMETS(directory, agent_dict):
         
 agent_dict = { 'ORGANIZATION' : 'FSU, Florida State University', 'OTHER' : 'METScreate.py by FSU Libraries' }
 #argument inputs
-parser = argparse.ArgumentParser(description="build newspaper ingest packages for FSUDL")
+parser = argparse.ArgumentParser(description="Builds newspaper ingest packages for FSUDL")
 parser.add_argument('directory', help='directory containing files to be used in creating the METS document') 
 parser.add_argument('-c', '--collection',
                     required=True, help='digital collection target for package')

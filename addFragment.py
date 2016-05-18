@@ -2,6 +2,7 @@
 
 import sys
 import os
+import argparse
 from lxml import etree
 
 def addFragment(mods, fragment):
@@ -15,4 +16,10 @@ def addFragment(mods, fragment):
     modsTree.write(mods +'out', pretty_print=True, xml_declaration=True, encoding='UTF-8')
 
 #arg1 = file to edit; arg2 = xml fragment to add to root
-addFragment(sys.argv[1].replace('*',''), sys.argv[2])
+parser = argparse.ArgumentParser(description="Appends the children of root from any well-formed XML fragment to the root of a MODS file.")
+parser.add_argument('-f', '--fragment', required=True,
+                    help='XML fragment to add to a MODS file')
+parser.add_argument('-m', '--mods_file', required=True,
+                    help='target MODS file')
+args = parser.parse_args()
+addFragment(args.mods_file.replace('*',''), args.fragment)
