@@ -45,6 +45,9 @@ def get_file_size(filename):
 #main function - builds & serializes the METS tree
 def buildMETS(directory, agent_dict):
     print('Building METS for ' + directory + '.\n')
+    if 'Thumbs.db' in os.listdir(directory):
+        print('Cleaning directory')
+        os.remove(directory + '/Thumbs.db')
     NS = { None : 'http://www.loc.gov/METS/', 'mets' : 'http://www.loc.gov/METS/', 
             'mods': 'http://www.loc.gov/mods/v3',
             'xlink' : 'http://www.w3.org/1999/xlink',
@@ -97,7 +100,7 @@ def buildMETS(directory, agent_dict):
                                     ORDER="1",
                                     TYPE="Main")                                     
         #loop over files in directory & build fileSec & structMap children
-        for image in os.listdir(directory):
+        for image in sorted(os.listdir(directory)):
             fileIndex = str(os.listdir(directory).index(image) + 1)
             file = etree.SubElement(fileGrp, "{%s}file" % NS['mets'], 
                                         GROUPID="G" + fileIndex,
@@ -111,6 +114,7 @@ def buildMETS(directory, agent_dict):
                                         OTHERLOCTYPE="SYSTEM")
             div3 = etree.SubElement(div2, "{%s}div" % NS['mets'],
                                         ID="PAGE" + fileIndex,
+                                        Label="Page " + fileIndex,
                                         ORDER=fileIndex,
                                         TYPE="Page")
             fptr = etree.SubElement(div3, "{%s}fptr" % NS['mets'],
