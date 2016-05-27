@@ -132,7 +132,7 @@ agent_dict = { 'ORGANIZATION' : 'FSU, Florida State University', 'OTHER' : 'METS
 parser = argparse.ArgumentParser(description="Builds newspaper ingest packages for FSUDL.")
 parser.add_argument('directory', help='directory containing files to be used in creating the METS document') 
 parser.add_argument('-c', '--collection',
-                    required=True, help='digital collection target for package')
+                    required=True, help='PID of digital collection target for package')
 parser.add_argument('-f', '--FSUDL_login',
                     required=True, help='your FSUDL login name')
 parser.add_argument('-m', '--manifest', choices=['y', 'n'],
