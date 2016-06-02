@@ -5,10 +5,23 @@ import sys
 import hashlib
 import datetime
 import argparse
+import logging
 import mimetypes
 import shutil
 from lxml import etree
 from functools import partial
+
+#logger to catch missing MODS files
+def testForMODS(directory):
+    logging.basicConfig(filename='METScreateErrorLog.txt', level=logging.ERROR,
+            format='%(asctime)s -- %(levelname)s : %(message)s', 
+            datefmt='%m/%d/%Y &H:%M:%S %p')
+    try:
+        open('MODS/' + directory + '.xml')
+    except FileNotFoundError:
+        logging.error('No MODS for ' + directory)
+
+
 
 #build manifest file
 def buildManifest(directory, user, target_collection):
@@ -146,6 +159,7 @@ if args.directory[-1] == '/':
 if args.collection[0:4] != 'fsu:':
     args.collection = 'fsu:' + args.collection
 agent_dict['INDIVIDUAL'] = "FSU/" + os.getlogin()
+#logging test will go here
 buildMETS(args.directory, agent_dict)
 if args.manifest == 'y':
     buildManifest(args.directory, args.FSUDL_login, args.collection)
