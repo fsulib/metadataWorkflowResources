@@ -16,10 +16,7 @@ def testForMODS(directory):
     logging.basicConfig(filename='METScreateErrorLog.txt', level=logging.ERROR,
             format='%(asctime)s -- %(levelname)s : %(message)s', 
             datefmt='%m/%d/%Y &H:%M:%S %p')
-    try:
-        open('MODS/' + directory + '.xml')
-    except FileNotFoundError:
-        logging.error('No MODS for ' + directory)
+
 
 
 
@@ -91,11 +88,14 @@ def buildMETS(directory, agent_dict):
                                     MDTYPE="MODS",
                                     MIMETYPE="text/xml",
                                     LABEL="MODS metadata")
-        xmlData = etree.SubElement(mdWrap, "{%s}xmlData" % NS['mets'])                                        
-        with open('MODS/' + directory + '.xml', 'r') as modsFile:
-            modsTree = etree.parse(modsFile)
-            modsRoot = modsTree.getroot()
-            xmlData.append(modsRoot)
+        xmlData = etree.SubElement(mdWrap, "{%s}xmlData" % NS['mets'])
+        try:
+            with open('MODS/' + directory + '.xml', 'r') as modsFile:
+                modsTree = etree.parse(modsFile)
+                modsRoot = modsTree.getroot()
+                xmlData.append(modsRoot)
+        except FileNotFoundError:
+            logging.error('No MODS for ' + directory + ' when building manifest.')
         #build fileSec & structMap parents for iterative children 
         fileSec = etree.SubElement(root, "{%s}fileSec" % NS['mets'])
         fileGrp = etree.SubElement(fileSec, "{%s}fileGrp" % NS['mets'], 
@@ -142,6 +142,9 @@ def buildMETS(directory, agent_dict):
         
 agent_dict = { 'ORGANIZATION' : 'FSU, Florida State University', 'OTHER' : 'METScreate.py by FSU Libraries' }
 #argument inputs
+logging.basicConfig(filename='METScreateErrorLog.txt', level=logging.ERROR,
+            format='%(asctime)s -- %(levelname)s : %(message)s', 
+            datefmt='%m/%d/%Y %H:%M:%S %p')
 parser = argparse.ArgumentParser(description="Builds newspaper ingest packages for FSUDL.")
 parser.add_argument('directory', help='directory containing files to be used in creating the METS document') 
 parser.add_argument('-c', '--collection',
@@ -159,13 +162,15 @@ if args.directory[-1] == '/':
 if args.collection[0:4] != 'fsu:':
     args.collection = 'fsu:' + args.collection
 agent_dict['INDIVIDUAL'] = "FSU/" + os.getlogin()
-#logging test will go here
 buildMETS(args.directory, agent_dict)
 if args.manifest == 'y':
     buildManifest(args.directory, args.FSUDL_login, args.collection)
     shutil.move(args.directory + '.manifest.xml', args.directory + '/manifest.xml')
 shutil.move(args.directory + '.mets.xml', args.directory + '/mets.xml')
-shutil.move('MODS/' + args.directory + '.xml', args.directory + '/' + args.directory + '.xml')
+try:
+    shutil.move('MODS/' + args.directory + '.xml', args.directory + '/' + args.directory + '.xml')
+except FileNotFoundError:
+    logging.error('No MODS for ' + args.directory + ' when moving MODS.')
 if args.zip == 'y':
     shutil.make_archive(args.directory, 'zip', args.directory)
 print(args.directory + ' fully packaged.\n')
