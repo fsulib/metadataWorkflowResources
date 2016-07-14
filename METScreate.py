@@ -12,6 +12,20 @@ from lxml import etree
 from functools import partial
 
 
+# get titles from MODS record
+def mods_title_generator(mods_record, nameSpace_dict):
+    allTitles = []
+    for title in mods_record.iterfind('.//{%s}titleInfo' % nameSpace_dict['mods']):
+        if title.find('./{%s}nonSort' % nameSpace_dict['mods']) is not None and title.find('./{%s}title' % nameSpace_dict['mods']) is not None and title.find('./{%s}subTitle' % nameSpace_dict['mods']) is not None:
+            titleFull = title.find('./{%s}nonSort' % nameSpace_dict['mods']).text + ' ' + title.find('./{%s}title' % nameSpace_dict['mods']).text + ': ' + title.find('./{%s}subTitle' % nameSpace_dict['mods']).text
+        elif title.find('./{%s}nonSort' % nameSpace_dict['mods']) is not None and title.find('./{%s}title' % nameSpace_dict['mods']) is not None:
+            titleFull = title.find('./{%s}nonSort' % nameSpace_dict['mods']).text + ' ' + title.find('./{%s}title' % nameSpace_dict['mods']).text
+        else:
+            titleFull = title.find('./{%s}title' % nameSpace_dict['mods']).text
+        allTitles.append(titleFull)
+        return ' || '.join(allTitles)
+
+
 # logger to catch missing MODS files
 def testForMODS(directory):
     logging.basicConfig(filename='METScreateErrorLog.txt', level=logging.ERROR,
@@ -96,6 +110,7 @@ def buildMETS(directory, agent_dict):
             with open('MODS/' + directory + '.xml', 'r') as modsFile:
                 modsTree = etree.parse(modsFile)
                 modsRoot = modsTree.getroot()
+                mods_title = mods_title_generator(modsRoot, NS).split(' || ')[0]
                 xmlData.append(modsRoot)
         except FileNotFoundError:
             logging.error('No MODS for ' + directory + ' when building manifest.')
@@ -108,7 +123,7 @@ def buildMETS(directory, agent_dict):
                                      TYPE="physical")
         div1 = etree.SubElement(structMap, "{%s}div" % NS['mets'],
                                 DMDID="DMD1",
-                                LABEL="temp",
+                                LABEL=mods_title,
                                 ORDER="0",
                                 TYPE="main")
         div2 = etree.SubElement(div1, "{%s}div" % NS['mets'],
