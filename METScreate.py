@@ -117,7 +117,7 @@ def buildMETS(directory, agent_dict):
                                 TYPE="Main")
         # loop over files in directory & build fileSec & structMap children
         for image in sorted(os.listdir(directory)):
-            fileIndex = str(os.listdir(directory).index(image) + 1)
+            fileIndex = str(sorted(os.listdir(directory)).index(image) + 1)
             file = etree.SubElement(fileGrp, "{%s}file" % NS['mets'],
                                     GROUPID="G" + fileIndex,
                                     ID="TIF" + fileIndex,
