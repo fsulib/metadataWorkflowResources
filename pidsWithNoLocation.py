@@ -22,7 +22,7 @@ def analyse_for_locations(fileName):
     tree = etree.parse(fileName + '.xml')
     root = tree.getroot()
     for record in root.iterfind('.//{%s}mods' % NS['mods'] ):
-        if record.find('.//{%s}physicalLocation' %NS['mods'] ) is not None:
+        if record.find('.//{%s}physicalLocation' % NS['mods'] ) is not None:
             return
         else:
             print(fsudl_pid_search(record, NS))
