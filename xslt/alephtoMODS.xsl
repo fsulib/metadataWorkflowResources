@@ -7,7 +7,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="2.0" exclude-result-prefixes="xs xlink marc"
     xmlns:flvc="info:flvc/manifest/v1">
 
-    <xsl:include href="http://www.loc.gov/standards/marcxml/xslt/MARC21slimUtils.xsl"/>
+  <!--     <xsl:include href="http://www.loc.gov/standards/marcxml/xslt/MARC21slimUtils.xsl"/>  -->
 
     <xsl:output encoding="UTF-8" indent="yes" method="xml"/>
     <xsl:strip-space elements="*"/>
@@ -300,10 +300,7 @@
                     <flvc:submittingInstitution>FSU</flvc:submittingInstitution>
                 </flvc:flvc>
             </extension>
-            <accessCondition type='use and reproduction'>Use of this item is provided for non-commercial, personal, educational, and
-                research use only. For information about the copyright and reproduction rights for this
-                item, please contact Special Collections and Archives, Florida State University
-                Libraries, Tallahassee, Florida: https://www.lib.fsu.edu/department/special-collections-archives.</accessCondition>
+          <accessCondition type='use and reproduction'>Use of this item is provided for non-commercial, personal, educational, and research use only. Florida State University Libraries is providing access to these materials for educational and research purposes and makes no warranty with regard to their use for other purposes. The written permission of the copyright owners and/or other rights holders (such as holders of publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions (see Title 17, U.S.C.). For information about the copyright and reproduction rights for this item, please contact Special Collections &amp; Archives, Florida State University Libraries, Tallahassee, Florida: https://www.lib.fsu.edu/department/special-collections-archives.</accessCondition>
             <!--
             <xsl:if test="/marc:record">
                 <xsl:namespace name="">http://www.loc.gov/mods/v3</xsl:namespace>

@@ -16,10 +16,16 @@ from functools import partial
 def mods_title_generator(mods_record, nameSpace_dict):
     allTitles = []
     for title in mods_record.iterfind('.//{%s}titleInfo' % nameSpace_dict['mods']):
-        if title.find('./{%s}nonSort' % nameSpace_dict['mods']) is not None and title.find('./{%s}title' % nameSpace_dict['mods']) is not None and title.find('./{%s}subTitle' % nameSpace_dict['mods']) is not None:
-            titleFull = title.find('./{%s}nonSort' % nameSpace_dict['mods']).text + ' ' + title.find('./{%s}title' % nameSpace_dict['mods']).text + ': ' + title.find('./{%s}subTitle' % nameSpace_dict['mods']).text
-        elif title.find('./{%s}nonSort' % nameSpace_dict['mods']) is not None and title.find('./{%s}title' % nameSpace_dict['mods']) is not None:
-            titleFull = title.find('./{%s}nonSort' % nameSpace_dict['mods']).text + ' ' + title.find('./{%s}title' % nameSpace_dict['mods']).text
+        if title.find('./{%s}nonSort' % nameSpace_dict['mods']) is not None and title.find(
+                        './{%s}title' % nameSpace_dict['mods']) is not None and title.find(
+                    './{%s}subTitle' % nameSpace_dict['mods']) is not None:
+            titleFull = title.find('./{%s}nonSort' % nameSpace_dict['mods']).text + ' ' + title.find(
+                './{%s}title' % nameSpace_dict['mods']).text + ': ' + title.find(
+                './{%s}subTitle' % nameSpace_dict['mods']).text
+        elif title.find('./{%s}nonSort' % nameSpace_dict['mods']) is not None and title.find(
+                        './{%s}title' % nameSpace_dict['mods']) is not None:
+            titleFull = title.find('./{%s}nonSort' % nameSpace_dict['mods']).text + ' ' + title.find(
+                './{%s}title' % nameSpace_dict['mods']).text
         else:
             titleFull = title.find('./{%s}title' % nameSpace_dict['mods']).text
         allTitles.append(titleFull)
