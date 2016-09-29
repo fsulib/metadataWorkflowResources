@@ -36,7 +36,7 @@ def mods_title_generator(mods_record, nameSpace_dict):
 def testForMODS(directory):
     logging.basicConfig(filename='METScreateErrorLog.txt', level=logging.ERROR,
                         format='%(asctime)s -- %(levelname)s : %(message)s',
-                        datefmt='%m/%d/%Y &H:%M:%S %p')
+                        datefmt='%m/%d/%Y %H:%M:%S %p')
 
 
 # build manifest file
