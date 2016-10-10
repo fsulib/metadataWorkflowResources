@@ -43,7 +43,7 @@ with open(sys.argv[1] + "out", 'w') as out_file:
                     new_identifier = etree.SubElement(mods_root, "{%s}identifier" % nameSpace_default['mods'], type="fedora")
                     new_identifier.text = PID
                     edit_record_count = edit_record_count + 1
-        out_file.write(etree.tostring(root, pretty_print=True,
+    out_file.write(etree.tostring(root, pretty_print=True,
                                          xml_declaration=True,
                                          encoding="UTF-8",
                                          standalone=False).decode('utf-8'))
