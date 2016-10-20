@@ -32,6 +32,11 @@ def getRecords(pidFile):
         metadata_out.write(request_metadata.text)
         metadata_out.close()
         
+        # check if children might be present
+        request_RELS_EXT = requests.get('https://fsu.digital.flvc.org/islandora/object/{0}/datastream/RELS-EXT/view'.format(pid))
+        if 'rdf:resource="info:fedora/islandora:compoundCModel"' in request_RELS_EXT.text:
+            logging.warning('Compound object; check for children - {0}'.format(pid))
+        
         try:
             # first ask for OBJ datastream
             request_OBJ = requests.get('https://fsu.digital.flvc.org/islandora/object/{0}/datastream/OBJ/download'.format(pid))
