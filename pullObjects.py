@@ -6,13 +6,6 @@ import datetime
 import sys
 import os
 
-'''
-    Testing PIDs with notes:
-        fsu:73090  # OBJ object
-        fsu:277457 # PDF object
-        fsu:310190 # embargoed
-        fsu:274046 # supplements
-'''
 
 def getRecords(pidFile):
     
@@ -36,6 +29,7 @@ def getRecords(pidFile):
         request_RELS_EXT = requests.get('https://fsu.digital.flvc.org/islandora/object/{0}/datastream/RELS-EXT/view'.format(pid))
         if 'rdf:resource="info:fedora/islandora:compoundCModel"' in request_RELS_EXT.text:
             logging.warning('Compound object; check for children - {0}'.format(pid))
+            continue
         
         try:
             # first ask for OBJ datastream
