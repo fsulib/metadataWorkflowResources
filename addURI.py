@@ -9,7 +9,7 @@ import requests
 from lxml import etree
 from bs4 import BeautifulSoup
 
-sys.path.append('assets/')
+sys.path.append('addURI/assets/')
 import clean_up
 from pymods import mods
 
