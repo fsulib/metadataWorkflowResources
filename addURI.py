@@ -67,7 +67,7 @@ class get_subject_parts:
                 use_instead = authority_div.find('h3', text="Use Instead")        
                 variant_URI = use_instead.find_next('a').text                          
                 # try again with "Use Instead" url
-                subject_heading = get_subject_parts.tgm_simple(requests.get(variant_URI, timeout=5))[1]
+                subject_heading = get_subject_parts.lcsh_simple(requests.get(variant_URI, timeout=5))[1]
                 subject_uri = variant_URI                
             
         return subject_uri, subject_heading       
