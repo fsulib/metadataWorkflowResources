@@ -38,7 +38,7 @@ logging.basicConfig(filename='addURI_LOG{0}.txt'.format(datetime.date.today()),
 
 # loop over MODS record list returned by pymods.mods.load                    
 for record in mods.load(sys.argv[1]):
-    record_write = False
+    record_write = True
     appending_subjects = []
 
     # check timeout index
@@ -48,7 +48,7 @@ for record in mods.load(sys.argv[1]):
 
         # loops over keywords 
         for subject in get_subject_list(record): 
-            
+
             if '--' not in subject:
                 
                 try:
