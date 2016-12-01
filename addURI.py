@@ -7,7 +7,7 @@ import logging
 import datetime
 import requests
 
-sys.path.append('addURI/assets/')
+sys.path.append('metadataWorkflowResources/assets/')
 
 import clean_up
 import lc_vocab
@@ -47,7 +47,6 @@ for record in mods.load(sys.argv[1]):
         # loops over keywords 
         for keyword in get_keyword_list(record): 
             URI_search = lc_vocab.uri_lookup(keyword, record_PID)
-            print(keyword)
 
             try:
             
@@ -88,6 +87,7 @@ for record in mods.load(sys.argv[1]):
         lc_vocab.write_record_subjects(record, appending_subjects, record_PID)
     
 # clean up namespace prefixes for diginole
+print("\nCleaning up.\n")
 clean_up.clean('improvedMODS/')
 
 # indicate errors were logged 
