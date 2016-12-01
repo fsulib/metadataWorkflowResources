@@ -7,7 +7,7 @@ import logging
 import datetime
 import requests
 
-sys.path.append('metadataWorkflowResources/assets/')
+sys.path.append('addURI/assets/')
 
 import clean_up
 import lc_vocab
@@ -46,21 +46,26 @@ for record in mods.load(sys.argv[1]):
 
         # loops over keywords 
         for keyword in get_keyword_list(record): 
+            URI_search = lc_vocab.uri_lookup(keyword, record_PID)
+            print(keyword)
 
             try:
             
                 # TGM subject found
-                if lc_vocab.uri_lookup.tgm(keyword, record_PID) is not None:
-                    appending_subjects.append({'tgm': lc_vocab.uri_lookup.tgm(keyword, record_PID)}) 
+                if URI_search.tgm() is not None:
+                    appending_subjects.append({'tgm': URI_search.tgm()}) 
+                    LOC_try_index = 0
                     record_write = True
                     
                 # LCSH subject found
-                elif lc_vocab.uri_lookup.lcsh(keyword, record_PID) is not None:
-                    appending_subjects.append({'lcsh_simple': lc_vocab.uri_lookup.lcsh(keyword, record_PID)}) #need heading & type
+                elif URI_search.lcsh() is not None:
+                    appending_subjects.append({'lcsh_simple': URI_search.lcsh()}) #need heading & type
+                    LOC_try_index = 0
                     record_write = True
                 
                 # no subject found
                 else:
+                    error_log = True
                     pass
                     
             # catch timeout exception and increase timeout index        

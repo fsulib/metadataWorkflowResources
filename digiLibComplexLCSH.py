@@ -48,18 +48,21 @@ for record in mods.load(sys.argv[1]):
 
         # loops over keywords 
         for subject in get_subject_list(record): 
+            URI_search = lc_vocab.uri_lookup(subject, record_IID)
 
             if '--' not in subject:
                 
                 try:
                         
                     # LCSH simple
-                    if lc_vocab.uri_lookup.lcsh(subject, record_IID) is not None:
-                        appending_subjects.append({'lcsh_simple': lc_vocab.uri_lookup.lcsh(subject, record_IID)}) #need heading & type
+                    if URI_search.lcsh() is not None:
+                        appending_subjects.append({'lcsh_simple': URI_search.lcsh()}) #need heading & type
+                        LOC_try_index = 0                        
                         record_write = True
                     
                     # no subject found
                     else:
+                        error_log = True
                         pass
             
                 # catch timeout exception and increase timeout index
@@ -72,12 +75,14 @@ for record in mods.load(sys.argv[1]):
                 try: 
                     
                     # LCSH complex
-                    if lc_vocab.uri_lookup.lcsh_complex(subject, record_IID) is not None:
-                        appending_subjects.append({'lcsh_complex': lc_vocab.uri_lookup.lcsh_complex(subject, record_IID)}) #need heading & type
+                    if URI_search.lcsh_complex() is not None:
+                        appending_subjects.append({'lcsh_complex': URI_search.lcsh_complex()}) #need heading & type
+                        LOC_try_index = 0
                         record_write = True
                     
                     # no subject found
                     else:
+                        error_log = True
                         pass
                 
                 # catch timeout exception and increase timeout index

@@ -123,83 +123,81 @@ def write_record_subjects(record, subjects, PID):
         
 class uri_lookup:
 
+    def __init__(self, term, record_ID):
+        self.term = term
+        self.id = record_ID
+
     #TGM
-    def tgm(keyword, record_PID):
+    def tgm(self, keyword=None, record_PID=None):
+        if keyword is None:
+            keyword = self.term
+        if record_PID is None:
+            record_PID = self.id
     
-        global LOC_try_index
-        global error_log
         tgm_lookup = requests.get('http://id.loc.gov/vocabulary/graphicMaterials/label/{0}'.format(keyword.replace(' ','%20')),
                                    timeout=5)
         # request successful                           
         if tgm_lookup.status_code == 200:
-            LOC_try_index = 0
             return lc_subject.tgm_simple(tgm_lookup)
         # 404    
         elif tgm_lookup.status_code == 404:
             logging.warning('404 - resource not found ; [{0}]--{1}'.format(record_PID, 'tgm:' + keyword))
-            error_log = True
             return None
         # 503 (probably wait... but haven't caught one of these yet)    
         elif tgm_lookup.status_code == 503:
             logging.info('503 - {0} ; [{1}]--{2}'.format(tgm_lookup.headers, record_PID, 'tgm:' + keyword))
-            error_log = True
             return None
         # anything else
         else:
             logging.warning('Other status code - {0} ; [{1}]--{2}'.format(tgm_lookup.status_code, record_PID, 'tgm:' + keyword))
-            error_log = True
             return None
     
     #LCSH simple
-    def lcsh(keyword, record_PID):
+    def lcsh(self, keyword=None, record_PID=None):
+        if keyword is None:
+            keyword = self.term
+        if record_PID is None:
+            record_PID = self.id
 
-        global LOC_try_index
-        global error_log
         lcsh_lookup = requests.get('http://id.loc.gov/authorities/subjects/label/{0}'.format(keyword.replace(' ','%20')),
                                     timeout=5)
         # request successful
         if lcsh_lookup.status_code == 200:
-            LOC_try_index = 0
             return lc_subject.lcsh_simple(lcsh_lookup)
         # 404
         elif lcsh_lookup.status_code == 404:
             logging.warning('404 - resource not found ; [{0}]--{1}'.format(record_PID, 'lcsh:' + keyword))
-            error_log = True
             return None
         # 503 (probably wait... but haven't caught one of these yet)
         elif lcsh_lookup.status_code == 503:
             logging.info('503 - {0} ; [{1}]--{2}'.format(tgm_lookup.headers, record_PID, 'lcsh:' + keyword))
-            error_log = True
             return None
         # anything else
         else:
             logging.warning('Other status code - {0} ; [{1}]--{2}'.format(tgm_lookup.status_code, record_PID, 'lcsh:' + keyword))
-            error_log = True
             return None
             
     #LCSH complex
-    def lcsh_complex(keyword, record_PID):
+    def lcsh_complex(self, keyword=None, record_PID=None):
+        if keyword is None:
+            keyword = self.term
+        if record_PID is None:
+            record_PID = self.id
 
-        global LOC_try_index
-        global error_log
         lcsh_lookup = requests.get('http://id.loc.gov/authorities/subjects/label/{0}'.format(keyword.replace(' ','%20')),
                                     timeout=5)
         # request successful
         if lcsh_lookup.status_code == 200:
-            LOC_try_index = 0
             return lc_subject.lcsh_complex(lcsh_lookup)
         # 404
         elif lcsh_lookup.status_code == 404:
             logging.warning('404 - resource not found ; [{0}]--{1}'.format(record_PID, 'lcsh:' + keyword))
-            error_log = True
             return None
         # 503 (probably wait... but haven't caught one of these yet)
         elif lcsh_lookup.status_code == 503:
             logging.info('503 - {0} ; [{1}]--{2}'.format(tgm_lookup.headers, record_PID, 'lcsh:' + keyword))
-            error_log = True
             return None
         # anything else
         else:
             logging.warning('Other status code - {0} ; [{1}]--{2}'.format(tgm_lookup.status_code, record_PID, 'lcsh:' + keyword))
-            error_log = True
             return None
