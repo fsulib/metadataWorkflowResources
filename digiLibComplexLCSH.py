@@ -24,7 +24,8 @@ def get_subject_list(record):
         if 'authority' in subject.attrib.keys():
             if 'lcsh' == subject.attrib['authority']:
                 for child in subject.iterchildren():
-                    subject_list.append(child.text.replace(u'\u2014', '--').replace(u'\u2013', '--'))
+                    for term in child.text.split('||'):
+                        subject_list.append(term.replace(u'\u2014', '--').replace(u'\u2013', '--'))
                 # remove subjects that will be checked & re-added
                 record.remove(subject)
     return subject_list

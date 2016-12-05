@@ -64,18 +64,42 @@ def mods_title_generator(mods_record, nameSpace_dict):
         allTitles.append(titleFull)
         return ' || '.join(allTitles)
     
-def mods_date_generator(mods_record, nameSpace_dict):
-    if mods_record.find('./{%s}originInfo/{%s}copyrightDate' % (nameSpace_dict['mods'], nameSpace_dict['mods'])) is not None:
-        date = mods_record.find('./{%s}originInfo/{%s}copyrightDate' % (nameSpace_dict['mods'], nameSpace_dict['mods'])).text
-    elif mods_record.find('./{%s}originInfo/{%s}dateCreated' % (nameSpace_dict['mods'], nameSpace_dict['mods'])) is not None:
-        date = mods_record.find('./{%s}originInfo/{%s}dateCreated' % (nameSpace_dict['mods'], nameSpace_dict['mods'])).text
-    elif mods_record.find('./{%s}originInfo/{%s}dateIssued' % (nameSpace_dict['mods'], nameSpace_dict['mods'])) is not None:
-        date = mods_record.find('./{%s}originInfo/{%s}dateIssued' % (nameSpace_dict['mods'], nameSpace_dict['mods'])).text
-    elif mods_record.find('./{%s}originInfo/{%s}dateOther' % (nameSpace_dict['mods'], nameSpace_dict['mods'])) is not None:
-        date = mods_record.find('./{%s}originInfo/{%s}dateOther' % (nameSpace_dict['mods'], nameSpace_dict['mods'])).text
-    else:
-        date = "No date"
-    return date
+def mods_date_generator(mods_record, nameSpace_default):
+    date_list = ['{%s}dateIssued' % nameSpace_default['mods'],
+                 '{%s}dateCreated' % nameSpace_default['mods'],
+                 '{%s}copyrightDate' % nameSpace_default['mods'],
+                 '{%s}dateOther' % nameSpace_default['mods']]
+    ignore_list = ['{%s}place' % nameSpace_default['mods'],
+                   '{%s}publisher' % nameSpace_default['mods'],
+                   '{%s}dateCaptured' % nameSpace_default['mods'],
+                   '{%s}dateValid' % nameSpace_default['mods'],
+                   '{%s}dateModified' % nameSpace_default['mods'],
+                   '{%s}edition' % nameSpace_default['mods'],
+                   '{%s}issuance' % nameSpace_default['mods'],
+                   '{%s}frequency' % nameSpace_default['mods']]
+    if mods_record.find('./{%s}originInfo' % nameSpace_default['mods']) is not None:
+        origin_info = mods_record.find('./{%s}originInfo' % nameSpace_default['mods'])
+        date = None
+        for child in origin_info.iterchildren():
+            if child.tag in date_list:
+                # date range
+                if 'point' in child.attrib.keys():
+                    if child.attrib['point'] == 'start':
+                        if date is None:
+                            date = child.text
+                        else:
+                            date = child.text + ' - ' + date
+                    elif child.attrib['point'] == 'end':
+                        if date is None:
+                            date = child.text
+                        else:
+                            date = date + ' - ' + child.text
+                # single date
+                else:
+                    date = child.text
+            elif child.tag in ignore_list:
+                pass
+        return date
   
 def fsudl_purl_search(mods_record, nameSpace_dict):
     purl = re.compile('((https?):((//)|(\\\\))+([\w\d:#@%/;$()~_?\+-=\\\.&](#!)?)*)')
