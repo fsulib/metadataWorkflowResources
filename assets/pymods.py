@@ -34,8 +34,11 @@ class MODS(MODSReader):
         """
         super(MODS, self).__init__(input_file)
         record_list = []
-        for mods_record in self.root.iterfind('.//{0}mods'.format(nameSpace_default['mods'])):
-            record_list.append(mods_record)
+        if self.root.tag == '{0}mods'.format(nameSpace_default['mods']):
+            record_list.append(self.root)
+        else:
+            for mods_record in self.root.iterfind('.//{0}mods'.format(nameSpace_default['mods'])):
+                record_list.append(mods_record)
         self.record_list = record_list
 
     def abstract(record):
@@ -61,6 +64,13 @@ class MODS(MODSReader):
             return all_abstracts
         else:
             return None
+            
+    def classification(record):
+        if record.find('./{0}classification'.format(nameSpace_default['mods'])) is not None:
+            classification = record.find('./{0}classification'.format(nameSpace_default['mods'])).text
+        else:
+            classification = None
+        return classification
 
     def date_constructor(record):
         """
