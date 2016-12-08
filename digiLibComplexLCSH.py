@@ -11,7 +11,7 @@ from lxml import etree
 sys.path.append('metadataWorkflowResources/assets/')
 
 import lc_vocab
-from pymods import mods, fsudl
+from pymods import MODS, FSUDL
 
 
 LOC_try_index = 0                     
@@ -38,13 +38,13 @@ logging.basicConfig(filename='addURI_LOG{0}.txt'.format(datetime.date.today()),
                     datefmt='%m/%d/%Y %H:%M:%S %p')
 
 # loop over MODS record list returned by pymods.mods.load                    
-for record in mods.load(sys.argv[1]):
+for record in MODS(sys.argv[1]).record_list:
     record_write = True
     appending_subjects = []
 
     # check timeout index
     while LOC_try_index <= 5:
-        record_IID = fsudl.local_identifier(record)
+        record_IID = FSUDL.local_identifier(record)
         print("Checking:", record_IID)
 
         # loops over keywords 

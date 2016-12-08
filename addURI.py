@@ -11,7 +11,7 @@ sys.path.append('metadataWorkflowResources/assets/')
 
 import clean_up
 import lc_vocab
-from pymods import mods
+from pymods import MODS
 
 
 LOC_try_index = 0                     
@@ -35,7 +35,7 @@ logging.basicConfig(filename='addURI_LOG{0}.txt'.format(datetime.date.today()),
                     datefmt='%m/%d/%Y %H:%M:%S %p')
 
 # loop over MODS record list returned by pymods.mods.load                    
-for record in mods.load(sys.argv[1]):
+for record in MODS(sys.argv[1]).record_list:
     record_write = False
     appending_subjects = []
 
