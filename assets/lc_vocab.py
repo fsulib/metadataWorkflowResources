@@ -110,8 +110,7 @@ def write_record_subjects(record, subjects, PID):
                                         authorityURI=appending_subject['lcsh_complex']['URI'][0:38],
                                         valueURI=appending_subject['lcsh_complex']['URI'])
                 for part in appending_subject['lcsh_complex']['parts']:
-#                    print(part)
-                
+                                    
                     for type, term in part.items():
                         child = etree.SubElement(subject, '{%s}%s' % ( nameSpace_default['mods'], type ),)
                         child.text = term

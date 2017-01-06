@@ -11,7 +11,7 @@ sys.path.append('metadataWorkflowResources/assets/')
 
 import clean_up
 import lc_vocab
-from pymods import MODS
+from pymods import MODS, FSUDL
 
 
 LOC_try_index = 0                     
@@ -20,7 +20,7 @@ error_log = False
 def get_keyword_list(record):
     # generate keywords from note@displayLabel="Keywords" element
     keywords = []
-    for note in mods.note(record):
+    for note in MODS.note(record):
         if isinstance(note, dict):
             if 'Keywords' in note.keys():
                 for keyword in note['Keywords'].split(','):
@@ -34,14 +34,14 @@ logging.basicConfig(filename='addURI_LOG{0}.txt'.format(datetime.date.today()),
                     format='%(asctime)s -- %(levelname)s : %(message)s',
                     datefmt='%m/%d/%Y %H:%M:%S %p')
 
-# loop over MODS record list returned by pymods.mods.load                    
+# loop over MODS record list returned by pymods MODS loader
 for record in MODS(sys.argv[1]).record_list:
     record_write = False
     appending_subjects = []
 
     # check timeout index
     while LOC_try_index <= 5:
-        record_PID = mods.pid_search(record)
+        record_PID = FSUDL.pid_search(record)
         print("Checking:", record_PID)
 
         # loops over keywords 
