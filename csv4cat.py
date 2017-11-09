@@ -45,7 +45,7 @@ def archon(fileName, collNum, series):
         for record in mods.record_list:
             data = [collNum, str(series), "", "", "", str(itemNumber)]
             #title
-            data.append(MODS.title_constructor(record))
+            data.append(MODS.title_constructor(record)[0])
             #date
             data.append(MODS.date_constructor(record))
             #PURL
