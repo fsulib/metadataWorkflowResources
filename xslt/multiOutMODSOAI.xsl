@@ -12,7 +12,7 @@
     
     <xsl:template match="/">
         <xsl:for-each select="//mods:mods">
-            <xsl:variable name="filename" select="concat('MODS/',translate(translate(mods:identifier[@type='uri'],' &#x9;&#xa;&#xd;.',''),' &#x9;&#xa;&#xd;.',''),'-',mods:recordInfo/mods:recordIdentifier,'.xml')" />
+            <xsl:variable name="filename" select="concat('MODS/',translate(translate(mods:identifier[@type='fedora'],' &#x9;&#xa;&#xd;.',''),' &#x9;&#xa;&#xd;.',''),'.xml')" />
             <xsl:value-of select="$filename" />
             <xsl:result-document href="{$filename}" format="xml">
                 <xsl:copy-of select="." />
