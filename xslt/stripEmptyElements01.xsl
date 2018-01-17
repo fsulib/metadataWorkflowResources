@@ -6,7 +6,7 @@
 <!-- This stylesheet removes empty elements and elements given the value of 'null' by OpenRefine. -->
     <xsl:output method="xml" version="1.0" byte-order-mark="no" encoding="UTF-8" indent="yes" />
     <xsl:template match="node()|@*">
-        <xsl:if test="normalize-space(string(.)) != '' and normalize-space(string(.)) != 'null'">
+        <xsl:if test="normalize-space(string(.)) != '' and normalize-space(string(.)) != 'null' and normalize-space(string(.)) != 'null null'">
             <xsl:copy>
                 <xsl:apply-templates select="node()|@*" />
             </xsl:copy>

@@ -1,0 +1,1067 @@
+The file LICENSE.md contains:
+The MIT License (MIT)
+
+Copyright (c) 2013 Mark Phillips
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+The file setName.txt contains:
+setName=(Academic Life Alumni Collections Art Gallery Art on Campus Artist Series Audio Recordings Audiovisual Materials Barbara Boling Anderson Collection, 1947-1950 Books on the Caribbean Browse Collections Cal and Mary Jane Koesy Collection, 1944-1952 Caribbean Collections Carmine Regna Collection, ca. 1949-1954 Carolyne Doyle Richardson Scrapbook, ca. 1926 Center for Innovative Collaboration in Medicine and Law Center for Ocean-Atmospheric Prediction Studies Center for the Study of Technology in Counseling and Career Development Charles H. Walker Collection, 1952-1953 Charles R. Mathews Papers on Medicare Implementation Civil War Era Materials Class Schedules Claude Pepper Papers Club Downunder Posters College and Graduate School Publications College of Arts and Sciences College of Arts and Sciences College of Communication and Information College of Criminology and Criminal Justice College of Education College of Engineering College of Fine Arts College of Human Sciences College of Medicine College of Social Science and Public Policy College of Social Work Combinatorics Commencement Confederate Sheet Music Collection Conferences and Workshops Cuneiform Tablet Collection Department of Anthropology Department of Art Education Department of Art Education Department of Art History Department of Art History Department of Behavioral Sciences and Social Medicine Department of Biomedical Sciences Department of Chemistry and Biochemistry Department of Civil and Environmental Engineering Department of Classics Department of Clinical Sciences Department of Earth, Ocean and Atmospheric Science Department of Educational Leadership and Policy Studies Department of Educational Psychology and Learning Systems Department of English Department of Family Medicine and Rural Health Department of Geography Department of Geriatrics Department of History Department of Mathematics Department of Nutrition, Food and Exercise Sciences Department of Physics Department of Psychology Department of Religion Department of Urban and Regional Planning Doak S. Campbell Collection Don Fauls Collection, 1950s-1970s Donald DeGraffenreid Pickett Collection, 1958-1959 Earl Lynn Vance Collection, 1928-1974 Edward Lear's Book of Nonsense Electronic Theses and Dissertations 2003-present Elizabeth Byrd Taylor Scrapbook, ca. 1922-1926 Enrollment Examination Schedules FSU Coastal and Marine Laboratory FSU Historic Photographs FSU Lives: Portal to the Past, Prologue to the Future Faculty Collections Florida Center for Reading Research Florida Handbooks Florida History and Heritage Florida State College for Women (1905-1947) Florida State University (1947-) Florida State University Bulletins Florida State University Yearbooks Flying High Circus Flying High Circus Photographs Football French Revolution Collection on Camille Desmoulins, Lucile Duplesis, and Arthur Dillon, 1702-1876 Giles O. and Anicia Aleman Lofton Collection, ca. 1947-1950 Graduate Bulletin Gymkana Harrison Sayre Circus Collection Heritage Protocol & University Archives Herman Kurz Collection, ca. 1923-1948 Homecoming Investiture Ceremonies J. Barry Mittan Photograph Collection, 1965-1971 Jack Miles Photograph Collection, ca. 1950-1955 Jean Marshick F Club Scrapbook, 1957-1958 Jewell Genevieve Cooper Scrapbook, ca. 1924-1930 Jim and Betty Lou Joanos Collection, 1909-1957 Joan Cunningham Collection, 1953-1957 Juvenile Literature Kathrine Park Scrapbook, ca. 1920s L. Janet Wells Scrapbook Collection, 1938-1942 Laura Quayle Benson Scrapbook, 1917-1919 Lecture Programs Lillian M. Mandyck Photograph Album, ca. 1947-1951 Lillian M. Mandyck Photograph Album, ca. 1947-1951 Maguire Medical Library Manuscript Materials Manuscripts Maps of the Caribbean, 1584-1845 Marching Chiefs Marie Elston Scrapbook, ca. 1927-1929 Marion Laura Stine Collection, 1917-1921 Marjorie Fogarty Lee Collection, 1948-1952 Martha Ellen Hackl Eilertsen Collection, ca. 1940-1943 Mary Alice Hunt Collection, 1946-1992 Mary Cobb Nelson Scrapbook, 1923-1952 Mary Ellerbe Williams Photograph Collection, ca. 1958-1959 Mary Ellerbe Williams Photograph Collection, ca. 1958-1959 Mary Gallant Collection, ca. 1935-1965 Mary Leora Singeltary Collection, 1919-1923 Mary Lou Norwood Collection, 1941-2007 Mary Tarver Willis Photograph Collection, 1947-1951 Mary Tarver Willis Photograph Collection, 1947-1951 Mode L. Stone Collection Musical Performances Napoleonic Collections Panhellenic Rushing Rules Pat Arrants Collection 1955-1958 Paul A.M. Dirac Collection Peggy Barker Teague Collection, 1939-1943 Philomene Asher Gates Collection, 1934-1938 Photographs Photographs Photographs Photographs Poetry during World War I Polynomial Equations Postcards Posters Pow Wow Student Handbooks President Stanley Marshall Collection, 1969-1976 President's Report Research Centers and Institutes Retrospective Theses and Dissertations 1952-2002 Richard Kurras Collection, ca. 1951-1952 Robert G. McKenzie Photograph Collection, 1950 Robert G. McKenzie Photograph Collection, 1950 Sam Lamar Collection, 1938-2005 Sara Culbreth Cooper Collection, 1947-1950 Sarah Henderson Wilder Collection, ca. 1928 School of Art and Design School of Business School of Dance School of Education School of Home Economics School of Information School of Journalism School of Library Training and Service School of Nursing School of Public Administration School of Social Welfare School of Teacher Education Scrapbooks Scrapbooks Series A: Claude Pepper Photographs Series B: Claude Pepper in Groups Series C: Claude and Mildred Pepper Photographs Series D: Pepper and Webster Family Photographs Series E: Other People Series F: Places Series G: Mildred Pepper Photographs Special Collections Research Guides Student and Campus Life Sue Herndon McCollum Collection, 1952-1957 The Poetry of Sacred Song Theater and Dance Performances Theses and Dissertations Thomas A. Williams Collection, 1954-1957 Undergraduate Bulletin Undergraduate Honors Theses Undergraduate Research University Libraries University Libraries Victoria J. Lewis Scrapbook, 1940-1944 William Smith Collection, ca. 1951-1955 Yearbooks )
+The file setSpec.txt contains:
+setList=(fsu_acadlifemain fsu_fsualumni fsu_avf50 fsu_artoncampusmain fsu_aas50 fsu_claudepepperaudio fsu_hpuamultimedia fsu_fsubbandersoncol fsu_caribbeanbooks fsu_root fsu_fsucmjkoesycol fsu_caribbeancolmain fsu_fsucregnacol fsu_fscwcdrichardsonscrap fsu_center_for_innovative_collaboration_in_medicine_and_law fsu_center_for_ocean_atmospheric_prediction_studies fsu_center_for_tech_in_counseling_and_career_development fsu_chwalkercol fsu_peppermathewspapers fsu_civilwarmain fsu_flc50 fsu_claudepeppermaincollection fsu_hpclubdownunder fsu_colgradschpubsmain fsu_afs50 fsu_college_of_arts_and_sciences fsu_college_of_communication_and_information fsu_college_of_criminology_and_criminal_justice fsu_college_of_education fsu_college_of_engineering fsu_college_of_fine_arts fsu_college_of_human_sciences fsu_college_of_medicine fsu_college_of_social_science_and_public_policy fsu_college_of_social_work fsu_diraccombinatorics fsu_fce06 fsu_ml_confederate fsu_acw50 fsu_cuniformtablets fsu_department_of_anthropology fsu_department_of_art_education fsu_department_art_education fsu_department_art_history fsu_department_of_art_history fsu_department_of_behavioral_sciences_and_social_medicine fsu_department_of_biomedical_sciences fsu_department_of_chemistry_and_biochemistry fsu_department_of_civil_and_environmental_engineering fsu_department_of_classics fsu_department_of_clinical_sciences fsu_department_of_earth_ocean_and_atmospheric_science fsu_department_of_educational_leadership_and_policy_studies fsu_department_of_educational_psychology_and_learning_systems fsu_department_of_english fsu_department_of_family_medicine_and_rural_health fsu_department_of_geography fsu_department_of_geriatrics fsu_department_of_history fsu_department_of_mathematics fsu_department_of_nutrition_food_and_exercise_sciences fsu_department_of_physics fsu_department_of_psychology fsu_department_of_religion fsu_department_of_urban_and_regional_planning fsu_fsucampbellcollection fsu_fsudfaulscol fsu_fsuddpickettcol fsu_fsuelvancecol fsu_learcollection fsu_modernetds fsu_fscwebtaylorscrap fsu_ave50 fsu_aes50 fsu_fsu_coastal_and_marine_laboratory fsu_fsuhistphotos fsu_fsulivesmain fsu_fsufaculty fsu_florida_center_for_reading_research fsu_floridahandbooks fsu_floridahh fsu_fscwmain fsu_hpfsumain fsu_fsubulletins fsu_yearbooks fsu_avc50 fsu_fsuflyinghighcircusphotos fsu_football50 fsu_nap01 fsu_fsugoaaloftoncol fsu_fgb04 fsu_afg50 fsu_sayrecircus fsu_hpmain fsu_fscwhkurzcol fsu_avh50 fsu_fsi07 fsu_fsujbmittanphotos fsu_fsujmilesphotos fsu_fsujmarshickscrap fsu_fscwjgcooperscrap fsu_fsujbljoanoscol fsu_fsujcunninghamcol fsu_juvlit fsu_fscwkparkscrap fsu_fscwljwellsscrap fsu_fscwlqbensonscrap fsu_afl55 fsu_lmmandyckalbum fsu_fsulmmandyckphotos fsu_maguire_medical_library fsu_claudepeppermanuscripts fsu_civilwarmanuscripts fsu_caribbeanmaps fsu_avm50 fsu_fscwmelstonscrap fsu_fscwmlstinecol fsu_fsumfleecol fsu_fscwmeheilertsencol fsu_fsumahuntcol fsu_fscwmcnelsonscrap fsu_mewilliamsphotos fsu_fsumewilliamsphotos fsu_fsumgallantcol fsu_fscwmlsingeltarycol fsu_fscwmlnorwoodcol fsu_mtwillisphotos fsu_fsumtwillisphotos fsu_fsumlstonecol fsu_amp55 fsu_napcolmain fsu_avp51 fsu_fsuparrantscol fsu_diraccol fsu_fscwpbteaguecol fsu_fscwpagatescol fsu_claudepepperphotos fsu_fscwphotosmain fsu_fsuphotosmain fsu_spc12 fsu_wwipoetry fsu_diracpolyequations fsu_fscwpostcards fsu_spc11 fsu_fsp50 fsu_fsupresmarshallcol fsu_fsr50 fsu_research_centers_and_institutes fsu_retroetds fsu_fsurkurrascol fsu_rgmckenziephotos fsu_fsurgmckenziephotos fsu_fsuslamarcol fsu_fsusccoopercol fsu_fscwshwildercol fsu_school_of_art_and_design fsu_asb50 fsu_schoolofdance fsu_ave52 fsu_fhe55 fsu_school_of_information fsu_asj50 fsu_alp55 fsu_avn50 fsu_apa55 fsu_asw55 fsu_school_of_teacher_education fsu_fscwscrapbooks fsu_fsuscrapbooks fsu_seriesapepperphotos fsu_seriesbpepperphotos fsu_seriescpepperphotos fsu_seriesdpepperphotos fsu_claudepepperphotosseriesE fsu_seriesfpepperphotos fsu_seriesgpepperphotos fsu_spcresearchguides fsu_stucamplifemain fsu_fsushmccollumcol fsu_shawsacredsongs fsu_avd50 fsu_thesesanddissertationsmain fsu_fsutawilliamscol fsu_fub05 fsu_undergradhonors fsu_undergraduate_research fsu_fsulibrariesphotos fsu_university_libraries fsu_fscwvjlewisscrap fsu_fsuwsmithcol fsu_fsy50 )
+The file setSpec.xml contains:
+<repository xmlns:oai_dc="http://www.openarichives.org/OAI/2.0/oai_dc/" 	 xmlns:dc="http://purl.org/dc/elements/1.1/" 	 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<set><setSpec>fsu_acadlifemain</setSpec><setName>Academic Life</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Academic Life</dc:title>
+  <dc:identifier>fsu:acadlifemain</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_fsualumni</setSpec><setName>Alumni Collections</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Alumni Collections</dc:title>
+  <dc:identifier>fsu:fsualumni</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_avf50</setSpec><setName>Art Gallery</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Art Gallery</dc:title>
+  <dc:identifier>fsu:avf50</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_artoncampusmain</setSpec><setName>Art on Campus</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Art on Campus</dc:title>
+  <dc:identifier>fsu:artoncampusmain</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_aas50</setSpec><setName>Artist Series</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Artist Series</dc:title>
+  <dc:identifier>fsu:aas50</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_claudepepperaudio</setSpec><setName>Audio Recordings</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Audio Recordings</dc:title>
+  <dc:identifier>fsu:claudepepperaudio</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_hpuamultimedia</setSpec><setName>Audiovisual Materials</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Multimedia</dc:title>
+  <dc:identifier>fsu:hpuamultimedia</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_fsubbandersoncol</setSpec><setName>Barbara Boling Anderson Collection, 1947-1950</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Barbara Bolling Anderson Collection, 1947-1950</dc:title>
+  <dc:identifier>fsu:fsubbandersoncol</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_caribbeanbooks</setSpec><setName>Books on the Caribbean</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Books on the Caribbean</dc:title>
+  <dc:identifier>fsu:caribbeanbooks</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_root</setSpec><setName>Browse Collections</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>FSU Repository</dc:title>
+  <dc:identifier>fsu:root</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_fsucmjkoesycol</setSpec><setName>Cal and Mary Jane Koesy Collection, 1944-1952</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Cal and Mary Jane Koesy Collection, 1944-1952</dc:title>
+  <dc:identifier>fsu:fsucmjkoesycol</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_caribbeancolmain</setSpec><setName>Caribbean Collections</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Caribbean Collections</dc:title>
+  <dc:identifier>fsu:caribbeancolmain</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_fsucregnacol</setSpec><setName>Carmine Regna Collection, ca. 1949-1954</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Carmine Regna Collection, ca. 1949-1954</dc:title>
+  <dc:identifier>fsu:fsucregnacol</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_fscwcdrichardsonscrap</setSpec><setName>Carolyne Doyle Richardson Scrapbook, ca. 1926</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Carolyne Doyle Richardson Scrapbook, ca. 1926</dc:title>
+  <dc:identifier>fsu:fscwcdrichardsonscrap</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_center_for_innovative_collaboration_in_medicine_and_law</setSpec><setName>Center for Innovative Collaboration in Medicine and Law</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Center for Innovative Collaboration in Medicine and Law</dc:title>
+  <dc:identifier>fsu:center_for_innovative_collaboration_in_medicine_and_law</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_center_for_ocean_atmospheric_prediction_studies</setSpec><setName>Center for Ocean-Atmospheric Prediction Studies</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Center for Ocean-Atmospheric Prediction Studies</dc:title>
+  <dc:identifier>fsu:center_for_ocean_atmospheric_prediction_studies</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_center_for_tech_in_counseling_and_career_development</setSpec><setName>Center for the Study of Technology in Counseling and Career Development</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Center for the Study of Technology in Counseling and Career Development</dc:title>
+  <dc:identifier>fsu:center_for_tech_in_counseling_and_career_development</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_chwalkercol</setSpec><setName>Charles H. Walker Collection, 1952-1953</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Charles H. Walker Collection, 1952-1953</dc:title>
+  <dc:identifier>fsu:chwalkercol</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_peppermathewspapers</setSpec><setName>Charles R. Mathews Papers on Medicare Implementation</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Charles R. Mathews Papers on Medicare Implementation</dc:title>
+  <dc:identifier>fsu:peppermathewspapers</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_civilwarmain</setSpec><setName>Civil War Era Materials</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Civil War Era Collections</dc:title>
+  <dc:identifier>fsu:civilwarmain</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_flc50</setSpec><setName>Class Schedules</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Class Schedules</dc:title>
+  <dc:identifier>fsu:flc50</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_claudepeppermaincollection</setSpec><setName>Claude Pepper Papers</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Claude Pepper Papers</dc:title>
+  <dc:identifier>fsu:claudepeppermaincollection</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_hpclubdownunder</setSpec><setName>Club Downunder Posters</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Club Downunder Posters</dc:title>
+  <dc:identifier>fsu:hpclubdownunder</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_colgradschpubsmain</setSpec><setName>College and Graduate School Publications</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>College and Graduate School Publications</dc:title>
+  <dc:identifier>fsu:colgradschpubsmain</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_afs50</setSpec><setName>College of Arts and Sciences</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>College of Arts and Sciences</dc:title>
+  <dc:identifier>fsu:afs50</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_college_of_arts_and_sciences</setSpec><setName>College of Arts and Sciences</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>College of Arts and Sciences</dc:title>
+  <dc:identifier>fsu:college_of_arts_and_sciences</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_college_of_communication_and_information</setSpec><setName>College of Communication and Information</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>College of Communication and Information</dc:title>
+  <dc:identifier>fsu:college_of_communication_and_information</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_college_of_criminology_and_criminal_justice</setSpec><setName>College of Criminology and Criminal Justice</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>College of Criminology and Criminal Justice</dc:title>
+  <dc:identifier>fsu:college_of_criminology_and_criminal_justice</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_college_of_education</setSpec><setName>College of Education</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>College of Education</dc:title>
+  <dc:identifier>fsu:college_of_education</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_college_of_engineering</setSpec><setName>College of Engineering</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>College of Engineering</dc:title>
+  <dc:identifier>fsu:college_of_engineering</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_college_of_fine_arts</setSpec><setName>College of Fine Arts</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>College of Fine Arts</dc:title>
+  <dc:identifier>fsu:college_of_fine_arts</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_college_of_human_sciences</setSpec><setName>College of Human Sciences</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>College of Human Sciences</dc:title>
+  <dc:identifier>fsu:college_of_human_sciences</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_college_of_medicine</setSpec><setName>College of Medicine</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>College of Medicine</dc:title>
+  <dc:identifier>fsu:college_of_medicine</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_college_of_social_science_and_public_policy</setSpec><setName>College of Social Science and Public Policy</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>College of Social Science and Public Policy</dc:title>
+  <dc:identifier>fsu:college_of_social_science_and_public_policy</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_college_of_social_work</setSpec><setName>College of Social Work</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>College of Social Work</dc:title>
+  <dc:identifier>fsu:college_of_social_work</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_diraccombinatorics</setSpec><setName>Combinatorics</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Combinatorics</dc:title>
+  <dc:identifier>fsu:diraccombinatorics</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_fce06</setSpec><setName>Commencement</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Commencement</dc:title>
+  <dc:identifier>fsu:fce06</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_ml_confederate</setSpec><setName>Confederate Sheet Music Collection</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Confederate Sheet Music Collection</dc:title>
+  <dc:identifier>fsu:ml_confederate</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_acw50</setSpec><setName>Conferences and Workshops</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Conferences and Workshops</dc:title>
+  <dc:identifier>fsu:acw50</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_cuniformtablets</setSpec><setName>Cuneiform Tablet Collection</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Cuneiform Tablet Collection</dc:title>
+  <dc:identifier>fsu:cuniformtablets</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_department_of_anthropology</setSpec><setName>Department of Anthropology</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Department of Anthropology</dc:title>
+  <dc:identifier>fsu:department_of_anthropology</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_department_of_art_education</setSpec><setName>Department of Art Education</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Department of Art Education</dc:title>
+  <dc:identifier>fsu:department_of_art_education</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_department_art_education</setSpec><setName>Department of Art Education</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Department of Art Education</dc:title>
+  <dc:identifier>fsu:department_art_education</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_department_art_history</setSpec><setName>Department of Art History</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Department of Art History</dc:title>
+  <dc:identifier>fsu:department_art_history</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_department_of_art_history</setSpec><setName>Department of Art History</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Department of Art History</dc:title>
+  <dc:identifier>fsu:department_of_art_history</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_department_of_behavioral_sciences_and_social_medicine</setSpec><setName>Department of Behavioral Sciences and Social Medicine</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Department of Behavioral Sciences and Social Medicine</dc:title>
+  <dc:identifier>fsu:department_of_behavioral_sciences_and_social_medicine</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_department_of_biomedical_sciences</setSpec><setName>Department of Biomedical Sciences</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Department of Biomedical Sciences</dc:title>
+  <dc:identifier>fsu:department_of_biomedical_sciences</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_department_of_chemistry_and_biochemistry</setSpec><setName>Department of Chemistry and Biochemistry</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Department of Chemistry and Biochemistry</dc:title>
+  <dc:identifier>fsu:department_of_chemistry_and_biochemistry</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_department_of_civil_and_environmental_engineering</setSpec><setName>Department of Civil and Environmental Engineering</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Department of Civil and Environmental Engineering</dc:title>
+  <dc:identifier>fsu:department_of_civil_and_environmental_engineering</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_department_of_classics</setSpec><setName>Department of Classics</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Department of Classics</dc:title>
+  <dc:identifier>fsu:department_of_classics</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_department_of_clinical_sciences</setSpec><setName>Department of Clinical Sciences</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Department of Clinical Sciences</dc:title>
+  <dc:identifier>fsu:department_of_clinical_sciences</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_department_of_earth_ocean_and_atmospheric_science</setSpec><setName>Department of Earth, Ocean and Atmospheric Science</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Department of Earth, Ocean and Atmospheric Science</dc:title>
+  <dc:identifier>fsu:department_of_earth_ocean_and_atmospheric_science</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_department_of_educational_leadership_and_policy_studies</setSpec><setName>Department of Educational Leadership and Policy Studies</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Department of Educational Leadership and Policy Studies</dc:title>
+  <dc:identifier>fsu:department_of_educational_leadership_and_policy_studies</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_department_of_educational_psychology_and_learning_systems</setSpec><setName>Department of Educational Psychology and Learning Systems</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Department of Educational Psychology and Learning Systems</dc:title>
+  <dc:identifier>fsu:department_of_educational_psychology_and_learning_systems</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_department_of_english</setSpec><setName>Department of English</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Department of English</dc:title>
+  <dc:identifier>fsu:department_of_english</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_department_of_family_medicine_and_rural_health</setSpec><setName>Department of Family Medicine and Rural Health</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Department of Family Medicine and Rural Health</dc:title>
+  <dc:identifier>fsu:department_of_family_medicine_and_rural_health</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_department_of_geography</setSpec><setName>Department of Geography</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Department of Geography</dc:title>
+  <dc:identifier>fsu:department_of_geography</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_department_of_geriatrics</setSpec><setName>Department of Geriatrics</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Department of Geriatrics</dc:title>
+  <dc:identifier>fsu:department_of_geriatrics</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_department_of_history</setSpec><setName>Department of History</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Department of History</dc:title>
+  <dc:identifier>fsu:department_of_history</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_department_of_mathematics</setSpec><setName>Department of Mathematics</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Department of Mathematics</dc:title>
+  <dc:identifier>fsu:department_of_mathematics</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_department_of_nutrition_food_and_exercise_sciences</setSpec><setName>Department of Nutrition, Food and Exercise Sciences</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Department of Nutrition, Food and Exercise Sciences</dc:title>
+  <dc:identifier>fsu:department_of_nutrition_food_and_exercise_sciences</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_department_of_physics</setSpec><setName>Department of Physics</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Department of Physics</dc:title>
+  <dc:identifier>fsu:department_of_physics</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_department_of_psychology</setSpec><setName>Department of Psychology</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Department of Psychology</dc:title>
+  <dc:identifier>fsu:department_of_psychology</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_department_of_religion</setSpec><setName>Department of Religion</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Department of Religion</dc:title>
+  <dc:identifier>fsu:department_of_religion</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_department_of_urban_and_regional_planning</setSpec><setName>Department of Urban and Regional Planning</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Department of Urban and Regional Planning</dc:title>
+  <dc:identifier>fsu:department_of_urban_and_regional_planning</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_fsucampbellcollection</setSpec><setName>Doak S. Campbell Collection</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Doak S. Campbell Collection</dc:title>
+  <dc:identifier>fsu:fsucampbellcollection</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_fsudfaulscol</setSpec><setName>Don Fauls Collection, 1950s-1970s</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Don Fauls Collection, 1950s-1970s</dc:title>
+  <dc:identifier>fsu:fsudfaulscol</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_fsuddpickettcol</setSpec><setName>Donald DeGraffenreid Pickett Collection, 1958-1959</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Donald DeGraffenreid Pickett Collection, 1958-1959</dc:title>
+  <dc:identifier>fsu:fsuddpickettcol</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_fsuelvancecol</setSpec><setName>Earl Lynn Vance Collection, 1928-1974</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Earl Lynn Vance Collection, 1928-1974</dc:title>
+  <dc:identifier>fsu:fsuelvancecol</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_learcollection</setSpec><setName>Edward Lear's Book of Nonsense</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Edward Lear's Book of Nonsense</dc:title>
+  <dc:identifier>fsu:learcollection</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_modernetds</setSpec><setName>Electronic Theses and Dissertations 2003-present</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Electronic Theses and Dissertations 2003-present</dc:title>
+  <dc:identifier>fsu:modernetds</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_fscwebtaylorscrap</setSpec><setName>Elizabeth Byrd Taylor Scrapbook, ca. 1922-1926</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Elizabeth Byrd Taylor Scrapbook, ca. 1922-1926</dc:title>
+  <dc:identifier>fsu:fscwebtaylorscrap</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_ave50</setSpec><setName>Enrollment</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Enrollment</dc:title>
+  <dc:identifier>fsu:ave50</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_aes50</setSpec><setName>Examination Schedules</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Examination Schedules</dc:title>
+  <dc:identifier>fsu:aes50</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_fsu_coastal_and_marine_laboratory</setSpec><setName>FSU Coastal and Marine Laboratory</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>FSU Coastal and Marine Laboratory</dc:title>
+  <dc:identifier>fsu:fsu_coastal_and_marine_laboratory</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_fsuhistphotos</setSpec><setName>FSU Historic Photographs</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>FSU Historic Photographs</dc:title>
+  <dc:identifier>fsu:fsuhistphotos</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_fsulivesmain</setSpec><setName>FSU Lives: Portal to the Past, Prologue to the Future</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>FSU Lives: Portal to the Past, Prologue to the Future</dc:title>
+  <dc:identifier>fsu:fsulivesmain</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_fsufaculty</setSpec><setName>Faculty Collections</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Faculty Collections</dc:title>
+  <dc:identifier>fsu:fsufaculty</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_florida_center_for_reading_research</setSpec><setName>Florida Center for Reading Research</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Florida Center for Reading Research</dc:title>
+  <dc:identifier>fsu:florida_center_for_reading_research</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_floridahandbooks</setSpec><setName>Florida Handbooks</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Florida Handbooks</dc:title>
+  <dc:identifier>fsu:floridahandbooks</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_floridahh</setSpec><setName>Florida History and Heritage</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Florida History and Heritage</dc:title>
+  <dc:identifier>fsu:floridahh</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_fscwmain</setSpec><setName>Florida State College for Women (1905-1947)</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Florida State College for Women (1905-1947)</dc:title>
+  <dc:identifier>fsu:fscwmain</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_hpfsumain</setSpec><setName>Florida State University (1947-)</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Florida State University (1947-)</dc:title>
+  <dc:identifier>fsu:hpfsumain</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_fsubulletins</setSpec><setName>Florida State University Bulletins</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Florida State University Bulletins</dc:title>
+  <dc:identifier>fsu:fsubulletins</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_yearbooks</setSpec><setName>Florida State University Yearbooks</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Florida State University Yearbooks</dc:title>
+  <dc:identifier>fsu:yearbooks</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_avc50</setSpec><setName>Flying High Circus</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Flying High Circus</dc:title>
+  <dc:identifier>fsu:avc50</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_fsuflyinghighcircusphotos</setSpec><setName>Flying High Circus Photographs</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Flying High Circus Photographs</dc:title>
+  <dc:identifier>fsu:fsuflyinghighcircusphotos</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_football50</setSpec><setName>Football</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Football</dc:title>
+  <dc:identifier>fsu:football50</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_nap01</setSpec><setName>French Revolution Collection on Camille Desmoulins, Lucile Duplesis, and Arthur Dillon, 1702-1876</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>French Revolution Collection on Camille Desmoulins, Lucile Duplesis, and Arthur Dillon, 1702-1876</dc:title>
+  <dc:identifier>fsu:nap01</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_fsugoaaloftoncol</setSpec><setName>Giles O. and Anicia Aleman Lofton Collection, ca. 1947-1950</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Giles O. and Anicia Aleman Lofton Collection, ca. 1947-1950</dc:title>
+  <dc:identifier>fsu:fsugoaaloftoncol</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_fgb04</setSpec><setName>Graduate Bulletin</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Graduate Bulletin</dc:title>
+  <dc:identifier>fsu:fgb04</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_afg50</setSpec><setName>Gymkana</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Gymkana</dc:title>
+  <dc:identifier>fsu:afg50</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_sayrecircus</setSpec><setName>Harrison Sayre Circus Collection</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Harrison Sayre Circus Collection</dc:title>
+  <dc:identifier>fsu:sayrecircus</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_hpmain</setSpec><setName>Heritage Protocol &amp; University Archives</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Heritage Protocol and University Archives</dc:title>
+  <dc:identifier>fsu:hpmain</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_fscwhkurzcol</setSpec><setName>Herman Kurz Collection, ca. 1923-1948</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Herman Kurz Collection, ca. 1923-1948</dc:title>
+  <dc:identifier>fsu:fscwhkurzcol</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_avh50</setSpec><setName>Homecoming</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Homecoming</dc:title>
+  <dc:identifier>fsu:avh50</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_fsi07</setSpec><setName>Investiture Ceremonies</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Investiture Ceremonies</dc:title>
+  <dc:identifier>fsu:fsi07</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_fsujbmittanphotos</setSpec><setName>J. Barry Mittan Photograph Collection, 1965-1971</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>J. Barry Mittan Photograph Collection, 1965-1971</dc:title>
+  <dc:identifier>fsu:fsujbmittanphotos</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_fsujmilesphotos</setSpec><setName>Jack Miles Photograph Collection, ca. 1950-1955</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Jack Miles Photograph Collection, ca. 1950-1955</dc:title>
+  <dc:identifier>fsu:fsujmilesphotos</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_fsujmarshickscrap</setSpec><setName>Jean Marshick F Club Scrapbook, 1957-1958</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Jean Marshick F Club Scrapbook, 1957-1958</dc:title>
+  <dc:identifier>fsu:fsujmarshickscrap</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_fscwjgcooperscrap</setSpec><setName>Jewell Genevieve Cooper Scrapbook, ca. 1924-1930</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Jewell Genevieve Cooper Scrapbook, ca. 1924-1930</dc:title>
+  <dc:identifier>fsu:fscwjgcooperscrap</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_fsujbljoanoscol</setSpec><setName>Jim and Betty Lou Joanos Collection, 1909-1957</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Jim and Betty Lou Joanos Collection, 1909-1957</dc:title>
+  <dc:identifier>fsu:fsujbljoanoscol</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_fsujcunninghamcol</setSpec><setName>Joan Cunningham Collection, 1953-1957</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Joan Cunningham Collection, 1953-1957</dc:title>
+  <dc:identifier>fsu:fsujcunninghamcol</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_juvlit</setSpec><setName>Juvenile Literature</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Literature for Children</dc:title>
+  <dc:identifier>fsu:juvlit</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_fscwkparkscrap</setSpec><setName>Kathrine Park Scrapbook, ca. 1920s</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Kathrine Park Scrapbook, ca. 1920s</dc:title>
+  <dc:identifier>fsu:fscwkparkscrap</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_fscwljwellsscrap</setSpec><setName>L. Janet Wells Scrapbook Collection, 1938-1942</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>L. Janet Wells Scrapbook Collection, 1938-1942</dc:title>
+  <dc:identifier>fsu:fscwljwellsscrap</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_fscwlqbensonscrap</setSpec><setName>Laura Quayle Benson Scrapbook, 1917-1919</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Laura Quayle Benson Scrapbook, 1917-1919</dc:title>
+  <dc:identifier>fsu:fscwlqbensonscrap</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_afl55</setSpec><setName>Lecture Programs</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Lecture Programs</dc:title>
+  <dc:identifier>fsu:afl55</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_lmmandyckalbum</setSpec><setName>Lillian M. Mandyck Photograph Album, ca. 1947-1951</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Lillian M. Mandyck Photograph Album, ca. 1947-1951</dc:title>
+  <dc:identifier>fsu:lmmandyckalbum</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_fsulmmandyckphotos</setSpec><setName>Lillian M. Mandyck Photograph Album, ca. 1947-1951</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Lillian M. Mandyck Photograph Album, ca. 1947-1951</dc:title>
+  <dc:identifier>fsu:fsulmmandyckphotos</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_maguire_medical_library</setSpec><setName>Maguire Medical Library</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Maguire Medical Library</dc:title>
+  <dc:identifier>fsu:maguire_medical_library</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_claudepeppermanuscripts</setSpec><setName>Manuscript Materials</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Manuscript Materials</dc:title>
+  <dc:identifier>fsu:claudepeppermanuscripts</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_civilwarmanuscripts</setSpec><setName>Manuscripts</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Manuscripts</dc:title>
+  <dc:identifier>fsu:civilwarmanuscripts</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_caribbeanmaps</setSpec><setName>Maps of the Caribbean, 1584-1845</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Maps of the Caribbean, 1649-1832</dc:title>
+  <dc:identifier>fsu:caribbeanmaps</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_avm50</setSpec><setName>Marching Chiefs</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Marching Chiefs</dc:title>
+  <dc:identifier>fsu:avm50</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_fscwmelstonscrap</setSpec><setName>Marie Elston Scrapbook, ca. 1927-1929</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Marie Elston Scrapbook, ca. 1927-1929</dc:title>
+  <dc:identifier>fsu:fscwmelstonscrap</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_fscwmlstinecol</setSpec><setName>Marion Laura Stine Collection, 1917-1921</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Marion Laura Stine Collection, 1917-1921</dc:title>
+  <dc:identifier>fsu:fscwmlstinecol</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_fsumfleecol</setSpec><setName>Marjorie Fogarty Lee Collection, 1948-1952</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Marjorie Fogarty Lee Collection, 1948-1952</dc:title>
+  <dc:identifier>fsu:fsumfleecol</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_fscwmeheilertsencol</setSpec><setName>Martha Ellen Hackl Eilertsen Collection, ca. 1940-1943</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Martha Ellen Hackl Eilertsen Collection, ca. 1940-1943</dc:title>
+  <dc:identifier>fsu:fscwmeheilertsencol</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_fsumahuntcol</setSpec><setName>Mary Alice Hunt Collection, 1946-1992</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Mary Alice Hunt Collection, 1946-1992</dc:title>
+  <dc:identifier>fsu:fsumahuntcol</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_fscwmcnelsonscrap</setSpec><setName>Mary Cobb Nelson Scrapbook, 1923-1952</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Mary Cobb Nelson Scrapbook, 1923-1952</dc:title>
+  <dc:identifier>fsu:fscwmcnelsonscrap</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_mewilliamsphotos</setSpec><setName>Mary Ellerbe Williams Photograph Collection, ca. 1958-1959</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Mary Ellerbe Williams Photograph Collection, ca. 1958-1959</dc:title>
+  <dc:identifier>fsu:mewilliamsphotos</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_fsumewilliamsphotos</setSpec><setName>Mary Ellerbe Williams Photograph Collection, ca. 1958-1959</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Mary Ellerbe Williams Photograph Collection, ca. 1958-1959</dc:title>
+  <dc:identifier>fsu:fsumewilliamsphotos</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_fsumgallantcol</setSpec><setName>Mary Gallant Collection, ca. 1935-1965</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Mary Gallant Collection, ca. 1935-1965</dc:title>
+  <dc:identifier>fsu:fsumgallantcol</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_fscwmlsingeltarycol</setSpec><setName>Mary Leora Singeltary Collection, 1919-1923</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Mary Leora Singeltary Collection, 1919-1923</dc:title>
+  <dc:identifier>fsu:fscwmlsingeltarycol</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_fscwmlnorwoodcol</setSpec><setName>Mary Lou Norwood Collection, 1941-2007</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Mary Lou Norwood Collection, 1941-2007</dc:title>
+  <dc:identifier>fsu:fscwmlnorwoodcol</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_mtwillisphotos</setSpec><setName>Mary Tarver Willis Photograph Collection, 1947-1951</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Mary Tarver Willis Photograph Collection, 1947-1951</dc:title>
+  <dc:identifier>fsu:mtwillisphotos</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_fsumtwillisphotos</setSpec><setName>Mary Tarver Willis Photograph Collection, 1947-1951</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Mary Tarver Willis Photograph Collection, 1947-1951</dc:title>
+  <dc:identifier>fsu:fsumtwillisphotos</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_fsumlstonecol</setSpec><setName>Mode L. Stone Collection</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Mode L. Stone Collection</dc:title>
+  <dc:identifier>fsu:fsumlstonecol</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_amp55</setSpec><setName>Musical Performances</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Musical Performances</dc:title>
+  <dc:identifier>fsu:amp55</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_napcolmain</setSpec><setName>Napoleonic Collections</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Napoleonic Collections</dc:title>
+  <dc:identifier>fsu:napcolmain</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_avp51</setSpec><setName>Panhellenic Rushing Rules</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Panhellenic Rushing Rules</dc:title>
+  <dc:identifier>fsu:avp51</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_fsuparrantscol</setSpec><setName>Pat Arrants Collection 1955-1958</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Pat Arrants Collection 1955-1958</dc:title>
+  <dc:identifier>fsu:fsuparrantscol</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_diraccol</setSpec><setName>Paul A.M. Dirac Collection</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Paul A.M. Dirac Collection</dc:title>
+  <dc:identifier>fsu:diraccol</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_fscwpbteaguecol</setSpec><setName>Peggy Barker Teague Collection, 1939-1943</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Peggy Barker Teague Collection, 1939-1943</dc:title>
+  <dc:identifier>fsu:fscwpbteaguecol</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_fscwpagatescol</setSpec><setName>Philomene Asher Gates Collection, 1934-1938 </setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Philomene Asher Gates Collection, 1934-1938 </dc:title>
+  <dc:identifier>fsu:fscwpagatescol</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_claudepepperphotos</setSpec><setName>Photographs</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Claude Pepper Photograph Collection</dc:title>
+  <dc:identifier>fsu:claudepepperphotos</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_fscwphotosmain</setSpec><setName>Photographs</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Photographs</dc:title>
+  <dc:identifier>fsu:fscwphotosmain</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_fsuphotosmain</setSpec><setName>Photographs</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Photographs</dc:title>
+  <dc:identifier>fsu:fsuphotosmain</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_spc12</setSpec><setName>Photographs</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Photographs</dc:title>
+  <dc:identifier>fsu:spc12</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_wwipoetry</setSpec><setName>Poetry during World War I</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Poetry during World War I</dc:title>
+  <dc:identifier>fsu:wwipoetry</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_diracpolyequations</setSpec><setName>Polynomial Equations</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Polynomial Equations</dc:title>
+  <dc:identifier>fsu:diracpolyequations</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_fscwpostcards</setSpec><setName>Postcards</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Postcards</dc:title>
+  <dc:identifier>fsu:fscwpostcards</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_spc11</setSpec><setName>Posters</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Posters</dc:title>
+  <dc:identifier>fsu:spc11</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_fsp50</setSpec><setName>Pow Wow Student Handbooks</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Pow Wow Student Handbooks</dc:title>
+  <dc:identifier>fsu:fsp50</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_fsupresmarshallcol</setSpec><setName>President Stanley Marshall Collection, 1969-1976</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>President Stanley Marshall Collection, 1969-1976</dc:title>
+  <dc:identifier>fsu:fsupresmarshallcol</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_fsr50</setSpec><setName>President's Report</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>President's Report</dc:title>
+  <dc:identifier>fsu:fsr50</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_research_centers_and_institutes</setSpec><setName>Research Centers and Institutes</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Research Centers and Institutes</dc:title>
+  <dc:identifier>fsu:research_centers_and_institutes</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_retroetds</setSpec><setName>Retrospective Theses and Dissertations 1952-2002</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Retrospective Theses and Dissertations 1952-2002</dc:title>
+  <dc:identifier>fsu:retroetds</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_fsurkurrascol</setSpec><setName>Richard Kurras Collection, ca. 1951-1952</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Richard Kurras Collection, ca. 1951-1952</dc:title>
+  <dc:identifier>fsu:fsurkurrascol</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_rgmckenziephotos</setSpec><setName>Robert G. McKenzie Photograph Collection, 1950</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Robert G. McKenzie Photograph Collection, 1950</dc:title>
+  <dc:identifier>fsu:rgmckenziephotos</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_fsurgmckenziephotos</setSpec><setName>Robert G. McKenzie Photograph Collection, 1950</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Robert G. McKenzie Photograph Collection, 1950</dc:title>
+  <dc:identifier>fsu:fsurgmckenziephotos</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_fsuslamarcol</setSpec><setName>Sam Lamar Collection, 1938-2005</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Sam Lamar Collection, 1938-2005</dc:title>
+  <dc:identifier>fsu:fsuslamarcol</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_fsusccoopercol</setSpec><setName>Sara Culbreth Cooper Collection, 1947-1950</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Sara Culbreth Cooper Collection, 1947-1950</dc:title>
+  <dc:identifier>fsu:fsusccoopercol</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_fscwshwildercol</setSpec><setName>Sarah Henderson Wilder Collection, ca. 1928</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Sarah Henderson Wilder Collection, ca. 1928</dc:title>
+  <dc:identifier>fsu:fscwshwildercol</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_school_of_art_and_design</setSpec><setName>School of Art and Design</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>School of Art and Design</dc:title>
+  <dc:identifier>fsu:school_of_art_and_design</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_asb50</setSpec><setName>School of Business</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>School of Business</dc:title>
+  <dc:identifier>fsu:asb50</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_schoolofdance</setSpec><setName>School of Dance</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>School of Dance</dc:title>
+  <dc:identifier>fsu:schoolofdance</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_ave52</setSpec><setName>School of Education</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>School of Education</dc:title>
+  <dc:identifier>fsu:ave52</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_fhe55</setSpec><setName>School of Home Economics</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>School of Home Economics</dc:title>
+  <dc:identifier>fsu:fhe55</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_school_of_information</setSpec><setName>School of Information</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>School of Information</dc:title>
+  <dc:identifier>fsu:school_of_information</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_asj50</setSpec><setName>School of Journalism</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>School of Journalism</dc:title>
+  <dc:identifier>fsu:asj50</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_alp55</setSpec><setName>School of Library Training and Service</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>School of Library Training and Service</dc:title>
+  <dc:identifier>fsu:alp55</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_avn50</setSpec><setName>School of Nursing</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>School of Nursing</dc:title>
+  <dc:identifier>fsu:avn50</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_apa55</setSpec><setName>School of Public Administration</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>School of Public Administration</dc:title>
+  <dc:identifier>fsu:apa55</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_asw55</setSpec><setName>School of Social Welfare</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>School of Social Welfare</dc:title>
+  <dc:identifier>fsu:asw55</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_school_of_teacher_education</setSpec><setName>School of Teacher Education</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>School of Teacher Education</dc:title>
+  <dc:identifier>fsu:school_of_teacher_education</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_fscwscrapbooks</setSpec><setName>Scrapbooks</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Scrapbooks</dc:title>
+  <dc:identifier>fsu:fscwscrapbooks</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_fsuscrapbooks</setSpec><setName>Scrapbooks</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Scrapbooks</dc:title>
+  <dc:identifier>fsu:fsuscrapbooks</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_seriesapepperphotos</setSpec><setName>Series A: Claude Pepper Photographs</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Series A: Claude Pepper Photographs</dc:title>
+  <dc:identifier>fsu:seriesapepperphotos</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_seriesbpepperphotos</setSpec><setName>Series B: Claude Pepper in Groups</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Series B: Claude Pepper in Groups</dc:title>
+  <dc:identifier>fsu:seriesbpepperphotos</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_seriescpepperphotos</setSpec><setName>Series C: Claude and Mildred Pepper Photographs</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Series C: Claude and Mildred Pepper Photographs</dc:title>
+  <dc:identifier>fsu:seriescpepperphotos</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_seriesdpepperphotos</setSpec><setName>Series D: Pepper and Webster Family Photographs</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Series D: Pepper and Webster Family Photographs</dc:title>
+  <dc:identifier>fsu:seriesdpepperphotos</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_claudepepperphotosseriesE</setSpec><setName>Series E: Other People</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Series E: Other People</dc:title>
+  <dc:identifier>fsu:claudepepperphotosseriesE</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_seriesfpepperphotos</setSpec><setName>Series F: Places</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Series F: Places</dc:title>
+  <dc:identifier>fsu:seriesfpepperphotos</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_seriesgpepperphotos</setSpec><setName>Series G: Mildred Pepper Photographs</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Series G: Mildred Pepper Photographs</dc:title>
+  <dc:identifier>fsu:seriesgpepperphotos</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_spcresearchguides</setSpec><setName>Special Collections Research Guides</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Special Collections Research Guides</dc:title>
+  <dc:identifier>fsu:spcresearchguides</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_stucamplifemain</setSpec><setName>Student and Campus Life</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Student and Campus Life</dc:title>
+  <dc:identifier>fsu:stucamplifemain</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_fsushmccollumcol</setSpec><setName>Sue Herndon McCollum Collection, 1952-1957</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Sue Herndon McCollum Collection, 1952-1957</dc:title>
+  <dc:identifier>fsu:fsushmccollumcol</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_shawsacredsongs</setSpec><setName>The Poetry of Sacred Song</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>The Poetry of Sacred Song</dc:title>
+  <dc:identifier>fsu:shawsacredsongs</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_avd50</setSpec><setName>Theater and Dance Performances</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Theater and Dance</dc:title>
+  <dc:identifier>fsu:avd50</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_thesesanddissertationsmain</setSpec><setName>Theses and Dissertations</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Theses and Dissertations</dc:title>
+  <dc:identifier>fsu:thesesanddissertationsmain</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_fsutawilliamscol</setSpec><setName>Thomas A. Williams Collection, 1954-1957</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Thomas A. Williams Collection, 1954-1957</dc:title>
+  <dc:identifier>fsu:fsutawilliamscol</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_fub05</setSpec><setName>Undergraduate Bulletin</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Undergraduate Bulletin</dc:title>
+  <dc:identifier>fsu:fub05</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_undergradhonors</setSpec><setName>Undergraduate Honors Theses</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Undergraduate Honors Theses</dc:title>
+  <dc:identifier>fsu:undergradhonors</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_undergraduate_research</setSpec><setName>Undergraduate Research</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Undergraduate Research</dc:title>
+  <dc:identifier>fsu:undergraduate_research</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_fsulibrariesphotos</setSpec><setName>University Libraries</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University Libraries</dc:title>
+  <dc:identifier>fsu:fsulibrariesphotos</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_university_libraries</setSpec><setName>University Libraries</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University Libraries</dc:title>
+  <dc:identifier>fsu:university_libraries</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_fscwvjlewisscrap</setSpec><setName>Victoria J. Lewis Scrapbook, 1940-1944</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Victoria J. Lewis Scrapbook, 1940-1944</dc:title>
+  <dc:identifier>fsu:fscwvjlewisscrap</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_fsuwsmithcol</setSpec><setName>William Smith Collection, ca. 1951-1955</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>William Smith Collection, ca. 1951-1955</dc:title>
+  <dc:identifier>fsu:fsuwsmithcol</dc:identifier>
+</oai_dc:dc>
+</setDescription></set><set><setSpec>fsu_fsy50</setSpec><setName>Yearbooks</setName><setDescription>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Yearbooks</dc:title>
+  <dc:identifier>fsu:fsy50</dc:identifier>
+</oai_dc:dc>
+</setDescription></set>
+</repository>
+
+The file setSpecFetch.py contains:
+import sys
+import urllib2
+import zlib
+import time
+import re
+import xml.dom.pulldom
+import operator
+import codecs
+from optparse import OptionParser
+
+nDataBytes, nRawBytes, nRecoveries, maxRecoveries = 0, 0, 0, 3
+
+def getFile(serverString, command, verbose=1, sleepTime=0):
+	global nRecoveries, nDataBytes, nRawBytes
+	if sleepTime:
+		time.sleep(sleepTime)
+	remoteAddr = serverString + '?verb=%s' % command
+	if verbose:
+		print "\r", "Fetching set list ...'%s'" % remoteAddr[-90:]
+	headers = {'User-Agent': 'OAIHarvester/2.0', 'Accept': 'text/html', 'Accept-Encoding': 'compress, deflate'}
+	try:
+		remoteData = urllib2.urlopen(remoteAddr).read()
+	except urllib2.HTTPError, exValue:
+		if exValue.code == 503:
+			retryWait = int(exValue.hdrs.get("Retry-After", "-1"))
+			if retryWait < 0:
+				return None
+			print 'Waiting %d seconds' % retryWait
+			return getFile(serverString, command, 0, retryWait)
+		print exValue
+		if nRecoveries < maxRecoveries:
+			nRecoveries += 1
+			return getFile(serverString, command, 1, 60)
+		return
+	nRawBytes += len(remoteData)
+	try:
+		remoteData = zlib.decompressobj().decompress(remoteData)
+	except:
+		pass
+	nDataBytes += len(remoteData)
+	mo = re.search('<error *code=\"([^"]*)">(.*)</error>', remoteData)
+	if mo:
+		print "OAIERROR code=%s '%s'" % (mo.group(1), mo.group(2))
+	else:
+		return remoteData
+
+if __name__ == "__main__":
+
+	serverString = 'http://fsu.digital.flvc.org/oai2'
+	outFileName = 'assets/setSpec.xml'
+
+	print "Writing records to %s from %s" % (outFileName, serverString)
+	
+	ofile = codecs.lookup('utf-8')[-1](file(outFileName, 'wb'))
+
+	ofile.write('<repository xmlns:oai_dc="http://www.openarichives.org/OAI/2.0/oai_dc/" \
+	 xmlns:dc="http://purl.org/dc/elements/1.1/" \
+	 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">\n')
+
+	data = getFile(serverString, 'ListSets')
+
+	recordCount = 0
+
+	while data:
+		events = xml.dom.pulldom.parseString(data)
+		for (event, node) in events:
+			if event == "START_ELEMENT" and node.tagName == 'set':
+				events.expandNode(node)
+				node.writexml(ofile)
+				recordCount += 1
+		mo = re.search('resumptionToken[^>]*>(.*)</resumptionToken>', data)
+		if not mo:
+			break
+		data = getFile(serverString, "ListSets&resumptionToken=%s" % mo.group(1))
+	
+	ofile.write('\n</repository>\n'), ofile.close()
+
+	print "\nRead %d bytes (%.2f compression)" % (nDataBytes, float(nDataBytes) / nRawBytes)
+	print "Wrote out %d records" % recordCount
+
