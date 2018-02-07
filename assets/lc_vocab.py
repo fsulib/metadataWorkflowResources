@@ -78,8 +78,8 @@ class lc_subject:
         return subject_parts
 
 
-def write_record_subjects(record, subjects, PID):
-    with open('improvedMODS/' + PID.replace(':','_') + '.xml', 'w') as MODS_out:
+def write_record_subjects(record, subjects, f):
+    with open('improvedMODS/' + f.replace(':','_') + '.xml', 'w') as MODS_out:
         
         # loop over incoming subjects
         for appending_subject in subjects:

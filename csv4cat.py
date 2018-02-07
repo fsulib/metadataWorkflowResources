@@ -4,35 +4,57 @@ import os
 import sys
 import csv
 import argparse
+import pymods
 
-sys.path.append('metadataWorkflowResources/assets/')
+# sys.path.append('metadataWorkflowResources/assets/')
 
-from pymods import MODS, FSUDL
+# from pymods import MODS, FSUDL
 
 def aleph(fileName):
     header = ['PURL', 'PID', 'Title', 'Creators', 'Date', 'Extent', 'Abstract', 'Notes', 'Comments/Shares']
     with open(fileName + '.csv', 'w') as f:
-        mods = MODS(fileName + '.xml')
-        for record in mods.record_list:
+        writer = csv.writer(f)
+        writer.writerow(header)
+        mods = pymods.OAIReader(fileName + '.xml')
+        for record in mods:
             data = []
             #PURL
-            data.append(FSUDL.purl_search(record))
+            data.append(record.metadata.purl[0])
             #PID
-            data.append(FSUDL.pid_search(record))
+            data.append(record.metadata.pid)
             #title
-            data.append(MODS.title_constructor(record))
+            title = ""
+            for t in record.metadata.titles:
+                title = title + '; ' + t
+            data.append(title.strip(' ;'))
             #names
-            data.append(MODS.name_constructor(record, NS))
+            names = ""
+            for n in record.metadata.get_creators:
+                names = names + '; ' + n.text
+            data.append(names.strip(' ;'))
             #date
-            data.append(MODS.date_constructor(record))
-            #extent    
-            data.append(MODS.extent(record))
+            dates = ""
+            for d in record.metadata.dates:
+                dates = dates + '; ' + d.text
+            data.append(dates.strip(' ;'))
+            #extent
+            extent = ""
+            for e in record.metadata.extent:
+                dates = dates + '; ' + e            
+            data.append(extent.strip(' ;'))
             #abstract
-            data.append(MODS.abstract(record))
+            abstracts = ""
+            for abstract in record.metadata.abstract:
+                abstracts = abstracts + '; ' + abstract.text            
+            data.append(abstracts.strip(' ;'))
             #notes
-            data.append(MODS.note(record))
+            notes = ""
+            for note in record.metadata.note:
+                notes = notes + '; ' + note            
+            data.append(notes.strip(' ;'))
             #write CSV
             writer.writerow(data)
+
 
 def archon(fileName, collNum, series):
     with open(fileName + '.csv', 'w') as f:
@@ -40,16 +62,16 @@ def archon(fileName, collNum, series):
         data = [collNum, str(series), "", "", "", "", 'Materials available online', "", "Digital Collections hosted by FSU Libraries Special Collections & Archives."]
         writer.writerow(data)
         itemNumber = 1
-        mods = MODS(fileName + '.xml')
+        mods = pymods.OAIReader(fileName + '.xml')
         # fields to pull: collection ID, Series #, Subseries #, Box #, Folder #, Item #, Title, Date, Description (i.e. PURL)
-        for record in mods.record_list:
+        for record in mods:
             data = [collNum, str(series), "", "", "", str(itemNumber)]
             #title
-            data.append(MODS.title_constructor(record)[0])
+            data.append(record.metadata.titles[0])
             #date
-            data.append(MODS.date_constructor(record))
+            data.append(record.metadata.dates[0].text)
             #PURL
-            data.append('[url]%s[/url]' % FSUDL.purl_search(record))
+            data.append('[url]%s[/url]' % record.metadata.purl[0])
             #write to CSV & increase item# index
             writer.writerow(data)
             itemNumber = itemNumber + 1

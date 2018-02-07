@@ -7,29 +7,16 @@ import logging
 import datetime
 import requests
 from lxml import etree
+import pymods
 
 sys.path.append('metadataWorkflowResources/assets/')
 
 import lc_vocab
-from pymods import MODS, FSUDL
+#from pymods import MODS, FSUDL
 
 
 LOC_try_index = 0                     
 error_log = False
-
-def get_subject_list(record):
-    # get lcsh terms
-    subject_list = []
-    for subject in record.iterfind('.//{http://www.loc.gov/mods/v3}subject'):
-        if 'authority' in subject.attrib.keys():
-            if 'lcsh' == subject.attrib['authority']:
-                for child in subject.iterchildren():
-                    for term in child.text.split('||'):
-                        subject_list.append(term.replace(u'\u2014', '--').replace(u'\u2013', '--'))
-                # remove subjects that will be checked & re-added
-                record.remove(subject)
-    return subject_list
-
 
 # init error logger
 logging.basicConfig(filename='addURI_LOG{0}.txt'.format(datetime.date.today()),
@@ -37,21 +24,22 @@ logging.basicConfig(filename='addURI_LOG{0}.txt'.format(datetime.date.today()),
                     format='%(asctime)s -- %(levelname)s : %(message)s',
                     datefmt='%m/%d/%Y %H:%M:%S %p')
 
+
 # loop over MODS record list returned by pymods.mods.load                    
-for record in MODS(sys.argv[1]).record_list:
+for record in pymods.MODSReader(sys.argv[1]):
     record_write = True
     appending_subjects = []
 
     # check timeout index
     while LOC_try_index <= 5:
-        record_IID = FSUDL.local_identifier(record)
+        record_IID = record.iid
         print("Checking:", record_IID)
 
         # loops over keywords 
-        for subject in get_subject_list(record): 
-            URI_search = lc_vocab.uri_lookup(subject, record_IID)
+        for subject in record.subjects: 
+            URI_search = lc_vocab.uri_lookup(subject.text, record_IID)
 
-            if '--' not in subject:
+            if '--' not in subject.text:
                 
                 try:
                         
@@ -71,7 +59,7 @@ for record in MODS(sys.argv[1]).record_list:
                     logging.warning("The request timed out after five seconds. {0}-{1}".format(record_IID, subject))
                     LOC_try_index = LOC_try_index + 1
                 
-            elif '--' in subject:
+            elif '--' in subject.text:
             
                 try: 
                     
