@@ -173,7 +173,7 @@ class uri_lookup:
             return None
         # anything else
         else:
-            logging.warning('Other status code - {0} ; [{1}]--{2}'.format(tgm_lookup.status_code, record_PID, 'lcsh:' + keyword))
+            logging.warning('Other status code - {0} ; [{1}]--{2}'.format(lcsh_lookup.status_code, record_PID, 'lcsh:' + keyword))
             return None
             
     #LCSH complex
@@ -198,5 +198,5 @@ class uri_lookup:
             return None
         # anything else
         else:
-            logging.warning('Other status code - {0} ; [{1}]--{2}'.format(tgm_lookup.status_code, record_PID, 'lcsh:' + keyword))
+            logging.warning('Other status code - {0} ; [{1}]--{2}'.format(lcsh_lookup.status_code, record_PID, 'lcsh:' + keyword))
             return None

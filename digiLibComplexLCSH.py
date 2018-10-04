@@ -3,6 +3,7 @@
 import os
 import re
 import sys
+import time
 import logging
 import datetime
 import requests
@@ -36,9 +37,30 @@ for record in pymods.MODSReader(sys.argv[1]):
         print("Checking:", record_IID)
 
         # loops over keywords 
-        for subject in record.subjects: 
-            URI_search = lc_vocab.uri_lookup(subject.text, record_IID)
+        for subject in record.subjects:
+            URI_search = lc_vocab.uri_lookup(subject.text.replace('&', '%26'), record_IID)
+            
+            try:
+            
+                # TGM subject found
+                if URI_search.tgm() is not None:
+                    appending_subjects.append({'tgm': URI_search.tgm()}) 
+                    LOC_try_index = 0
+                    record_write = True
+                    record.remove(subject.elem)
+                    continue
+                    
+                # no subject found
+                else:
+                    error_log = True
+                    time.sleep(5)
+                    pass
 
+            # catch timeout exception and increase timeout index
+            except requests.exceptions.Timeout:
+                logging.warning("The request timed out after five seconds. {0}-{1}".format(record_IID, subject))
+                LOC_try_index = LOC_try_index + 1
+            
             if '--' not in subject.text:
                 
                 try:
@@ -48,10 +70,12 @@ for record in pymods.MODSReader(sys.argv[1]):
                         appending_subjects.append({'lcsh_simple': URI_search.lcsh()}) #need heading & type
                         LOC_try_index = 0                        
                         record_write = True
+                        record.remove(subject.elem)
                     
                     # no subject found
                     else:
                         error_log = True
+                        time.sleep(5)
                         pass
             
                 # catch timeout exception and increase timeout index
@@ -68,17 +92,19 @@ for record in pymods.MODSReader(sys.argv[1]):
                         appending_subjects.append({'lcsh_complex': URI_search.lcsh_complex()}) #need heading & type
                         LOC_try_index = 0
                         record_write = True
+                        record.remove(subject.elem)
                     
                     # no subject found
                     else:
                         error_log = True
+                        time.sleep(5)
                         pass
                 
                 # catch timeout exception and increase timeout index
                 except requests.exceptions.Timeout:
                     logging.warning("The request timed out after five seconds. {0}-{1}".format(record_IID, subject))
                     LOC_try_index = LOC_try_index + 1
-
+            time.sleep(5)
         break                
                     
     # LOC has timed out multiple times

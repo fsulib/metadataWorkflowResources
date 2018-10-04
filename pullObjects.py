@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+import time
 import requests
 import logging
 import datetime
@@ -55,6 +56,7 @@ def getRecords(pidFile):
         # catch timeout exceptions
         except requests.exceptions.Timeout:
             logging.warning('Request timed out - {0}'.format(pid))
+        time.sleep(5)
 
 # begin building directory structure
 if 'OBJ_packages' not in os.listdir():

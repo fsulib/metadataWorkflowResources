@@ -14,7 +14,7 @@ from optparse import OptionParser
 nDataBytes, nRawBytes, nRecoveries, maxRecoveries = 0, 0, 0, 3
 
 
-def getFile(serverString, command, verbose=1, sleepTime=0):
+def getFile(serverString, command, verbose=1, sleepTime=5):
     global nRecoveries, nDataBytes, nRawBytes
     if sleepTime:
         time.sleep(sleepTime)
