@@ -15,7 +15,7 @@ class lc_subject:
     # TGM simple
     def tgm_simple(subject_LOC_reply): 
         subject_html = subject_LOC_reply.text
-        subject_uri = subject_LOC_reply.url[0:-5]
+        subject_uri = subject_LOC_reply.url[0:-5].replace('https:', 'http:')
         subject_soup = BeautifulSoup(subject_html, 'lxml')
         for authority_div in subject_soup.find_all('div', about=subject_uri):
             
@@ -39,7 +39,7 @@ class lc_subject:
     # LCSH simple    
     def lcsh_simple(subject_LOC_reply):
         subject_html = subject_LOC_reply.text
-        subject_uri = subject_LOC_reply.url[0:-5]
+        subject_uri = subject_LOC_reply.url[0:-5].replace('https:', 'http:')
         subject_soup = BeautifulSoup(subject_html, 'lxml')
         for authority_div in subject_soup.find_all('div', about=subject_uri):
 
@@ -64,7 +64,7 @@ class lc_subject:
     # LCSH complex
     def lcsh_complex(subject_LOC_reply):
         subject_parts = {}
-        subject_parts['URI'] = subject_LOC_reply.url[0:-5]
+        subject_parts['URI'] = subject_LOC_reply.url[0:-5].replace('https:', 'http:')
         
         # indiviual subject elements are return as a list of dicts:
         # heading : term
