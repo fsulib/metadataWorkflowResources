@@ -19,7 +19,8 @@ def zip_it_up(package, dir):
     # zip the stuff
     with ZipFile(os.path.join(PATH, f'{package}.zip'), 'w') as zp:
         for f in os.listdir(os.path.join(PATH, dir)):
-            zp.write(os.path.join(PATH, dir, f), arcname=f)
+            if '.zip' not in f:
+                zp.write(os.path.join(PATH, dir, f), arcname=f)
     print(f'\n{package}.zip written')
 
 
